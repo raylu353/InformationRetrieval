@@ -1,0 +1,285 @@
+FIT5046 Mobile and distributed computing systems - Semester 2, 2014
+This unit provides a high level coverage of mobile and distributed computing. It will focus on the underlying concepts and standards of mobile computing and current technologies for mobile and distributed systems. It will discuss cellular networks, wireless networks and their standards and technologies, context-aware computing, location-awareness, wireless sensor networks, internet mobility, web services and service-oriented technology, cloud computing and current research trends and case studies.
+
+Mode of Delivery
+
+Caulfield (Evening)
+Workload Requirements
+
+Minimum total expected workload equals 12 hours per week comprising:
+
+(a.) Contact hours for on-campus students:
+
+Two hours of lectures
+One 2-hour laboratory
+(b.) Additional requirements (all students):
+
+A minimum of 8 hours independent study per week for completing lab and project work, private study and revision.
+Unit Relationships
+
+Prohibitions
+
+CSE5501
+
+Prerequisites
+
+((FIT5131 or FIT9017) and (FIT5134 or FIT9018) and (FIT5135 or FIT9020)) or equivalent
+Recommended background in Java Programming
+Chief Examiner
+
+Dr Maria Indrawan-Santiago
+
+Campus Lecturer
+
+Caulfield
+
+Pari Delir Haghighi
+
+Tutors
+
+Caulfield
+
+Pari Delir Haghighi
+
+Your feedback to Us
+
+Monash is committed to excellence in education and regularly seeks feedback from students, employers and staff. One of the key formal ways students have to provide feedback is through the Student Evaluation of Teaching and Units (SETU) survey. The University¡¯s student evaluation policy requires that every unit is evaluated each year. Students are strongly encouraged to complete the surveys. The feedback is anonymous and provides the Faculty with evidence of aspects that students are satisfied and areas for improvement.
+
+For more information on Monash¡¯s educational strategy, see:
+
+www.monash.edu.au/about/monash-directions/ and on student evaluations, see: www.policy.monash.edu/policy-bank/academic/education/quality/student-evaluation-policy.html
+
+Previous Student Evaluations of this Unit
+
+The materials have been updated to reflect a strong relationship between lectures and tutorials. In past years (prior to 2011), the lectures and tutorials work were not well aligned.
+
+Some changes to the materials were made in 2011 taking this feedback into consideration. Further changes include introducing another practical programming component well aligned with theory delivered in lectures around the area of mobile computing.
+
+If you wish to view how previous students rated this unit, please go to 
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+
+Academic Overview
+Learning Outcomes
+
+At the completion of this unit students will:
+identify and describe different approaches and methods for building distributed and mobile computing systems;
+evaluate several models and approaches and select suitable mobile computing solution to a particular case;
+propose and develop a mobile or distributed system that is appropriate to a problem domain;
+identify the current research directions in the field and their impacts.
+Unit Schedule
+Week	Activities	Assessment
+0	 	No formal assessment or activities are undertaken in week 0
+1	Introduction to distributed and mobile computing	No Tutorials
+2	Web Services: SOAP	Tutorials start in Week 2
+3	Web Services: WSDL, UDDI, BPEL	 
+4	RESTful Web Services	 
+5	Cellular networks and radio communications	Assignment 1: Practical Assignment Due
+6	Wireless LAN and IEEE 802.11	 
+7	Enabling wireless technologies: Part 1	 
+8	Enabling wireless technologies: Part 2	Assignment 2: Practical Assignment Due
+9	Internet mobility and Mobile IP	 
+10	Wireless Sensor Networks	 
+11	Location-Awareness in mobile environments	Research Paper Presentations
+12	Ubiquitous Computing and Context-Awareness	Research Paper Assignment Due
+ 	SWOT VAC	No formal assessment is undertaken in SWOT VAC
+ 	Examination period	LINK to Assessment Policy: http://policy.monash.edu.au/policy-bank/
+academic/education/assessment/
+assessment-in-coursework-policy.html
+*Unit Schedule details will be maintained and communicated to you via your learning system.
+
+Teaching Approach
+
+Lecture and tutorials or problem classes
+This teaching and learning approach provides facilitated learning, practical exploration and peer learning.
+Assessment Summary
+
+In-semester assessment: 100%
+
+Assessment Task	Value	Due Date
+Assignment 1	20%	Week 5
+Assignment 2	30%	Week 8
+Research Paper Presentation	10%	Week 11
+Research Paper Assignment	40%	Week 12
+Assessment Requirements
+Assessment Policy
+
+Faculty Policy - Unit Assessment Hurdles (http://intranet.monash.edu.au/infotech/resources/staff/edgov/policies/assessment-examinations/assessment-hurdles.html)
+
+Academic Integrity - Please see resources and tutorials at http://www.monash.edu/library/skills/resources/tutorials/academic-integrity/
+
+Assessment Tasks
+
+Participation
+
+Assessment task 1
+
+Title:
+Assignment 1
+Description:
+Practical Assignment.
+
+This task will assess students' practical and programming skills in web services development, deployment and invocation.
+Weighting:
+20%
+Criteria for assessment:
+Individual assignment.
+
+Student work will be assessed based on:
+
+1. The level of accomplishment in each task.
+
+2. The degree the programs meet the specified requirements. 
+
+3. How well the code is written and maintained. 
+
+Due date:
+Week 5
+Assessment task 2
+
+Title:
+Assignment 2
+Description:
+Practical Assignment.
+
+This assignment requires students to work on software development on Android-based devices. The completed assignment needs to be demonstrated using an Android emulator.
+Weighting:
+30%
+Criteria for assessment:
+Individual assignment.
+
+Student work will be assessed based on:
+
+1. The level of accomplishment in each task. 
+
+2. The degree the programs meet the specified requirements.  
+
+3. How well the code is written and maintained. 
+
+Due date:
+Week 8
+Assessment task 3
+
+Title:
+Research Paper Presentation
+Description:
+Presentation of the Research Paper Assignment.
+Weighting:
+10%
+Criteria for assessment:
+Group assignment (groups of 2 to 4).
+
+Student work will be assessed based on:
+
+How well the presentation is organised and content is summarised.
+How well visual aids are used and presented to make the presentation more interesting.
+Clarity of presentation.
+The assignment has a group mark (50%) and an individual component (50%). More details will be provided during the semester.
+
+Due date:
+Week 11
+Assessment task 4
+
+Title:
+Research Paper Assignment
+Description:
+Research Paper that reviews and analyses state of the art studies in the mobile computing area.
+Weighting:
+40%
+Criteria for assessment:
+ Group assignment (groups of 2 to 4).
+
+Student work will be assessed based on:
+
+How well the related literature has been studied.
+How well underlying problem has been addressed demonstrated  in-depth research.
+The appropriateness of the formatted report style.
+The quality of the student's argument and use of critical thinking and analysis skills.
+How well in-text citation and referencing are used.
+The assignment has a group mark (50%) and an individual component (50%). More details will be provided during the semester.
+
+Due date:
+Week 12
+Learning resources
+
+Monash Library Unit Reading List (if applicable to the unit)
+http://readinglists.lib.monash.edu/index.html
+
+Faculty of Information Technology Style Guide
+
+Feedback to you
+
+Examination/other end-of-semester assessment feedback may take the form of feedback classes, provision of sample answers or other group feedback after official results have been published. Please check with your lecturer on the feedback provided and take advantage of this prior to requesting individual consultations with staff. If your unit has an examination, you may request to view your examination script booklet, see http://intranet.monash.edu.au/infotech/resources/students/procedures/request-to-view-exam-scripts.html
+
+Types of feedback you can expect to receive in this unit are:
+
+Informal feedback on progress in labs/tutes
+Graded assignments with comments
+Extensions and penalties
+
+Submission must be made by the due date otherwise penalties will be enforced.
+
+You must negotiate any extensions formally with your campus unit leader via the in-semester special consideration process: http://www.monash.edu.au/exams/special-consideration.html
+
+Returning assignments
+
+Students can expect assignments to be returned within two weeks of the submission date or after receipt, whichever is later.
+
+Assignment submission
+
+It is a University requirement (http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-academic-integrity-managing-plagiarism-collusion-procedures.html) for students to submit an assignment coversheet for each assessment item. Faculty Assignment coversheets can be found at http://www.infotech.monash.edu.au/resources/student/forms/. Please check with your Lecturer on the submission method for your assignment coversheet (e.g. attach a file to the online assignment submission, hand-in a hard copy, or use an online quiz). Please note that it is your responsibility to retain copies of your assessments.
+
+Online submission
+
+If Electronic Submission has been approved for your unit, please submit your work via the learning system for this unit, which you can access via links in the my.monash portal.
+
+Recommended text(s)
+
+George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair. (2012). Distributed Systems, Concepts and Design. (5th Edition) Addison-Wesley.
+
+Gustavo Alonso, Fabio Casati, Harumi Kuno and Vijay Machiraju. (2004). Web Services: Concepts, Architectures and Applications. (2004 Edition) Springer (ISBN: 978-3540440086).
+
+Zigurd Mednieks, Laird Dornin, G. Blake Meike, Masumi Nakamura. (2012). Programming Android: Java Programming for the New Generation of Mobile Devices. (2nd Edition) O'Reilly Media.
+
+Other Information
+Policies
+
+Monash has educational policies, procedures and guidelines, which are designed to ensure that staff and students are aware of the University¡¯s academic standards, and to provide advice on how they might uphold them. You can find Monash¡¯s Education Policies at: www.policy.monash.edu.au/policy-bank/academic/education/index.html
+
+Key educational policies include:
+
+Student Academic Integrity Policy and Student Academic Integrity: Managing Plagiarism and Collusion Procedures ; http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-academic-integrity-policy.html
+Assessment in Coursework Programs; http://www.policy.monash.edu/policy-bank/academic/education/assessment/assessment-in-coursework-policy.html
+Special Consideration; http://www.policy.monash.edu/policy-bank/academic/education/assessment/special-consideration-policy.html
+Grading Scale; http://www.policy.monash.edu/policy-bank/academic/education/assessment/grading-scale-policy.html
+Discipline: Student Policy; http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-discipline-policy.html
+Academic Calendar and Semesters; http://www.monash.edu.au/students/dates/
+Orientation and Transition; http://intranet.monash.edu.au/infotech/resources/students/orientation/
+Academic and Administrative Complaints and Grievances Policy; http://www.policy.monash.edu/policy-bank/academic/education/management/complaints-grievance-policy.html
+Faculty resources and policies
+
+Important student resources including Faculty policies are located at http://intranet.monash.edu.au/infotech/resources/students/
+
+Graduate Attributes Policy
+
+http://www.policy.monash.edu/policy-bank/academic/education/management/monash-graduate-attributes-policy.html
+
+Student Charter
+
+www.opq.monash.edu.au/ep/student-charter/monash-university-student-charter.html
+
+Student services
+
+The University provides many different kinds of support services for you. Contact your tutor if you need advice and see the range of services available at http://www.monash.edu.au/students. For Malaysia see http://www.monash.edu.my/Student-services, and for South Africa see http://www.monash.ac.za/current/.
+
+Monash University Library
+
+The Monash University Library provides a range of services, resources and programs that enable you to save time and be more effective in your learning and research. Go to www.lib.monash.edu.au or the library tab in my.monash portal for more information. At Malaysia, visit the Library and Learning Commons at http://www.lib.monash.edu.my/. At South Africa visit http://www.lib.monash.ac.za/.
+
+Disability Liaison Unit
+
+Students who have a disability or medical condition are welcome to contact the Disability Liaison Unit to discuss academic support services. Disability Liaison Officers (DLOs) visit all Victorian campuses on a regular basis.
+
+Website: http://www.monash.edu/equity-diversity/disability/index.html
+Telephone: 03 9905 5704 to book an appointment with a DLO; or contact the Student Advisor, Student Commuity Services at 03 55146018 at Malaysia
+Email: dlu@monash.edu
+Drop In: Equity and Diversity Centre, Level 1, Building 55, Clayton Campus, or Student Community Services Department, Level 2, Building 2, Monash University, Malaysia Campus

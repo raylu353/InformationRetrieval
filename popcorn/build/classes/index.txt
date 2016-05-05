@@ -1,0 +1,3249 @@
+categor,USCongress.txt,1,2.833
+carrier,USCongress.txt,1,2.833
+cbo,USCongress.txt,1,2.833
+versu,USCongress.txt,2.099,2.833
+match,USCongress.txt,1,2.833
+motion,USCongress.txt,1,2.833
+greatest,WeThePeople.txt,1.693,2.833
+fled,WeThePeople.txt,1,2.833
+flee,WeThePeople.txt,1,2.833
+distinct,USCongress.txt,1,2.833
+senate casual vacancies,chapter1-TheParliament.txt,2.099,2.833
+wall street journal,USCongress.txt,1,2.833
+xxvii,chapter1-TheParliament.txt,1,2.833
+safe,USCongress.txt,1,2.833
+tba,FIT5166.txt,1.693,2.833
+reconsid,WeThePeople.txt,1.693,2.833
+reelect,USCongress.txt,3.485,2.833
+long-time,USCongress.txt,1,2.833
+econom,USCongress.txt,2.386,2.833
+divers,USCongress.txt,2.386,2.833
+1895,preamble.txt,1,2.833
+dozen,USCongress.txt,1,2.833
+argument,FIT5046.txt,1,2.833
+carriag,chapter4-FinanceAndTrade.txt,1.693,2.833
+stephen r,FIT5136.txt,1,2.833
+1885,preamble.txt,1,2.833
+lead,USCongress.txt,2.099,2.833
+payoff,USCongress.txt,1,2.833
+1890,USCongress.txt,1,2.833
+bigger,USCongress.txt,1.693,2.833
+1970s,USCongress.txt,1,2.833
+leap,USCongress.txt,1,2.833
+1870,USCongress.txt,1,2.833
+assert,USCongress.txt,1,2.833
+weak,USCongress.txt,1.693,2.833
+tates',WeThePeople.txt,1,2.833
+new states,WeThePeople.txt,1,2.833
+wear,USCongress.txt,1,2.833
+testimoni,WeThePeople.txt,1,2.833
+1868,USCongress.txt,2.099,2.833
+11practical,FIT5166.txt,1,2.833
+opportun,UKParliament.txt,1,2.833
+1865,USCongress.txt,1,2.833
+australasian colonies,preamble.txt,1,2.833
+meteorolog,chapter1-TheParliament.txt,1,2.833
+goal,USCongress.txt,1,2.833
+ethnic,USCongress.txt,1,2.833
+1857,USCongress.txt,1,2.833
+routin,USCongress.txt,1,2.833
+all-time,USCongress.txt,1,2.833
+article four,USCongress.txt,1,2.833
+199,USCongress.txt,1,2.833
+1855,USCongress.txt,1.693,2.833
+reach,USCongress.txt,2.099,2.833
+justifi,USCongress.txt,1,2.833
+300-per-night,USCongress.txt,1,2.833
+roblem,FIT5047.txt,1.693,2.833
+simple linguistic analysesquizzes,FIT5166.txt,1,2.833
+insolv,chapter1-TheParliament.txt,2.099,2.833
+8unit,FIT5166.txt,1,2.833
+massachusett,WeThePeople.txt,1,2.833
+behav,USCongress.txt,1,2.833
+weaken,USCongress.txt,1,2.833
+183,USCongress.txt,1.693,2.833
+recognis,chapter1-TheParliament.txt,1,2.833
+russel,FIT5047.txt,1,2.833
+henry clay,USCongress.txt,1,2.833
+9supervised,FIT5047.txt,1,2.833
+178,USCongress.txt,1.693,2.833
+177,USCongress.txt,1,2.833
+176,USCongress.txt,1,2.833
+175,USCongress.txt,1.693,2.833
+173,USCongress.txt,1.693,2.833
+172,USCongress.txt,1,2.833
+171,USCongress.txt,1,2.833
+170,USCongress.txt,1,2.833
+no state,WeThePeople.txt,2.099,2.833
+idea,USCongress.txt,2.099,2.833
+underrepres,USCongress.txt,1,2.833
+higher,chapter4-FinanceAndTrade.txt,1.693,2.833
+john boehner,USCongress.txt,1,2.833
+gallup,USCongress.txt,1,2.833
+desk,USCongress.txt,1,2.833
+expend,chapter4-FinanceAndTrade.txt,1,2.833
+169,USCongress.txt,2.386,2.833
+ocean,chapter4-FinanceAndTrade.txt,1,2.833
+168,USCongress.txt,1,2.833
+1820,USCongress.txt,1,2.833
+167,USCongress.txt,1,2.833
+166,USCongress.txt,1,2.833
+165,USCongress.txt,1.693,2.833
+substitut,Schedule.txt,1,2.833
+164,USCongress.txt,1,2.833
+163,USCongress.txt,1.693,2.833
+162,USCongress.txt,1,2.833
+161,USCongress.txt,1,2.833
+160,USCongress.txt,1,2.833
+sink,chapter4-FinanceAndTrade.txt,1,2.833
+1812,USCongress.txt,1.693,2.833
+1815,USCongress.txt,1.693,2.833
+ninth section,WeThePeople.txt,1,2.833
+1817,USCongress.txt,1,2.833
+ineffect,USCongress.txt,1,2.833
+1818,USCongress.txt,1,2.833
+159,USCongress.txt,1,2.833
+158,USCongress.txt,1,2.833
+157,USCongress.txt,1,2.833
+156,USCongress.txt,1,2.833
+155,USCongress.txt,1,2.833
+154,USCongress.txt,1,2.833
+153,USCongress.txt,1.693,2.833
+152,USCongress.txt,1,2.833
+151,USCongress.txt,1,2.833
+150,USCongress.txt,1.693,2.833
+adjudg,chapter4-FinanceAndTrade.txt,1,2.833
+dissent,UKParliament.txt,1,2.833
+1803,USCongress.txt,1.693,2.833
+vast,USCongress.txt,1.693,2.833
+counti,UKParliament.txt,1.693,2.833
+149,USCongress.txt,1.693,2.833
+148,USCongress.txt,1,2.833
+147,USCongress.txt,1,2.833
+146,USCongress.txt,1,2.833
+chartist,UKParliament.txt,1,2.833
+145,USCongress.txt,2.099,2.833
+144,USCongress.txt,1,2.833
+1800,USCongress.txt,1.693,2.833
+143,USCongress.txt,1,2.833
+patrick leahy,USCongress.txt,1,2.833
+142,USCongress.txt,1,2.833
+141,USCongress.txt,1,2.833
+140,USCongress.txt,1.693,2.833
+the connecticut compromise,USCongress.txt,1,2.833
+william beckford,UKParliament.txt,1,2.833
+computeris,FIT5166.txt,1,2.833
+practitioner's,FIT5136.txt,1,2.833
+implic,FIT5136.txt,1,2.833
+139,USCongress.txt,1.693,2.833
+138,USCongress.txt,1,2.833
+audit,chapter4-FinanceAndTrade.txt,1,2.833
+137,USCongress.txt,1,2.833
+136,USCongress.txt,1,2.833
+135,USCongress.txt,1,2.833
+134,USCongress.txt,1,2.833
+133,USCongress.txt,1,2.833
+in november,UKParliament.txt,1,2.833
+132,USCongress.txt,1,2.833
+131,USCongress.txt,1,2.833
+130,USCongress.txt,1.693,2.833
+languag,USCongress.txt,1,2.833
+indian tribes,WeThePeople.txt,1,2.833
+prentice-hall,FIT5047.txt,1,2.833
+secretari,USCongress.txt,1,2.833
+sue,chapter1-TheParliament.txt,1,2.833
+sincer,Schedule.txt,1,2.833
+coalit,UKParliament.txt,1,2.833
+129,USCongress.txt,1.693,2.833
+two-year,USCongress.txt,1.693,2.833
+mission,USCongress.txt,2.099,2.833
+7bayesian,FIT5047.txt,1,2.833
+federal supreme court,chapter3-TheJudicature.txt,1,2.833
+scandal,USCongress.txt,1.693,2.833
+audienc,USCongress.txt,1,2.833
+specialti,USCongress.txt,1.693,2.833
+transgress,USCongress.txt,1,2.833
+a person,WeThePeople.txt,1,2.833
+paint,USCongress.txt,1,2.833
+self-test,FIT5166.txt,1,2.833
+non-legislative,USCongress.txt,1,2.833
+hospit,chapter1-TheParliament.txt,1,2.833
+inflict,USCongress.txt,1,2.833
+communicationsassign,FIT5046.txt,1,2.833
+no capitation,WeThePeople.txt,1,2.833
+incorpor,chapter1-TheParliament.txt,1.693,2.833
+president franklin roosevelt,USCongress.txt,1,2.833
+impoundment control act,USCongress.txt,1.693,2.833
+extrem,USCongress.txt,1.693,2.833
+dormant,USCongress.txt,1,2.833
+cbo director,USCongress.txt,1,2.833
+james madison,USCongress.txt,1,2.833
+clerk,USCongress.txt,1,2.833
+highli,USCongress.txt,1,2.833
+old-age,chapter1-TheParliament.txt,1,2.833
+tenur,USCongress.txt,1,2.833
+social,USCongress.txt,1,2.833
+lobbi,USCongress.txt,2.792,2.833
+google documents,FIT5136.txt,1,2.833
+composit,chapter1-TheParliament.txt,1,2.833
+fit5047 intelligent,FIT5047.txt,1,2.833
+racial,USCongress.txt,1,2.833
+dr maria indrawan-santiago,FIT5046.txt,1,2.833
+box,USCongress.txt,1,2.833
+xxxi,chapter1-TheParliament.txt,1,2.833
+closed-book,FIT5166.txt,1,2.833
+xxxv,chapter1-TheParliament.txt,1,2.833
+reshap,USCongress.txt,1,2.833
+1.3,USCongress.txt,1,2.833
+context-aware,FIT5046.txt,1,2.833
+proclaim,chapter2-TheExecutiveGovernment.txt,1,2.833
+modif,chapter1-TheParliament.txt,1,2.833
+spa,USCongress.txt,1,2.833
+norvig,FIT5047.txt,1,2.833
+11ethics,FIT5136.txt,1,2.833
+split,USCongress.txt,1,2.833
+son,UKParliament.txt,1,2.833
+northern,preamble.txt,1,2.833
+xxvi,chapter1-TheParliament.txt,1,2.833
+indirectli,chapter1-TheParliament.txt,1,2.833
+hide,USCongress.txt,1,2.833
+multimedia,FIT5166.txt,1,2.833
+comfort,WeThePeople.txt,1,2.833
+southern democrats,USCongress.txt,1,2.833
+discoveri,WeThePeople.txt,1,2.833
+prestig,USCongress.txt,1,2.833
+of admiralty,chapter3-TheJudicature.txt,1,2.833
+side,USCongress.txt,1.693,2.833
+in case,WeThePeople.txt,1,2.833
+tradition,USCongress.txt,1,2.833
+bpel,FIT5046.txt,1,2.833
+d.c,USCongress.txt,2.099,2.833
+11location-awareness,FIT5046.txt,1,2.833
+world,USCongress.txt,1.693,2.833
+constitution's,USCongress.txt,1,2.833
+dissolut,chapter1-TheParliament.txt,3.398,2.833
+proportion,chapter8-AlterationOfTheConstitution.txt,1,2.833
+valu,USCongress.txt,1.693,2.833
+paragraph,chapter1-TheParliament.txt,1.693,2.833
+reconsider,WeThePeople.txt,1,2.833
+u.s,USCongress.txt,2.792,2.833
+experi,USCongress.txt,1.693,2.833
+this act,preamble.txt,1.693,2.833
+the privilege,WeThePeople.txt,1,2.833
+decid,USCongress.txt,2.099,2.833
+wrongdo,USCongress.txt,1.693,2.833
+20th,USCongress.txt,1.693,2.833
+four-fifths,chapter4-FinanceAndTrade.txt,1,2.833
+promin,USCongress.txt,1,2.833
+join,USCongress.txt,1,2.833
+promis,USCongress.txt,1,2.833
+autom,FIT5047.txt,1,2.833
+sick,chapter1-TheParliament.txt,1,2.833
+senator kay hagan,USCongress.txt,1,2.833
+nothingneith,USCongress.txt,1,2.833
+billand,USCongress.txt,1,2.833
+expert,USCongress.txt,2.386,2.833
+big,USCongress.txt,1.693,2.833
+bipartisanship,USCongress.txt,2.099,2.833
+avoid,USCongress.txt,1.693,2.833
+adjud,chapter4-FinanceAndTrade.txt,1,2.833
+marriag,chapter1-TheParliament.txt,1,2.833
+fit5132,FIT5166.txt,1,2.833
+fit5134,FIT5046.txt,1,2.833
+fit5135,FIT5046.txt,1,2.833
+7th,FIT5136.txt,1,2.833
+roosevelt,USCongress.txt,1,2.833
+bound,WeThePeople.txt,2.386,2.833
+promot,WeThePeople.txt,1.693,2.833
+972,USCongress.txt,1,2.833
+faithfulli,WeThePeople.txt,1.693,2.833
+repress,UKParliament.txt,1.693,2.833
+multiple choice questions,FIT5166.txt,1.693,2.833
+data mining,FIT5047.txt,1,2.833
+deep,USCongress.txt,1,2.833
+compet,chapter1-TheParliament.txt,1,2.833
+assessments25weekly,FIT5136.txt,1,2.833
+complain,USCongress.txt,1.693,2.833
+between states,chapter3-TheJudicature.txt,1,2.833
+ten-year,USCongress.txt,1,2.833
+clicker test,FIT5166.txt,1.693,2.833
+dred scott,USCongress.txt,1,2.833
+roll-call,USCongress.txt,1,2.833
+952,USCongress.txt,1,2.833
+postgradu,FIT5136.txt,1,2.833
+reviewassess,FIT5136.txt,1,2.833
+probabilistic modelassignment stage,FIT5166.txt,1,2.833
+karan pedramrazi,FIT5136.txt,1,2.833
+therewith,chapter1-TheParliament.txt,1,2.833
+the house financial services,USCongress.txt,1,2.833
+hanoverian king george i,UKParliament.txt,1,2.833
+1introductionsno,FIT5136.txt,1,2.833
+river,chapter4-FinanceAndTrade.txt,1,2.833
+knowledge representation1022 august,FIT5047.txt,1,2.833
+knowledge representation,FIT5047.txt,1,2.833
+founder,USCongress.txt,1,2.833
+plummet,USCongress.txt,1,2.833
+plame,USCongress.txt,1,2.833
+insuffici,chapter4-FinanceAndTrade.txt,1,2.833
+the times,WeThePeople.txt,1,2.833
+mobile ip,FIT5046.txt,1,2.833
+civic,USCongress.txt,1,2.833
+icon,USCongress.txt,1,2.833
+allianc,WeThePeople.txt,1,2.833
+deal,chapter1-TheParliament.txt,2.946,2.833
+expound,USCongress.txt,1,2.833
+president clinton,USCongress.txt,1,2.833
+drive,USCongress.txt,1,2.833
+admiralti,WeThePeople.txt,1,2.833
+subsect,chapter4-FinanceAndTrade.txt,1,2.833
+reus,FIT5136.txt,1,2.833
+every state,chapter5-TheStates.txt,1,2.833
+narrowli,USCongress.txt,1,2.833
+xxii,chapter1-TheParliament.txt,1,2.833
+loath,USCongress.txt,1,2.833
+xxix,chapter1-TheParliament.txt,1,2.833
+xxiv,chapter1-TheParliament.txt,1,2.833
+summaris,FIT5046.txt,1,2.833
+ban,USCongress.txt,1,2.833
+artificial intelligence,FIT5047.txt,1,2.833
+decre,chapter3-TheJudicature.txt,1,2.833
+hopper,USCongress.txt,1,2.833
+front,USCongress.txt,1,2.833
+900,USCongress.txt,1,2.833
+favor,USCongress.txt,1.693,2.833
+roosevelt's,USCongress.txt,1,2.833
+histor,USCongress.txt,3.079,2.833
+differ,USCongress.txt,2.792,2.833
+kingdom,UKParliament.txt,1,2.833
+move,USCongress.txt,1,2.833
+dislik,USCongress.txt,1,2.833
+rest,WeThePeople.txt,1,2.833
+clout,USCongress.txt,1,2.833
+inventor,WeThePeople.txt,1,2.833
+sheet,FIT5166.txt,1,2.833
+federalist,USCongress.txt,1.693,2.833
+insert,USCongress.txt,1,2.833
+hereinaft,chapter1-TheParliament.txt,1,2.833
+largest,USCongress.txt,1,2.833
+job,USCongress.txt,2.386,2.833
+fact-finding,USCongress.txt,1,2.833
+acquitt,USCongress.txt,1,2.833
+1782,UKParliament.txt,1,2.833
+1783,UKParliament.txt,1,2.833
+imagin,USCongress.txt,1,2.833
+1785,UKParliament.txt,1,2.833
+1787,USCongress.txt,2.099,2.833
+government's,USCongress.txt,1,2.833
+usabl,USCongress.txt,1,2.833
+daili,USCongress.txt,1,2.833
+england,UKParliament.txt,1.693,2.833
+georgia,WeThePeople.txt,1,2.833
+1776,USCongress.txt,1,2.833
+cloud,FIT5046.txt,1,2.833
+external affairs,chapter1-TheParliament.txt,1,2.833
+simpli,USCongress.txt,1,2.833
+broadli,USCongress.txt,1,2.833
+lucr,USCongress.txt,1,2.833
+1780,UKParliament.txt,1,2.833
+1781,USCongress.txt,1,2.833
+records administration,USCongress.txt,1,2.833
+shut,USCongress.txt,1.693,2.833
+onward,FIT5166.txt,2.792,2.833
+the person,WeThePeople.txt,1,2.833
+soaptutori,FIT5046.txt,1,2.833
+congress jefferson building,USCongress.txt,1,2.833
+every house,chapter1-TheParliament.txt,1,2.833
+thomas jefferson,USCongress.txt,1,2.833
+born,WeThePeople.txt,1,2.833
+1830s1900s,USCongress.txt,2.099,2.833
+freedom,USCongress.txt,2.386,2.833
+caus,USCongress.txt,2.099,2.833
+labour,WeThePeople.txt,2.099,2.833
+arbitr,chapter1-TheParliament.txt,1,2.833
+surplu,chapter4-FinanceAndTrade.txt,2.386,2.833
+non-profit,USCongress.txt,1,2.833
+australian,chapter1-TheParliament.txt,1,2.833
+guard,USCongress.txt,1,2.833
+9internet,FIT5046.txt,1,2.833
+care,WeThePeople.txt,1,2.833
+card,USCongress.txt,1,2.833
+waxman,USCongress.txt,1,2.833
+capitol hill,USCongress.txt,1,2.833
+destin,preamble.txt,1,2.833
+widows',chapter1-TheParliament.txt,1,2.833
+viii,chapter1-TheParliament.txt,1,2.833
+cash,USCongress.txt,1,2.833
+research paper assignment40week,FIT5046.txt,1,2.833
+insurrect,WeThePeople.txt,1,2.833
+representative henry a,USCongress.txt,1,2.833
+5analysis,FIT5136.txt,1,2.833
+6wireless,FIT5046.txt,1,2.833
+1727,UKParliament.txt,1,2.833
+new generation,FIT5046.txt,1,2.833
+cse5501,FIT5046.txt,1,2.833
+seventeenth amendment,USCongress.txt,1,2.833
+obstruct,USCongress.txt,1,2.833
+moni,USCongress.txt,1,2.833
+bond,USCongress.txt,1,2.833
+honorarium,chapter1-TheParliament.txt,1,2.833
+proper clause,USCongress.txt,1.693,2.833
+2the,FIT5166.txt,1,2.833
+associ,USCongress.txt,1,2.833
+african americans,USCongress.txt,1,2.833
+1714,UKParliament.txt,1,2.833
+capac,chapter7-Miscellaneous.txt,1,2.833
+show,WeThePeople.txt,1,2.833
+android,FIT5046.txt,1,2.833
+shop,USCongress.txt,1,2.833
+unus,USCongress.txt,1,2.833
+1780s1820s,USCongress.txt,2.099,2.833
+so help me god,Schedule.txt,1,2.833
+1706,UKParliament.txt,1,2.833
+1708,UKParliament.txt,1,2.833
+overlap,USCongress.txt,2.386,2.833
+1701,UKParliament.txt,1,2.833
+effici,USCongress.txt,1,2.833
+defens,USCongress.txt,2.099,2.833
+difficulti,FIT5136.txt,1,2.833
+discov,UKParliament.txt,1,2.833
+providence plantations,WeThePeople.txt,1,2.833
+decision supportassignment,FIT5047.txt,1,2.833
+one-fourth,chapter4-FinanceAndTrade.txt,1,2.833
+run,USCongress.txt,2.609,2.833
+the library,USCongress.txt,1.693,2.833
+disregard,USCongress.txt,1,2.833
+obvers,USCongress.txt,1,2.833
+strength,USCongress.txt,1,2.833
+simultaneous elections,chapter1-TheParliament.txt,1,2.833
+processlegisl,USCongress.txt,1,2.833
+essenti,USCongress.txt,2.386,2.833
+wilson,USCongress.txt,1,2.833
+broker,USCongress.txt,1,2.833
+suppress,WeThePeople.txt,1,2.833
+poverti,USCongress.txt,1,2.833
+1introductionthere,FIT5166.txt,1,2.833
+vice,USCongress.txt,2.099,2.833
+broken,USCongress.txt,1,2.833
+popular,USCongress.txt,2.609,2.833
+aristocraci,UKParliament.txt,1,2.833
+3web,FIT5046.txt,1,2.833
+heterogen,FIT5166.txt,1,2.833
+postur,USCongress.txt,1,2.833
+american bar association,USCongress.txt,1,2.833
+architectur,FIT5046.txt,1,2.833
+2pm-4pm,FIT5166.txt,1,2.833
+unemploi,USCongress.txt,1,2.833
+george ii's,UKParliament.txt,1,2.833
+000,USCongress.txt,2.609,2.833
+fabio casati,FIT5046.txt,1,2.833
+testifi,USCongress.txt,2.386,2.833
+7enabling,FIT5046.txt,1,2.833
+officio,USCongress.txt,1,2.833
+802.11,FIT5046.txt,1,2.833
+john wilkes,UKParliament.txt,1,2.833
+english,UKParliament.txt,2.609,2.833
+erect,WeThePeople.txt,1.693,2.833
+scottish,UKParliament.txt,1,2.833
+pid88267,FIT5047.txt,1,2.833
+simultan,chapter1-TheParliament.txt,1,2.833
+unemploy,chapter1-TheParliament.txt,1,2.833
+prejudic,WeThePeople.txt,1,2.833
+ferment,chapter5-TheStates.txt,1,2.833
+vector-space,FIT5166.txt,1,2.833
+unnecessari,USCongress.txt,1,2.833
+infight,USCongress.txt,1.693,2.833
+controul,WeThePeople.txt,1,2.833
+compromis,USCongress.txt,2.946,2.833
+distil,chapter5-TheStates.txt,1,2.833
+object-oriented analysis,FIT5136.txt,1,2.833
+abroad,USCongress.txt,1,2.833
+duli,chapter1-TheParliament.txt,1,2.833
+resolv,USCongress.txt,2.099,2.833
+the number,WeThePeople.txt,1,2.833
+new zealand,preamble.txt,1,2.833
+efolio,FIT5136.txt,2.099,2.833
+favour,chapter4-FinanceAndTrade.txt,1,2.833
+first-mentioned,chapter8-AlterationOfTheConstitution.txt,2.386,2.833
+postal,chapter1-TheParliament.txt,1,2.833
+sensor,FIT5046.txt,1,2.833
+famou,USCongress.txt,1,2.833
+achin,FIT5047.txt,1.693,2.833
+touch,USCongress.txt,1,2.833
+todai,USCongress.txt,1.693,2.833
+north america,USCongress.txt,1,2.833
+hamilton,USCongress.txt,1.693,2.833
+prorogu,chapter1-TheParliament.txt,1,2.833
+xxviii,chapter1-TheParliament.txt,1,2.833
+movement,USCongress.txt,1,2.833
+royal,UKParliament.txt,1.693,2.833
+atom,USCongress.txt,1,2.833
+citi,UKParliament.txt,1.693,2.833
+zeliz,USCongress.txt,1,2.833
+budget outlook,USCongress.txt,1,2.833
+senator joseph mccarthy,USCongress.txt,1,2.833
+fisheri,chapter1-TheParliament.txt,1,2.833
+polar,USCongress.txt,1,2.833
+speak,USCongress.txt,1,2.833
+xviii,chapter1-TheParliament.txt,1,2.833
+yield,USCongress.txt,1,2.833
+local,USCongress.txt,1,2.833
+information retrieval system implementation,FIT5166.txt,1,2.833
+father's,UKParliament.txt,1,2.833
+quiz10to,FIT5136.txt,1,2.833
+likelihood,USCongress.txt,1,2.833
+federal executive council,chapter2-TheExecutiveGovernment.txt,2.099,2.833
+cse5610,FIT5047.txt,1,2.833
+on-line,FIT5136.txt,2.609,2.833
+every order,WeThePeople.txt,1,2.833
+norman ornstein,USCongress.txt,1,2.833
+sensit,USCongress.txt,2.099,2.833
+schulman,USCongress.txt,1,2.833
+senateand,USCongress.txt,1,2.833
+6.1.2,USCongress.txt,1,2.833
+6.1.1,USCongress.txt,1,2.833
+6.1.4,USCongress.txt,1,2.833
+6.1.3,USCongress.txt,1,2.833
+eighty-onentil,chapter1-TheParliament.txt,1,2.833
+inabl,WeThePeople.txt,1.693,2.833
+undu,chapter4-FinanceAndTrade.txt,1.693,2.833
+effluxion,chapter1-TheParliament.txt,1,2.833
+patronag,UKParliament.txt,2.099,2.833
+scope,USCongress.txt,1,2.833
+perjuri,USCongress.txt,1,2.833
+monarch,UKParliament.txt,1.693,2.833
+150to,FIT5166.txt,1,2.833
+atla,USCongress.txt,1,2.833
+atif,WeThePeople.txt,1,2.833
+washington,USCongress.txt,2.609,2.833
+nullifi,USCongress.txt,1.693,2.833
+the thirteenth,USCongress.txt,1,2.833
+6pm,FIT5166.txt,1.693,2.833
+pose,USCongress.txt,2.099,2.833
+peacefulli,USCongress.txt,1,2.833
+the articles,USCongress.txt,1,2.833
+add,USCongress.txt,1,2.833
+research paper,FIT5046.txt,1,2.833
+state legislature,WeThePeople.txt,1,2.833
+duck,USCongress.txt,1,2.833
+red,USCongress.txt,1.693,2.833
+12ubiquitous,FIT5046.txt,1,2.833
+a congress,USCongress.txt,1,2.833
+special-interest,USCongress.txt,1,2.833
+anti-federalists,USCongress.txt,1,2.833
+george i's,UKParliament.txt,1,2.833
+uncertainti,FIT5047.txt,1,2.833
+overt,WeThePeople.txt,1,2.833
+fast,USCongress.txt,1,2.833
+photo,USCongress.txt,2.099,2.833
+ever-increasing,USCongress.txt,1,2.833
+practical assignment due,FIT5046.txt,1.693,2.833
+consolid,chapter4-FinanceAndTrade.txt,1.693,2.833
+contemporari,USCongress.txt,2.099,2.833
+southern,USCongress.txt,1,2.833
+poster,WeThePeople.txt,1,2.833
+803,USCongress.txt,1,2.833
+the electors,WeThePeople.txt,1,2.833
+object-oriented software engineering,FIT5136.txt,1,2.833
+redempt,chapter4-FinanceAndTrade.txt,1,2.833
+unit preparation5from week,FIT5166.txt,1,2.833
+younger,UKParliament.txt,1,2.833
+year one,WeThePeople.txt,1,2.833
+tennesse,USCongress.txt,1,2.833
+quota,chapter1-TheParliament.txt,2.099,2.833
+poor,UKParliament.txt,1,2.833
+australasia act,preamble.txt,1,2.833
+sensat,USCongress.txt,1,2.833
+unrest,UKParliament.txt,1,2.833
+in-text,FIT5046.txt,1,2.833
+growth,USCongress.txt,1,2.833
+joe biden,USCongress.txt,1,2.833
+ambassador,WeThePeople.txt,2.386,2.833
+ractic,FIT5047.txt,1,2.833
+content-based,FIT5166.txt,1,2.833
+problem solving,FIT5047.txt,1,2.833
+lords spiritual,preamble.txt,1,2.833
+scholar julian zeliger,USCongress.txt,1,2.833
+membership,USCongress.txt,1,2.833
+interact,USCongress.txt,1,2.833
+frequent,USCongress.txt,1,2.833
+death,WeThePeople.txt,1.693,2.833
+wenty-six,chapter1-TheParliament.txt,1,2.833
+abridg,chapter4-FinanceAndTrade.txt,1,2.833
+image retrieval,FIT5166.txt,1,2.833
+the democratic party,USCongress.txt,1,2.833
+fals,USCongress.txt,1,2.833
+3.1.3,USCongress.txt,1,2.833
+3.1.2,USCongress.txt,1,2.833
+3.1.1,USCongress.txt,1,2.833
+vice president.8,WeThePeople.txt,1,2.833
+simpl,USCongress.txt,2.609,2.833
+chamber,USCongress.txt,3.197,2.833
+matern,chapter1-TheParliament.txt,1,2.833
+poll,USCongress.txt,2.386,2.833
+overridden,USCongress.txt,1,2.833
+perfect,WeThePeople.txt,1,2.833
+prefer,chapter4-FinanceAndTrade.txt,2.386,2.833
+liquid,chapter5-TheStates.txt,1.693,2.833
+inhabit,WeThePeople.txt,2.099,2.833
+subscrib,chapter1-TheParliament.txt,1,2.833
+railroad,USCongress.txt,1,2.833
+event,USCongress.txt,1,2.833
+library's,USCongress.txt,1.693,2.833
+fall,USCongress.txt,1,2.833
+disallow,chapter1-TheParliament.txt,2.099,2.833
+zigurd mednieks,FIT5046.txt,1,2.833
+prolong,USCongress.txt,1,2.833
+the justices,chapter3-TheJudicature.txt,1,2.833
+concis,USCongress.txt,1,2.833
+declin,USCongress.txt,1,2.833
+fit5046 mobile,FIT5046.txt,1,2.833
+repris,WeThePeople.txt,1.693,2.833
+indissolubl,preamble.txt,1,2.833
+agricultur,USCongress.txt,1,2.833
+anti-administration party,USCongress.txt,1,2.833
+fair,chapter4-FinanceAndTrade.txt,1,2.833
+slaveri,USCongress.txt,1,2.833
+safeti,WeThePeople.txt,1,2.833
+united states code,USCongress.txt,1,2.833
+unreason,chapter4-FinanceAndTrade.txt,1.693,2.833
+xecut,WeThePeople.txt,1,2.833
+'nonessential,USCongress.txt,1,2.833
+the migration,WeThePeople.txt,1,2.833
+unit preparation,FIT5166.txt,1,2.833
+president's budgetary proposals,USCongress.txt,1,2.833
+thomas reed,USCongress.txt,1,2.833
+depriv,WeThePeople.txt,1,2.833
+rough-and-tumble,USCongress.txt,1,2.833
+lawrence lessig,USCongress.txt,1,2.833
+johnson's great society,USCongress.txt,1,2.833
+debatetim,USCongress.txt,1,2.833
+re-establish,UKParliament.txt,1,2.833
+father,USCongress.txt,1,2.833
+conflict,USCongress.txt,1,2.833
+vital,USCongress.txt,1.693,2.833
+intercours,chapter4-FinanceAndTrade.txt,1,2.833
+guid,USCongress.txt,1,2.833
+campaign,USCongress.txt,3.079,2.833
+concentr,USCongress.txt,1.693,2.833
+hunger,USCongress.txt,1,2.833
+johnson's,USCongress.txt,1,2.833
+3knowledge,FIT5047.txt,1,2.833
+demograph,USCongress.txt,1,2.833
+nicholson,FIT5047.txt,1,2.833
+120week,FIT5046.txt,1,2.833
+fund-raising,USCongress.txt,1,2.833
+captur,WeThePeople.txt,1,2.833
+junction,WeThePeople.txt,1,2.833
+ratio,USCongress.txt,1,2.833
+mobile devices,FIT5046.txt,1,2.833
+face,USCongress.txt,1.693,2.833
+rebellion,WeThePeople.txt,1,2.833
+excess,USCongress.txt,1,2.833
+chief justice william rehnquist,USCongress.txt,1,2.833
+first party,USCongress.txt,1,2.833
+abus,USCongress.txt,1,2.833
+upheld,chapter1-TheParliament.txt,1,2.833
+announc,USCongress.txt,1.693,2.833
+vice-president,USCongress.txt,1.693,2.833
+conservative coalition,USCongress.txt,1,2.833
+concur,WeThePeople.txt,1.693,2.833
+12agent-based,FIT5047.txt,1,2.833
+programm,UKParliament.txt,1,2.833
+wield,USCongress.txt,1,2.833
+originalist,USCongress.txt,1,2.833
+congression,USCongress.txt,4.689,2.833
+north korean,USCongress.txt,1,2.833
+democraci,USCongress.txt,1.693,2.833
+fire,USCongress.txt,1,2.833
+flexibl,USCongress.txt,1,2.833
+firm,UKParliament.txt,1,2.833
+7language,FIT5166.txt,1,2.833
+profess,USCongress.txt,1,2.833
+from wikipedia,USCongress.txt,1,2.833
+white house,USCongress.txt,1.693,2.833
+extraordinari,WeThePeople.txt,1,2.833
+three-fifths,chapter4-FinanceAndTrade.txt,1,2.833
+queen anne,UKParliament.txt,1,2.833
+leadership,USCongress.txt,2.386,2.833
+fundament,FIT5047.txt,1,2.833
+sour,USCongress.txt,1,2.833
+paygo,USCongress.txt,1,2.833
+soul,USCongress.txt,1,2.833
+harvard,USCongress.txt,1,2.833
+true,Schedule.txt,1.693,2.833
+specialist,USCongress.txt,1,2.833
+infer,USCongress.txt,1,2.833
+10text,FIT5166.txt,1,2.833
+article iii,WeThePeople.txt,1,2.833
+professor,USCongress.txt,1,2.833
+lawmak,USCongress.txt,2.792,2.833
+heart,USCongress.txt,1,2.833
+film,USCongress.txt,1,2.833
+the acts,UKParliament.txt,1,2.833
+difficult,USCongress.txt,2.099,2.833
+sooner,chapter1-TheParliament.txt,1,2.833
+upward,USCongress.txt,1,2.833
+radic,UKParliament.txt,2.099,2.833
+fine,chapter1-TheParliament.txt,1,2.833
+unit test20unit test,FIT5166.txt,1,2.833
+radio,FIT5046.txt,1,2.833
+reput,USCongress.txt,1.693,2.833
+inconsist,chapter5-TheStates.txt,1.693,2.833
+probabl,FIT5047.txt,1.693,2.833
+nonpartisan,USCongress.txt,1,2.833
+lee h,USCongress.txt,1,2.833
+jeffersonian democrat party,USCongress.txt,1,2.833
+withhold,chapter1-TheParliament.txt,1,2.833
+recommit,USCongress.txt,1,2.833
+health,USCongress.txt,1,2.833
+5th,FIT5046.txt,1,2.833
+heavi,USCongress.txt,1,2.833
+gratuiti,chapter4-FinanceAndTrade.txt,1,2.833
+0check,FIT5136.txt,1,2.833
+disadvantag,FIT5166.txt,1,2.833
+4restful,FIT5046.txt,1,2.833
+robert,USCongress.txt,1.693,2.833
+deriv,USCongress.txt,2.099,2.833
+dr chris ling,FIT5136.txt,1,2.833
+coinag,chapter1-TheParliament.txt,1,2.833
+president theodore roosevelt's,USCongress.txt,1,2.833
+britain,UKParliament.txt,1,2.833
+notifi,chapter1-TheParliament.txt,2.099,2.833
+introductori,FIT5047.txt,1,2.833
+singl,USCongress.txt,1,2.833
+8design,FIT5136.txt,1,2.833
+bell,USCongress.txt,1,2.833
+abil,WeThePeople.txt,1,2.833
+egisl,WeThePeople.txt,1,2.833
+delawar,WeThePeople.txt,1,2.833
+netlogo,FIT5047.txt,1,2.833
+post offices,WeThePeople.txt,1,2.833
+united states capitol,USCongress.txt,2.099,2.833
+strictli,USCongress.txt,1,2.833
+2013,USCongress.txt,2.792,2.833
+2015,USCongress.txt,1,2.833
+print,USCongress.txt,1,2.833
+monitor,USCongress.txt,1,2.833
+ambit,USCongress.txt,1,2.833
+owner,UKParliament.txt,1,2.833
+four-year,USCongress.txt,1,2.833
+1950s,USCongress.txt,1,2.833
+tank,USCongress.txt,1,2.833
+in-depth,FIT5046.txt,1,2.833
+2002,USCongress.txt,1,2.833
+2004,FIT5046.txt,1.693,2.833
+978-3540440086,FIT5046.txt,1,2.833
+petit,USCongress.txt,1,2.833
+2006,USCongress.txt,2.386,2.833
+2007,USCongress.txt,1.693,2.833
+2009,USCongress.txt,2.099,2.833
+thereon,chapter4-FinanceAndTrade.txt,1,2.833
+divis,chapter1-TheParliament.txt,2.792,2.833
+princ,WeThePeople.txt,1,2.833
+subpoena,USCongress.txt,2.099,2.833
+reckon,chapter1-TheParliament.txt,1.693,2.833
+blame,USCongress.txt,1,2.833
+scholar,USCongress.txt,2.099,2.833
+chargeabl,chapter4-FinanceAndTrade.txt,2.099,2.833
+xvii,chapter1-TheParliament.txt,1,2.833
+train,WeThePeople.txt,1,2.833
+landmark,USCongress.txt,1,2.833
+tribun,WeThePeople.txt,1,2.833
+trail,USCongress.txt,1,2.833
+scotland,UKParliament.txt,1,2.833
+proposals pitt,UKParliament.txt,1,2.833
+repel,WeThePeople.txt,1,2.833
+expertis,USCongress.txt,2.386,2.833
+march,UKParliament.txt,1,2.833
+wiretap,USCongress.txt,1,2.833
+wsdl,FIT5046.txt,1,2.833
+pursu,USCongress.txt,1.693,2.833
+6analysis,FIT5136.txt,1,2.833
+hoc,USCongress.txt,1,2.833
+7.2,USCongress.txt,1,2.833
+soft computing1019 september,FIT5047.txt,1,2.833
+7.1,USCongress.txt,1,2.833
+guides.lib.monash.edu,FIT5047.txt,1,2.833
+irregularli,USCongress.txt,1,2.833
+citat,FIT5046.txt,1,2.833
+the trial,WeThePeople.txt,1,2.833
+strict,USCongress.txt,1,2.833
+dental,chapter1-TheParliament.txt,1,2.833
+0this,FIT5166.txt,1,2.833
+trip,USCongress.txt,2.099,2.833
+the states,preamble.txt,1,2.833
+numerous new deal,USCongress.txt,1,2.833
+alphabet,USCongress.txt,1,2.833
+representative jim cooper,USCongress.txt,1,2.833
+unquestion,USCongress.txt,1,2.833
+scientific calculator,FIT5047.txt,1,2.833
+government',USCongress.txt,1,2.833
+cooper,USCongress.txt,1,2.833
+irassignment stage,FIT5166.txt,1,2.833
+mean,chapter4-FinanceAndTrade.txt,1,2.833
+from week,FIT5166.txt,2.099,2.833
+j.w,FIT5136.txt,1,2.833
+clean,USCongress.txt,1,2.833
+attribut,USCongress.txt,1,2.833
+scientific calculators,FIT5166.txt,1,2.833
+united states.6 they,WeThePeople.txt,1,2.833
+facil,USCongress.txt,1,2.833
+congressional research service.svg,USCongress.txt,1,2.833
+part i,chapter1-TheParliament.txt,1,2.833
+percent,USCongress.txt,1.693,2.833
+novemb,USCongress.txt,1.693,2.833
+exchang,chapter1-TheParliament.txt,1,2.833
+non-partisan,USCongress.txt,1,2.833
+cultiv,USCongress.txt,1,2.833
+distrust,USCongress.txt,1,2.833
+millionair,USCongress.txt,1,2.833
+national library service,USCongress.txt,1,2.833
+employe,USCongress.txt,2.099,2.833
+omiss,chapter1-TheParliament.txt,1.693,2.833
+fit5166 information,FIT5166.txt,1,2.833
+president ulysses s,USCongress.txt,1,2.833
+mark-up,USCongress.txt,1,2.833
+walter oleszek,USCongress.txt,1,2.833
+fit9003,FIT5166.txt,1,2.833
+vicepresid,WeThePeople.txt,1,2.833
+mead,USCongress.txt,1,2.833
+small,USCongress.txt,2.386,2.833
+clicker tests,FIT5166.txt,1,2.833
+travel,USCongress.txt,2.099,2.833
+congressional budget office,USCongress.txt,2.099,2.833
+foster,FIT5047.txt,1,2.833
+the progressive era,USCongress.txt,1,2.833
+struggl,USCongress.txt,1,2.833
+cycl,FIT5136.txt,1,2.833
+the united states,WeThePeople.txt,1,2.833
+chair,USCongress.txt,2.099,2.833
+uddi,FIT5046.txt,1,2.833
+budgetari,USCongress.txt,1.693,2.833
+weka data mining toolkit,FIT5047.txt,1,2.833
+grown,USCongress.txt,1,2.833
+disqualifi,chapter1-TheParliament.txt,1,2.833
+immin,WeThePeople.txt,1,2.833
+smart,FIT5047.txt,1,2.833
+alien,chapter1-TheParliament.txt,1,2.833
+machine learning tools,FIT5047.txt,1,2.833
+resili,USCongress.txt,1.693,2.833
+januari,USCongress.txt,2.946,2.833
+tabl,USCongress.txt,1.693,2.833
+java programming,FIT5046.txt,1.693,2.833
+ener,chapter1-TheParliament.txt,1,2.833
+light,USCongress.txt,1,2.833
+bill clinton,USCongress.txt,1.693,2.833
+no senator,WeThePeople.txt,1,2.833
+junior,USCongress.txt,1,2.833
+customarili,USCongress.txt,1,2.833
+debate clause,USCongress.txt,1,2.833
+part iii,chapter1-TheParliament.txt,1,2.833
+part v,chapter1-TheParliament.txt,1,2.833
+unifi,USCongress.txt,1,2.833
+filibust,USCongress.txt,1,2.833
+infant,chapter1-TheParliament.txt,1,2.833
+percept,USCongress.txt,2.386,2.833
+arsen,WeThePeople.txt,1,2.833
+dominion,UKParliament.txt,1,2.833
+web services,FIT5046.txt,1.693,2.833
+5soft,FIT5047.txt,1,2.833
+earli,USCongress.txt,1.693,2.833
+seventy-eightntil,chapter1-TheParliament.txt,1,2.833
+clariti,FIT5046.txt,1,2.833
+overview,USCongress.txt,2.386,2.833
+dislikeit,USCongress.txt,1,2.833
+steadi,USCongress.txt,1,2.833
+high court,chapter3-TheJudicature.txt,3.833,2.833
+learning1024 october,FIT5047.txt,1,2.833
+fiefdom,USCongress.txt,1,2.833
+median,USCongress.txt,1,2.833
+attent,USCongress.txt,1,2.833
+xxiiia,chapter1-TheParliament.txt,1,2.833
+korb,FIT5047.txt,1,2.833
+guilti,USCongress.txt,1,2.833
+brush,FIT5166.txt,1,2.833
+incred,USCongress.txt,1,2.833
+federal commonwealth,preamble.txt,1.693,2.833
+unconstitut,USCongress.txt,2.099,2.833
+george ii,UKParliament.txt,1,2.833
+structur,USCongress.txt,3.197,2.833
+align,FIT5046.txt,1.693,2.833
+prepar,USCongress.txt,1,2.833
+smith,USCongress.txt,1.693,2.833
+federal judicature,chapter1-TheParliament.txt,1,2.833
+powerless,USCongress.txt,1,2.833
+fit9019,FIT5166.txt,1,2.833
+diagram,FIT5136.txt,1,2.833
+religion,chapter5-TheStates.txt,1.693,2.833
+entrust,UKParliament.txt,1,2.833
+fit9018,FIT5046.txt,1,2.833
+coattail,USCongress.txt,2.099,2.833
+10testingassessment,FIT5136.txt,1,2.833
+practical assignment,FIT5046.txt,1.693,2.833
+warrantless,USCongress.txt,1,2.833
+tariff,USCongress.txt,1,2.833
+knight,UKParliament.txt,1,2.833
+the congressional budget office,USCongress.txt,1,2.833
+found,USCongress.txt,1,2.833
+4.2.3,USCongress.txt,1,2.833
+4.2.2,USCongress.txt,1,2.833
+4.2.4,USCongress.txt,1,2.833
+facto,WeThePeople.txt,1.693,2.833
+4.2.1,USCongress.txt,1,2.833
+ill-suited,USCongress.txt,1,2.833
+excurs,USCongress.txt,1,2.833
+fit9020,FIT5046.txt,1,2.833
+grandstand,USCongress.txt,1,2.833
+toolkit,FIT5047.txt,1,2.833
+consolidated revenue,chapter1-TheParliament.txt,1,2.833
+input,USCongress.txt,1,2.833
+marqu,WeThePeople.txt,1.693,2.833
+offens,USCongress.txt,1,2.833
+began,USCongress.txt,2.386,2.833
+governor-general's,chapter1-TheParliament.txt,1,2.833
+eventu,USCongress.txt,1,2.833
+civil war,USCongress.txt,1.693,2.833
+9implementation,FIT5136.txt,1,2.833
+a.b,Schedule.txt,1.693,2.833
+oversight,USCongress.txt,2.792,2.833
+mobil,FIT5046.txt,3.485,2.833
+astronom,chapter1-TheParliament.txt,1,2.833
+kennedi,USCongress.txt,1,2.833
+cultur,USCongress.txt,1,2.833
+lame,USCongress.txt,1,2.833
+see library guides,FIT5047.txt,1,2.833
+supreme courts,chapter3-TheJudicature.txt,1,2.833
+7modules,FIT5136.txt,1,2.833
+flagrantli,USCongress.txt,1,2.833
+encyclopedia,USCongress.txt,1,2.833
+burd,FIT5136.txt,1,2.833
+aircraft,USCongress.txt,1,2.833
+accord,USCongress.txt,1,2.833
+r.b,FIT5136.txt,1,2.833
+burn,USCongress.txt,1,2.833
+revenue-raising,USCongress.txt,1,2.833
+extra,USCongress.txt,1.693,2.833
+tier,USCongress.txt,1,2.833
+fridai,FIT5136.txt,1.693,2.833
+unanim,USCongress.txt,1,2.833
+unclear,USCongress.txt,1,2.833
+bush,USCongress.txt,2.099,2.833
+john f,USCongress.txt,1,2.833
+basic,FIT5136.txt,2.099,2.833
+south carolina,WeThePeople.txt,1,2.833
+uniqu,USCongress.txt,1,2.833
+reconcili,USCongress.txt,1,2.833
+2problem,FIT5047.txt,1,2.833
+maneuv,USCongress.txt,1,2.833
+voic,USCongress.txt,1.693,2.833
+suspend,WeThePeople.txt,1,2.833
+anwer,FIT5166.txt,1,2.833
+unabl,USCongress.txt,1,2.833
+earlier,chapter1-TheParliament.txt,1,2.833
+pay-as-you-go,USCongress.txt,1,2.833
+motiv,USCongress.txt,1,2.833
+reign,UKParliament.txt,2.099,2.833
+tabloid,USCongress.txt,1,2.833
+fundrais,USCongress.txt,1,2.833
+11stochastic,FIT5047.txt,1,2.833
+freehold,UKParliament.txt,1,2.833
+xxx,chapter1-TheParliament.txt,1,2.833
+xxv,chapter1-TheParliament.txt,1,2.833
+charact,USCongress.txt,1,2.833
+xxi,chapter1-TheParliament.txt,1,2.833
+bought,UKParliament.txt,1.693,2.833
+vector space model,FIT5166.txt,1,2.833
+classical software engineering,FIT5136.txt,1,2.833
+laid,WeThePeople.txt,2.099,2.833
+debit,chapter4-FinanceAndTrade.txt,1.693,2.833
+piraci,WeThePeople.txt,1,2.833
+indemnif,chapter4-FinanceAndTrade.txt,1,2.833
+irregular,USCongress.txt,1,2.833
+institut,USCongress.txt,3.079,2.833
+waiv,USCongress.txt,1.693,2.833
+undermin,USCongress.txt,2.099,2.833
+schach's,FIT5136.txt,1,2.833
+no tax,WeThePeople.txt,1,2.833
+179091,USCongress.txt,1,2.833
+xvi,chapter1-TheParliament.txt,1,2.833
+birth,USCongress.txt,1,2.833
+dismiss,UKParliament.txt,1,2.833
+north carolina,WeThePeople.txt,1,2.833
+ordain,WeThePeople.txt,1.693,2.833
+software engineering,FIT5136.txt,1.693,2.833
+british colonies,USCongress.txt,1,2.833
+president truman,USCongress.txt,1,2.833
+russia,USCongress.txt,1,2.833
+peg,USCongress.txt,1,2.833
+eric patashnik,USCongress.txt,1,2.833
+usher,USCongress.txt,1,2.833
+emul,FIT5046.txt,1,2.833
+113th,USCongress.txt,2.386,2.833
+focus,USCongress.txt,1.693,2.833
+the senators,WeThePeople.txt,1.693,2.833
+the congressional research service,USCongress.txt,1,2.833
+analyst,USCongress.txt,2.099,2.833
+folio,FIT5136.txt,1,2.833
+taint,USCongress.txt,1,2.833
+argu,USCongress.txt,2.609,2.833
+the seats,WeThePeople.txt,1,2.833
+colonial boundaries act,preamble.txt,1,2.833
+combin,USCongress.txt,1,2.833
+multitud,USCongress.txt,1,2.833
+judicialhad,USCongress.txt,1,2.833
+a java programming,FIT5166.txt,1,2.833
+woodrow wilson,USCongress.txt,1,2.833
+secreci,WeThePeople.txt,1,2.833
+child,chapter1-TheParliament.txt,1,2.833
+608,USCongress.txt,1,2.833
+french revolution,UKParliament.txt,1.693,2.833
+600,USCongress.txt,1,2.833
+success,FIT5136.txt,1,2.833
+monarchi,UKParliament.txt,2.099,2.833
+mccain-feingold,USCongress.txt,1,2.833
+lack,USCongress.txt,2.099,2.833
+18771901,USCongress.txt,1,2.833
+exceed,WeThePeople.txt,1.693,2.833
+the sixteenth amendment,USCongress.txt,1,2.833
+pac,USCongress.txt,2.792,2.833
+institution,USCongress.txt,1,2.833
+wish,USCongress.txt,1,2.833
+'parliament,UKParliament.txt,1,2.833
+sworn,chapter2-TheExecutiveGovernment.txt,1,2.833
+6.4,USCongress.txt,1,2.833
+6.3,USCongress.txt,1,2.833
+harumi kuno,FIT5046.txt,1,2.833
+6.2,USCongress.txt,1.693,2.833
+6.1,USCongress.txt,1,2.833
+john marshall,USCongress.txt,1,2.833
+blue,USCongress.txt,1,2.833
+overwhelm,UKParliament.txt,1,2.833
+photograph,USCongress.txt,1,2.833
+machine learning,FIT5047.txt,1.693,2.833
+wielen,USCongress.txt,1.693,2.833
+enorm,USCongress.txt,1,2.833
+power to,WeThePeople.txt,1,2.833
+fervent,UKParliament.txt,1,2.833
+doctrin,USCongress.txt,1.693,2.833
+servingthat,USCongress.txt,1,2.833
+sensor networks,FIT5046.txt,1,2.833
+concili,chapter1-TheParliament.txt,1,2.833
+engag,WeThePeople.txt,1.693,2.833
+cloakroom,USCongress.txt,1,2.833
+flight,USCongress.txt,1,2.833
+chapter,FIT5136.txt,1,2.833
+seri,USCongress.txt,1,2.833
+cellular,FIT5046.txt,1,2.833
+richard nixon,USCongress.txt,1.693,2.833
+possess,preamble.txt,1,2.833
+ronald reagan,USCongress.txt,1.693,2.833
+framer,USCongress.txt,1,2.833
+serv,USCongress.txt,2.946,2.833
+prison,chapter5-TheStates.txt,1,2.833
+sovereignti,preamble.txt,1,2.833
+xxxvii,chapter1-TheParliament.txt,1,2.833
+german,UKParliament.txt,1,2.833
+intend,USCongress.txt,1,2.833
+emit,WeThePeople.txt,1,2.833
+boolean,FIT5166.txt,1,2.833
+intent,WeThePeople.txt,1,2.833
+intens,USCongress.txt,2.099,2.833
+third-party,USCongress.txt,1,2.833
+australia constitution act,preamble.txt,1.693,2.833
+updatesno,FIT5166.txt,1,2.833
+contributor,USCongress.txt,1.693,2.833
+george coulouris,FIT5046.txt,1,2.833
+send,USCongress.txt,1.693,2.833
+5evaluation,FIT5166.txt,1,2.833
+xix,chapter1-TheParliament.txt,1,2.833
+xiv,chapter1-TheParliament.txt,1,2.833
+re-election,USCongress.txt,1.693,2.833
+activist,USCongress.txt,1,2.833
+programming android,FIT5046.txt,1,2.833
+replac,UKParliament.txt,1,2.833
+xii,chapter1-TheParliament.txt,1,2.833
+partisan,USCongress.txt,2.386,2.833
+barrier,USCongress.txt,1,2.833
+android-based,FIT5046.txt,1,2.833
+whatsoev,WeThePeople.txt,1,2.833
+reveal,USCongress.txt,1,2.833
+tuesdai,FIT5166.txt,3.197,2.833
+messi,USCongress.txt,1,2.833
+clerk's,USCongress.txt,1,2.833
+dark,USCongress.txt,1,2.833
+counterfeit,WeThePeople.txt,1,2.833
+transcript,USCongress.txt,1,2.833
+ghost,USCongress.txt,1,2.833
+confess,WeThePeople.txt,1,2.833
+great britain',UKParliament.txt,1,2.833
+out,USCongress.txt,1,2.833
+cope,USCongress.txt,1,2.833
+slander,USCongress.txt,1,2.833
+south,USCongress.txt,1,2.833
+udici,WeThePeople.txt,1,2.833
+regist,FIT5166.txt,1.693,2.833
+taken.7,WeThePeople.txt,1,2.833
+republican party,USCongress.txt,1,2.833
+columbia,USCongress.txt,1,2.833
+purs,USCongress.txt,1.693,2.833
+utah,USCongress.txt,1,2.833
+melbourn,chapter7-Miscellaneous.txt,1,2.833
+athttp,FIT5047.txt,1,2.833
+oth,chapter1-TheParliament.txt,1,2.833
+5cellular,FIT5046.txt,1,2.833
+april,UKParliament.txt,1,2.833
+xxxviii,chapter1-TheParliament.txt,1,2.833
+sourc,USCongress.txt,1,2.833
+accru,chapter4-FinanceAndTrade.txt,1,2.833
+xx,chapter1-TheParliament.txt,1,2.833
+xv,chapter1-TheParliament.txt,1,2.833
+bankrupt,chapter1-TheParliament.txt,1.693,2.833
+succeed,chapter1-TheParliament.txt,1,2.833
+president nixon,USCongress.txt,1,2.833
+xi,chapter1-TheParliament.txt,1,2.833
+seniorityin,USCongress.txt,1,2.833
+gruel,USCongress.txt,1,2.833
+mexicanamerican war,USCongress.txt,1,2.833
+wide,USCongress.txt,1,2.833
+slight,USCongress.txt,1,2.833
+computingno,FIT5046.txt,1,2.833
+senate house,USCongress.txt,1,2.833
+andrew johnson,USCongress.txt,2.099,2.833
+licenc,chapter1-TheParliament.txt,1,2.833
+opponent's,USCongress.txt,1,2.833
+literatur,FIT5046.txt,1,2.833
+location-awareness,FIT5046.txt,1,2.833
+student's,FIT5046.txt,1,2.833
+drop,USCongress.txt,1,2.833
+region,USCongress.txt,2.099,2.833
+know,USCongress.txt,1,2.833
+4web,FIT5166.txt,1,2.833
+joseph gurney cannon,USCongress.txt,1,2.833
+recess,WeThePeople.txt,1.693,2.833
+vi,chapter1-TheParliament.txt,1,2.833
+at-large,USCongress.txt,1,2.833
+waterg,USCongress.txt,1,2.833
+quizz,FIT5166.txt,1,2.833
+usual,USCongress.txt,1,2.833
+tonnag,WeThePeople.txt,1,2.833
+fifteenth,WeThePeople.txt,1,2.833
+xxiii,chapter1-TheParliament.txt,1,2.833
+sprang,UKParliament.txt,1,2.833
+ruler,UKParliament.txt,1,2.833
+indiscrimin,USCongress.txt,1,2.833
+acquaint,USCongress.txt,1,2.833
+cement,UKParliament.txt,1,2.833
+pragmat,USCongress.txt,1,2.833
+gridlock,USCongress.txt,1,2.833
+the preamble,WeThePeople.txt,1,2.833
+vector,FIT5166.txt,1,2.833
+se,chapter3-TheJudicature.txt,1.693,2.833
+thirty-second,USCongress.txt,1,2.833
+yearli,USCongress.txt,1,2.833
+object-oriented,FIT5136.txt,1,2.833
+the united states capitol,USCongress.txt,1,2.833
+bill's,USCongress.txt,1,2.833
+minut,USCongress.txt,1.693,2.833
+masumi nakamura,FIT5046.txt,1,2.833
+197374,USCongress.txt,1,2.833
+guardianship,chapter1-TheParliament.txt,1,2.833
+conceptu,USCongress.txt,1,2.833
+invad,WeThePeople.txt,1,2.833
+party's,USCongress.txt,1,2.833
+4planningassignment,FIT5047.txt,1,2.833
+the high court,chapter3-TheJudicature.txt,2.099,2.833
+varieti,USCongress.txt,1,2.833
+12content-based,FIT5166.txt,1,2.833
+damag,USCongress.txt,1,2.833
+4.1.3,USCongress.txt,1,2.833
+burnish,USCongress.txt,1,2.833
+expiri,chapter1-TheParliament.txt,1.693,2.833
+4.1.2,USCongress.txt,1,2.833
+4.1.1,USCongress.txt,1,2.833
+inclus,FIT5136.txt,1,2.833
+10wireless,FIT5046.txt,1,2.833
+easier,USCongress.txt,1,2.833
+formal methods,FIT5136.txt,1,2.833
+manuscript,USCongress.txt,1,2.833
+equip,FIT5136.txt,1,2.833
+twenty-five,chapter1-TheParliament.txt,1,2.833
+whilst,chapter4-FinanceAndTrade.txt,1,2.833
+work folio,FIT5136.txt,1.693,2.833
+conclus,chapter3-TheJudicature.txt,1,2.833
+h.j.res,USCongress.txt,1,2.833
+influx,chapter1-TheParliament.txt,1,2.833
+laird dornin,FIT5046.txt,1,2.833
+fight,USCongress.txt,1,2.833
+the federal council,preamble.txt,1,2.833
+possibl,USCongress.txt,1,2.833
+od,WeThePeople.txt,1,2.833
+dr kevin korb,FIT5047.txt,1,2.833
+unit test,FIT5166.txt,2.099,2.833
+blake meike,FIT5046.txt,1,2.833
+seal,WeThePeople.txt,1,2.833
+world war i,USCongress.txt,1,2.833
+self-governing,preamble.txt,1,2.833
+the citizens,WeThePeople.txt,1,2.833
+governmentexecut,USCongress.txt,1,2.833
+institution's,USCongress.txt,1,2.833
+legaci,FIT5136.txt,1,2.833
+expand,USCongress.txt,2.099,2.833
+coat,USCongress.txt,1,2.833
+constitutionally-mandated,USCongress.txt,1,2.833
+3rd,FIT5047.txt,1.693,2.833
+pursuanc,WeThePeople.txt,1,2.833
+ma,FIT5136.txt,1,2.833
+inquir,USCongress.txt,1,2.833
+extraordinarili,USCongress.txt,1,2.833
+li,chapter3-TheJudicature.txt,1.693,2.833
+fifteenth amendments,USCongress.txt,1,2.833
+orat,USCongress.txt,1,2.833
+landown,UKParliament.txt,1.693,2.833
+veto,USCongress.txt,2.946,2.833
+belief,USCongress.txt,1,2.833
+535,USCongress.txt,1,2.833
+sphere,USCongress.txt,1,2.833
+no bill,WeThePeople.txt,1,2.833
+widen,USCongress.txt,1,2.833
+wider,FIT5136.txt,1,2.833
+senate watergate committee,USCongress.txt,1,2.833
+clients',USCongress.txt,1,2.833
+gustavo alonso,FIT5046.txt,1,2.833
+surviv,USCongress.txt,1,2.833
+ix,chapter1-TheParliament.txt,1.693,2.833
+odd,USCongress.txt,1,2.833
+sympathi,USCongress.txt,1,2.833
+index,FIT5166.txt,1.693,2.833
+metal,chapter4-FinanceAndTrade.txt,1,2.833
+in,chapter1-TheParliament.txt,1,2.833
+conscript,chapter1-TheParliament.txt,1,2.833
+self-assessed,FIT5166.txt,1,2.833
+vessel,WeThePeople.txt,1,2.833
+post-watergate,USCongress.txt,1,2.833
+fort,WeThePeople.txt,1,2.833
+renew,chapter4-FinanceAndTrade.txt,1.693,2.833
+500,USCongress.txt,2.386,2.833
+yuan jin,FIT5166.txt,1,2.833
+pro-bono,USCongress.txt,1,2.833
+london corresponding society,UKParliament.txt,1,2.833
+rhythm,USCongress.txt,1,2.833
+counter,USCongress.txt,1,2.833
+dr grace rumantir,FIT5166.txt,1,2.833
+contend,USCongress.txt,2.099,2.833
+persons.2,WeThePeople.txt,1,2.833
+supremaci,UKParliament.txt,1,2.833
+jefferson,USCongress.txt,1,2.833
+hover,USCongress.txt,1.693,2.833
+burden,chapter1-TheParliament.txt,1,2.833
+ft,USCongress.txt,1,2.833
+4requirements,FIT5136.txt,1,2.833
+exclud,WeThePeople.txt,1,2.833
+a house-originated,USCongress.txt,1,2.833
+matrimoni,chapter1-TheParliament.txt,1,2.833
+5.3,USCongress.txt,1,2.833
+5.2,USCongress.txt,1,2.833
+required resources,FIT5047.txt,1.693,2.833
+unitari,USCongress.txt,1,2.833
+5.1,USCongress.txt,1,2.833
+usurp,USCongress.txt,1,2.833
+emigr,chapter1-TheParliament.txt,1,2.833
+160to,FIT5136.txt,1,2.833
+government accountability office,USCongress.txt,1.693,2.833
+deduct,chapter4-FinanceAndTrade.txt,1,2.833
+won,USCongress.txt,1,2.833
+rare,USCongress.txt,2.386,2.833
+article one,USCongress.txt,1,2.833
+schach,FIT5136.txt,1,2.833
+thomas jefferson's,USCongress.txt,1.693,2.833
+extern,USCongress.txt,1,2.833
+intermediari,USCongress.txt,1,2.833
+voter,USCongress.txt,2.386,2.833
+sid656564,FIT5047.txt,1,2.833
+lawfulli,chapter4-FinanceAndTrade.txt,1,2.833
+wyom,USCongress.txt,1,2.833
+affili,USCongress.txt,1,2.833
+partner,USCongress.txt,1,2.833
+h.r,USCongress.txt,1,2.833
+freeli,USCongress.txt,1,2.833
+familiar,USCongress.txt,1,2.833
+foot,USCongress.txt,1,2.833
+neither house,WeThePeople.txt,1,2.833
+230week,FIT5046.txt,1,2.833
+public's,USCongress.txt,1.693,2.833
+britain's speech,USCongress.txt,1,2.833
+the great depression,USCongress.txt,1,2.833
+ay,USCongress.txt,1.693,2.833
+subject-matter,chapter3-TheJudicature.txt,1,2.833
+ap,UKParliament.txt,1,2.833
+automat,USCongress.txt,1.693,2.833
+grow,UKParliament.txt,1,2.833
+eclips,USCongress.txt,1,2.833
+rank,USCongress.txt,1.693,2.833
+fix,chapter3-TheJudicature.txt,1,2.833
+world war ii,USCongress.txt,2.099,2.833
+squeez,USCongress.txt,1,2.833
+erazur,WeThePeople.txt,1,2.833
+twenty-one,chapter1-TheParliament.txt,1.693,2.833
+non-voting,USCongress.txt,1,2.833
+proxi,USCongress.txt,1,2.833
+parent,chapter1-TheParliament.txt,1,2.833
+exacerb,USCongress.txt,1,2.833
+confid,USCongress.txt,1,2.833
+non-officer,USCongress.txt,1,2.833
+the judges,WeThePeople.txt,1,2.833
+bayesian artificial intelligence,FIT5047.txt,1,2.833
+egalitarian,UKParliament.txt,1,2.833
+work folio5friday,FIT5136.txt,1,2.833
+state legislatures,WeThePeople.txt,1,2.833
+k street,USCongress.txt,1,2.833
+concurrent resolutions,USCongress.txt,1,2.833
+lawyer,USCongress.txt,1,2.833
+win,USCongress.txt,3.079,2.833
+2software,FIT5136.txt,1,2.833
+civil service retirement system,USCongress.txt,1,2.833
+donor,USCongress.txt,1,2.833
+h.res,USCongress.txt,1,2.833
+diem,USCongress.txt,1,2.833
+raid,USCongress.txt,1,2.833
+keep,USCongress.txt,1,2.833
+effectu,USCongress.txt,1,2.833
+intensifi,USCongress.txt,1,2.833
+spanishamerican war,USCongress.txt,1,2.833
+tranquil,WeThePeople.txt,1,2.833
+rail,USCongress.txt,1,2.833
+dispos,WeThePeople.txt,1,2.833
+12tools,FIT5136.txt,1,2.833
+unrepres,UKParliament.txt,1.693,2.833
+constantli,USCongress.txt,1.693,2.833
+whig,UKParliament.txt,1,2.833
+public service,chapter1-TheParliament.txt,1,2.833
+threaten,USCongress.txt,1,2.833
+fer,USCongress.txt,2.386,2.833
+king's,UKParliament.txt,1,2.833
+nomine,USCongress.txt,1,2.833
+whip,USCongress.txt,1,2.833
+section,chapter3-TheJudicature.txt,1,2.833
+fee,chapter1-TheParliament.txt,2.099,2.833
+board,USCongress.txt,1,2.833
+thomas brand hollis,UKParliament.txt,1,2.833
+clearanc,preamble.txt,1,2.833
+great,USCongress.txt,2.099,2.833
+disput,chapter1-TheParliament.txt,1.693,2.833
+federal election campaign act,USCongress.txt,1,2.833
+shire,UKParliament.txt,1,2.833
+lobbyist,USCongress.txt,3.303,2.833
+research paper presentation10week,FIT5046.txt,1,2.833
+mechan,USCongress.txt,1,2.833
+gain,USCongress.txt,1.693,2.833
+connexion,chapter4-FinanceAndTrade.txt,1.693,2.833
+suit,USCongress.txt,1.693,2.833
+futur,USCongress.txt,1.693,2.833
+subsidi,USCongress.txt,1,2.833
+explicitli,USCongress.txt,1.693,2.833
+national archives,USCongress.txt,1,2.833
+explicit,USCongress.txt,1,2.833
+multipl,USCongress.txt,1,2.833
+counsel,USCongress.txt,1,2.833
+no person,WeThePeople.txt,2.609,2.833
+vijay machiraju,FIT5046.txt,1,2.833
+envis,USCongress.txt,1,2.833
+down-to-the-wire,USCongress.txt,1,2.833
+plai,USCongress.txt,1.693,2.833
+two-chamber,USCongress.txt,1,2.833
+withheld,UKParliament.txt,1,2.833
+her majesty queen victoria,Schedule.txt,1.693,2.833
+probabilist,FIT5166.txt,1,2.833
+rise,USCongress.txt,1,2.833
+risk,USCongress.txt,2.099,2.833
+a justice,chapter3-TheJudicature.txt,1,2.833
+federalist papers,USCongress.txt,1,2.833
+a governor-general,chapter1-TheParliament.txt,1,2.833
+grew,USCongress.txt,1.693,2.833
+otherbalanc,USCongress.txt,1,2.833
+europ,UKParliament.txt,1,2.833
+conquer,FIT5136.txt,1,2.833
+green,USCongress.txt,1,2.833
+factor,USCongress.txt,2.386,2.833
+central,UKParliament.txt,1,2.833
+antiqu,USCongress.txt,1,2.833
+royal assent,UKParliament.txt,1,2.833
+blind,USCongress.txt,1,2.833
+executive authority,WeThePeople.txt,1,2.833
+united states senate structure.svg,USCongress.txt,1,2.833
+enemi,WeThePeople.txt,1,2.833
+irrig,chapter4-FinanceAndTrade.txt,1,2.833
+inflow,USCongress.txt,1,2.833
+wealthi,USCongress.txt,1,2.833
+george iii's,UKParliament.txt,1,2.833
+watersh,USCongress.txt,1,2.833
+netica,FIT5047.txt,1,2.833
+town,UKParliament.txt,1,2.833
+every bill,WeThePeople.txt,1,2.833
+theodore roosevelt,USCongress.txt,1,2.833
+undischarg,chapter1-TheParliament.txt,1,2.833
+bruce j,USCongress.txt,1,2.833
+ight,chapter1-TheParliament.txt,1,2.833
+huge,USCongress.txt,1,2.833
+counterpart,USCongress.txt,1,2.833
+utilis,FIT5166.txt,1,2.833
+acknowledg,chapter1-TheParliament.txt,1,2.833
+article v,WeThePeople.txt,1,2.833
+technolog,FIT5046.txt,2.609,2.833
+gordon blair,FIT5046.txt,1,2.833
+likewis,WeThePeople.txt,1,2.833
+appellatejurisdict,WeThePeople.txt,1,2.833
+19th,USCongress.txt,1,2.833
+oppos,USCongress.txt,1,2.833
+repriev,WeThePeople.txt,1,2.833
+edit2.jpg,USCongress.txt,1,2.833
+timeslot,FIT5166.txt,2.386,2.833
+metric,FIT5136.txt,1,2.833
+remaind,chapter1-TheParliament.txt,1,2.833
+classif,FIT5166.txt,1,2.833
+classic,FIT5136.txt,1,2.833
+6stochastic,FIT5047.txt,1,2.833
+rior,WeThePeople.txt,1,2.833
+senate's,USCongress.txt,1,2.833
+president's,USCongress.txt,2.099,2.833
+default,USCongress.txt,1,2.833
+indemnifi,chapter4-FinanceAndTrade.txt,1,2.833
+continent,UKParliament.txt,1,2.833
+the watergate scandal,USCongress.txt,1,2.833
+rotten,UKParliament.txt,2.099,2.833
+george w,USCongress.txt,1.693,2.833
+slow,USCongress.txt,1.693,2.833
+citationth,USCongress.txt,1,2.833
+rotat,chapter1-TheParliament.txt,1,2.833
+confound,USCongress.txt,1,2.833
+marburi,USCongress.txt,1.693,2.833
+george f,USCongress.txt,1,2.833
+george h,USCongress.txt,1,2.833
+circumst,USCongress.txt,1,2.833
+despatch,chapter1-TheParliament.txt,2.099,2.833
+java,FIT5166.txt,1.693,2.833
+470,USCongress.txt,1,2.833
+evolutionari,FIT5047.txt,1,2.833
+mid-year,USCongress.txt,1,2.833
+estat,USCongress.txt,1,2.833
+occasionsyea,USCongress.txt,1,2.833
+house judiciary committee,USCongress.txt,1,2.833
+dispar,USCongress.txt,1.693,2.833
+boundari,USCongress.txt,1,2.833
+chairmen,USCongress.txt,1,2.833
+transport,chapter1-TheParliament.txt,1,2.833
+promissori,chapter1-TheParliament.txt,1,2.833
+calcul,chapter4-FinanceAndTrade.txt,1.693,2.833
+slot,FIT5166.txt,1.693,2.833
+tori,UKParliament.txt,1,2.833
+endow,chapter1-TheParliament.txt,1,2.833
+prominent founding fathers,USCongress.txt,1,2.833
+therefor,chapter7-Miscellaneous.txt,1,2.833
+coverup,USCongress.txt,1,2.833
+tool,FIT5047.txt,1,2.833
+national supremacy,WeThePeople.txt,1,2.833
+escap,WeThePeople.txt,1,2.833
+hillary rodham clinton,USCongress.txt,1,2.833
+information age,FIT5136.txt,1,2.833
+435,USCongress.txt,2.099,2.833
+grace rumantir,FIT5166.txt,1,2.833
+honor,WeThePeople.txt,1,2.833
+mid-19th,USCongress.txt,1,2.833
+9the,FIT5166.txt,1,2.833
+satzing,FIT5136.txt,1,2.833
+logic,FIT5047.txt,1,2.833
+participants',USCongress.txt,1,2.833
+slip,USCongress.txt,1,2.833
+surpris,USCongress.txt,1,2.833
+cession,WeThePeople.txt,1,2.833
+tomb,USCongress.txt,1,2.833
+wenty-three,chapter1-TheParliament.txt,1.693,2.833
+deficit,USCongress.txt,1,2.833
+all debts,WeThePeople.txt,1,2.833
+era,USCongress.txt,3.708,2.833
+jean dollimore,FIT5046.txt,1,2.833
+pictur,USCongress.txt,1.693,2.833
+joint meetings,USCongress.txt,1,2.833
+swell,USCongress.txt,1,2.833
+8intelligent,FIT5047.txt,1,2.833
+well-structured,FIT5136.txt,1,2.833
+seventh,WeThePeople.txt,1,2.833
+idiosyncrasi,USCongress.txt,1,2.833
+forti,WeThePeople.txt,1.693,2.833
+shape,USCongress.txt,1,2.833
+narrow,USCongress.txt,1,2.833
+due.11,WeThePeople.txt,1,2.833
+distributed systems,FIT5046.txt,1,2.833
+specifi,USCongress.txt,1,2.833
+nai,WeThePeople.txt,1.693,2.833
+stipul,USCongress.txt,1,2.833
+slim,USCongress.txt,1,2.833
+told,USCongress.txt,1,2.833
+specul,USCongress.txt,1.693,2.833
+donat,USCongress.txt,2.386,2.833
+electrician,USCongress.txt,1,2.833
+career,USCongress.txt,1.693,2.833
+powerencourag,USCongress.txt,1,2.833
+4.3,USCongress.txt,1,2.833
+4.2,USCongress.txt,1,2.833
+4.1,USCongress.txt,1,2.833
+contempt,USCongress.txt,2.609,2.833
+estim,USCongress.txt,1,2.833
+means committee,USCongress.txt,1,2.833
+tim kindberg,FIT5046.txt,1,2.833
+attitud,FIT5047.txt,1,2.833
+part ii,chapter1-TheParliament.txt,1,2.833
+prosecut,USCongress.txt,1,2.833
+accomplish,FIT5046.txt,1.693,2.833
+jostl,USCongress.txt,1,2.833
+ride,USCongress.txt,1,2.833
+famili,chapter1-TheParliament.txt,1,2.833
+federalist no,USCongress.txt,1,2.833
+part iv,chapter1-TheParliament.txt,1,2.833
+the word,WeThePeople.txt,1.693,2.833
+futil,USCongress.txt,1,2.833
+altern,USCongress.txt,2.386,2.833
+transact,USCongress.txt,1,2.833
+insist,USCongress.txt,1,2.833
+gather,USCongress.txt,2.386,2.833
+shade,USCongress.txt,1,2.833
+wrote,USCongress.txt,1.693,2.833
+georg,UKParliament.txt,1,2.833
+the words,WeThePeople.txt,1,2.833
+congress hall,USCongress.txt,1,2.833
+sub-committee,UKParliament.txt,1,2.833
+borough,UKParliament.txt,2.099,2.833
+repass,WeThePeople.txt,1,2.833
+the american revolutionary war,UKParliament.txt,1,2.833
+substant,USCongress.txt,1,2.833
+twochamb,USCongress.txt,1,2.833
+legislative archives,USCongress.txt,1,2.833
+invoc,FIT5046.txt,1,2.833
+exploit,USCongress.txt,1,2.833
+new deal,USCongress.txt,1,2.833
+dissatisfact,USCongress.txt,1,2.833
+ancillari,USCongress.txt,1,2.833
+unicamer,USCongress.txt,1,2.833
+fourteenth,USCongress.txt,1,2.833
+machin,FIT5047.txt,2.099,2.833
+chambershous,USCongress.txt,1,2.833
+boolean model,FIT5166.txt,1,2.833
+disqualif,WeThePeople.txt,1,2.833
+cede,USCongress.txt,1,2.833
+10unsupervised,FIT5047.txt,1,2.833
+boston,FIT5136.txt,1,2.833
+retriev,FIT5166.txt,3.565,2.833
+economi,USCongress.txt,1.693,2.833
+handl,USCongress.txt,1,2.833
+michael j,FIT5136.txt,1,2.833
+folder,FIT5136.txt,1,2.833
+version,USCongress.txt,2.099,2.833
+springer,FIT5046.txt,1,2.833
+approxim,FIT5136.txt,1,2.833
+physically handicapped,USCongress.txt,1,2.833
+visual,FIT5046.txt,1,2.833
+vii,chapter1-TheParliament.txt,1,2.833
+music,USCongress.txt,1,2.833
+temporari,WeThePeople.txt,1,2.833
+member's,USCongress.txt,1.693,2.833
+defici,chapter4-FinanceAndTrade.txt,1,2.833
+refus,USCongress.txt,1,2.833
+mcculloch,USCongress.txt,1,2.833
+detach,USCongress.txt,1,2.833
+franklin d,USCongress.txt,1,2.833
+democratic-republican party,USCongress.txt,1,2.833
+unlik,USCongress.txt,1,2.833
+spend,USCongress.txt,3.079,2.833
+jackson,FIT5136.txt,1,2.833
+fit5136 software,FIT5136.txt,1,2.833
+article vi,WeThePeople.txt,1,2.833
+12.5,USCongress.txt,1,2.833
+mark carman,FIT5047.txt,1,2.833
+impli,USCongress.txt,2.386,2.833
+republican form,WeThePeople.txt,1,2.833
+lobbyist tony podesta,USCongress.txt,1,2.833
+spell,USCongress.txt,1,2.833
+representative lee h,USCongress.txt,1,2.833
+america's,USCongress.txt,1,2.833
+state's,USCongress.txt,1,2.833
+julian e,USCongress.txt,1,2.833
+housessen,USCongress.txt,1,2.833
+privy council,preamble.txt,1,2.833
+indian,WeThePeople.txt,1,2.833
+requisit,WeThePeople.txt,1,2.833
+averag,USCongress.txt,1.693,2.833
+the governor,chapter1-TheParliament.txt,1,2.833
+pacif,chapter1-TheParliament.txt,1,2.833
+agenc,USCongress.txt,2.609,2.833
+brinksmanship,USCongress.txt,1,2.833
+president obama's,USCongress.txt,1,2.833
+wenti,chapter1-TheParliament.txt,1,2.833
+almighty god,preamble.txt,1,2.833
+ebb,USCongress.txt,1,2.833
+middle ages,UKParliament.txt,1,2.833
+.svg,USCongress.txt,1,2.833
+new jersey,WeThePeople.txt,1,2.833
+nation's,USCongress.txt,1,2.833
+commons house,chapter1-TheParliament.txt,1,2.833
+secret,USCongress.txt,1,2.833
+republican,USCongress.txt,2.946,2.833
+uss bon homme richard,USCongress.txt,1,2.833
+word,WeThePeople.txt,1,2.833
+discourag,USCongress.txt,1.693,2.833
+math,FIT5047.txt,1,2.833
+sir robert walpole,UKParliament.txt,1,2.833
+naturalis,chapter1-TheParliament.txt,1.693,2.833
+suitabl,FIT5046.txt,1,2.833
+george washington,USCongress.txt,1,2.833
+lost,USCongress.txt,1,2.833
+treasury secretary alexander hamilton,USCongress.txt,1,2.833
+televis,USCongress.txt,2.792,2.833
+step,USCongress.txt,1.693,2.833
+formula,USCongress.txt,1,2.833
+mandamu,chapter3-TheJudicature.txt,1,2.833
+the ratification,WeThePeople.txt,1,2.833
+frustrat,USCongress.txt,1.693,2.833
+politician,USCongress.txt,1.693,2.833
+postwar,USCongress.txt,1,2.833
+intellectual properties,FIT5136.txt,1,2.833
+commerce clause,USCongress.txt,1,2.833
+18th,UKParliament.txt,1,2.833
+ayesian,FIT5047.txt,1.693,2.833
+mass,USCongress.txt,1.693,2.833
+lord,UKParliament.txt,1,2.833
+constitutional alteration,chapter1-TheParliament.txt,1,2.833
+information retrieval system implementation20assignment stage,FIT5166.txt,1,2.833
+internet,FIT5046.txt,1,2.833
+alloc,USCongress.txt,1,2.833
+investig,USCongress.txt,3.197,2.833
+look,USCongress.txt,1,2.833
+felt,USCongress.txt,1,2.833
+chuse,WeThePeople.txt,3.197,2.833
+endors,chapter1-TheParliament.txt,1,2.833
+the republicans,USCongress.txt,1,2.833
+taxpay,USCongress.txt,1,2.833
+113ushousestructure.svg,USCongress.txt,1,2.833
+california,USCongress.txt,1.693,2.833
+sever,chapter7-Miscellaneous.txt,1,2.833
+wholli,chapter1-TheParliament.txt,1,2.833
+social security,USCongress.txt,1,2.833
+rhode-island,WeThePeople.txt,1,2.833
+decript,FIT5136.txt,1,2.833
+rapid,USCongress.txt,1.693,2.833
+bureaucraci,USCongress.txt,1,2.833
+invest,chapter3-TheJudicature.txt,2.099,2.833
+wool,USCongress.txt,1,2.833
+treat,USCongress.txt,1.693,2.833
+stai,USCongress.txt,1,2.833
+polic,USCongress.txt,1,2.833
+xxxiv,chapter1-TheParliament.txt,1,2.833
+xxxix,chapter1-TheParliament.txt,1,2.833
+devolv,WeThePeople.txt,1,2.833
+entrepreneur,USCongress.txt,1,2.833
+appeal,chapter3-TheJudicature.txt,3.197,2.833
+mann,USCongress.txt,1,2.833
+thereund,chapter4-FinanceAndTrade.txt,1,2.833
+charles james fox,UKParliament.txt,1,2.833
+life-cycle modelsassessment,FIT5136.txt,1,2.833
+1st,FIT5136.txt,1,2.833
+fell,USCongress.txt,1,2.833
+national audio-visual conservation center,USCongress.txt,1,2.833
+xxxii,chapter1-TheParliament.txt,1,2.833
+acquisit,chapter1-TheParliament.txt,1.693,2.833
+monthli,chapter4-FinanceAndTrade.txt,1,2.833
+six-year,USCongress.txt,1,2.833
+farm league,USCongress.txt,1,2.833
+expel,WeThePeople.txt,1,2.833
+attaind,WeThePeople.txt,2.099,2.833
+labor,USCongress.txt,1.693,2.833
+the vice president,WeThePeople.txt,1,2.833
+a gilded age,USCongress.txt,1,2.833
+invent,chapter1-TheParliament.txt,1,2.833
+august,FIT5047.txt,1.693,2.833
+coordin,USCongress.txt,1,2.833
+band,USCongress.txt,1,2.833
+stick,USCongress.txt,1,2.833
+6relevance,FIT5166.txt,1,2.833
+modelingassign,FIT5047.txt,1,2.833
+character,USCongress.txt,1.693,2.833
+bank,chapter1-TheParliament.txt,2.386,2.833
+danger,WeThePeople.txt,1,2.833
+curb,UKParliament.txt,1,2.833
+disorderli,WeThePeople.txt,1,2.833
+while scots,UKParliament.txt,1,2.833
+depend,USCongress.txt,2.386,2.833
+princip,WeThePeople.txt,1,2.833
+2web,FIT5046.txt,1,2.833
+congressional budget,USCongress.txt,1.693,2.833
+competit,USCongress.txt,1.693,2.833
+met,USCongress.txt,1,2.833
+make,USCongress.txt,1.693,2.833
+pressman,FIT5136.txt,1,2.833
+mcgraw-hill,FIT5136.txt,1.693,2.833
+men,USCongress.txt,2.386,2.833
+house's,USCongress.txt,1,2.833
+-a,FIT5047.txt,1,2.833
+prerog,chapter3-TheJudicature.txt,1,2.833
+uncommon,USCongress.txt,1,2.833
+legitim,USCongress.txt,1,2.833
+paradigm,FIT5047.txt,1,2.833
+constitution,USCongress.txt,2.099,2.833
+exagger,USCongress.txt,1,2.833
+congresswomen,USCongress.txt,1,2.833
+attaint,WeThePeople.txt,1,2.833
+failur,chapter1-TheParliament.txt,1,2.833
+analyst michael schudson,USCongress.txt,1,2.833
+ideal,UKParliament.txt,1,2.833
+textbook,FIT5136.txt,1.693,2.833
+logo,USCongress.txt,1,2.833
+arm-twisting,USCongress.txt,1,2.833
+alexander hamilton,USCongress.txt,1,2.833
+british east india company,UKParliament.txt,1,2.833
+mail,USCongress.txt,2.099,2.833
+weekly quizzes5from week,FIT5166.txt,1,2.833
+the first continental congress,USCongress.txt,1,2.833
+relev,FIT5166.txt,1.693,2.833
+300,USCongress.txt,1,2.833
+suprem,WeThePeople.txt,2.946,2.833
+urg,USCongress.txt,1,2.833
+forward,UKParliament.txt,1,2.833
+8enabling,FIT5046.txt,1,2.833
+article ii,WeThePeople.txt,1,2.833
+map,USCongress.txt,1,2.833
+princeton's stephen macedo,USCongress.txt,1,2.833
+commiss,WeThePeople.txt,1.693,2.833
+ornstein,USCongress.txt,1,2.833
+encreas,WeThePeople.txt,1.693,2.833
+overrid,USCongress.txt,1,2.833
+dot,USCongress.txt,1.693,2.833
+enrol,USCongress.txt,1,2.833
+article iv,WeThePeople.txt,1,2.833
+article vii,WeThePeople.txt,1,2.833
+statut,USCongress.txt,1,2.833
+william pitt,UKParliament.txt,1,2.833
+3.2,USCongress.txt,1,2.833
+3.1,USCongress.txt,1,2.833
+stall,UKParliament.txt,1.693,2.833
+borderlin,USCongress.txt,1,2.833
+ignor,USCongress.txt,1,2.833
+convert,chapter4-FinanceAndTrade.txt,1,2.833
+united states constitution,USCongress.txt,1,2.833
+french revolutionary wars,UKParliament.txt,1.693,2.833
+xxxvi,chapter1-TheParliament.txt,1,2.833
+madison,USCongress.txt,1.693,2.833
+keynesian,USCongress.txt,1,2.833
+human,USCongress.txt,1,2.833
+nuclear,USCongress.txt,1,2.833
+an analysis,USCongress.txt,1,2.833
+uml,FIT5136.txt,1,2.833
+compani,chapter1-TheParliament.txt,1,2.833
+a modern approach,FIT5047.txt,1,2.833
+on july,USCongress.txt,1,2.833
+occasion,USCongress.txt,1,2.833
+distract,USCongress.txt,1,2.833
+interven,chapter1-TheParliament.txt,1,2.833
+humbl,preamble.txt,1,2.833
+executive councillors,chapter2-TheExecutiveGovernment.txt,1,2.833
+graph,USCongress.txt,1,2.833
+exhaust,USCongress.txt,1,2.833
+both houses,USCongress.txt,1.693,2.833
+bayesian,FIT5047.txt,1.693,2.833
+king george iii,UKParliament.txt,1,2.833
+congress information,WeThePeople.txt,1,2.833
+new-york,WeThePeople.txt,1,2.833
+london,UKParliament.txt,1,2.833
+fierc,USCongress.txt,1,2.833
+maximum,chapter3-TheJudicature.txt,2.386,2.833
+h.con.res,USCongress.txt,1,2.833
+influenti,USCongress.txt,2.099,2.833
+a state,chapter5-TheStates.txt,1.693,2.833
+9th,preamble.txt,1,2.833
+forfeitur,WeThePeople.txt,1,2.833
+excellent majesty,preamble.txt,1,2.833
+mine,chapter4-FinanceAndTrade.txt,1,2.833
+so-called,USCongress.txt,2.099,2.833
+annuiti,USCongress.txt,1,2.833
+philadelphia,USCongress.txt,1,2.833
+journal,WeThePeople.txt,2.386,2.833
+consecut,chapter1-TheParliament.txt,1.693,2.833
+wednesdai,FIT5166.txt,2.099,2.833
+diminut,chapter6-NewStates.txt,1,2.833
+full faith,WeThePeople.txt,1,2.833
+smear,USCongress.txt,1,2.833
+domain,FIT5046.txt,1,2.833
+run-up,USCongress.txt,1,2.833
+senior,USCongress.txt,2.099,2.833
+partisanship,USCongress.txt,2.792,2.833
+percentag,USCongress.txt,1,2.833
+impact,FIT5046.txt,1,2.833
+bicamer,USCongress.txt,2.099,2.833
+new hampshire,WeThePeople.txt,1,2.833
+technological requirements,FIT5166.txt,1,2.833
+presidenti,USCongress.txt,3.639,2.833
+divorc,chapter1-TheParliament.txt,1,2.833
+two-fifths,chapter4-FinanceAndTrade.txt,1,2.833
+ident,USCongress.txt,1,2.833
+tiebreak,USCongress.txt,1,2.833
+crise,USCongress.txt,1.693,2.833
+sommervil,FIT5136.txt,1,2.833
+wireless,FIT5046.txt,2.386,2.833
+earn,USCongress.txt,1.693,2.833
+third,WeThePeople.txt,3.197,2.833
+standing rules,USCongress.txt,1,2.833
+capitol,USCongress.txt,2.099,2.833
+xiii,chapter1-TheParliament.txt,1,2.833
+anti-federalist,USCongress.txt,1,2.833
+built,USCongress.txt,1,2.833
+intox,chapter5-TheStates.txt,1,2.833
+1910s1960s,USCongress.txt,2.099,2.833
+judiciari,USCongress.txt,1.693,2.833
+easi,USCongress.txt,1.693,2.833
+sixteen,USCongress.txt,1.693,2.833
+habeas corpus,WeThePeople.txt,1,2.833
+tend,USCongress.txt,1,2.833
+incom,USCongress.txt,1.693,2.833
+environmentsresearch,FIT5046.txt,1,2.833
+overrul,USCongress.txt,1,2.833
+exceedingli,USCongress.txt,1,2.833
+achiev,USCongress.txt,1,2.833
+friendli,USCongress.txt,1,2.833
+unified process,FIT5136.txt,1.693,2.833
+reconcil,USCongress.txt,1.693,2.833
+particular,USCongress.txt,1,2.833
+island,chapter1-TheParliament.txt,1,2.833
+unproduct,USCongress.txt,1,2.833
+affair,USCongress.txt,1.693,2.833
+husband,USCongress.txt,1,2.833
+compact,WeThePeople.txt,1,2.833
+door,USCongress.txt,1,2.833
+clicker,FIT5166.txt,2.099,2.833
+twenty-four,chapter1-TheParliament.txt,1,2.833
+eros,USCongress.txt,1,2.833
+no preference,WeThePeople.txt,1,2.833
+members',USCongress.txt,1,2.833
+outcom,USCongress.txt,1,2.833
+wealth,USCongress.txt,1,2.833
+meant,USCongress.txt,1,2.833
+1999,USCongress.txt,1.693,2.833
+1992,USCongress.txt,1,2.833
+low,USCongress.txt,2.099,2.833
+1993,USCongress.txt,1,2.833
+1994,USCongress.txt,1.693,2.833
+deputi,chapter7-Miscellaneous.txt,2.792,2.833
+panama,USCongress.txt,1,2.833
+lot,USCongress.txt,1,2.833
+senate's president,USCongress.txt,1,2.833
+house ways,USCongress.txt,1,2.833
+today's,USCongress.txt,1,2.833
+1980,USCongress.txt,1,2.833
+1984,USCongress.txt,1.693,2.833
+culpep,USCongress.txt,1,2.833
+pennsylvania,WeThePeople.txt,1,2.833
+richard fenno,USCongress.txt,1,2.833
+elsevi,FIT5047.txt,1,2.833
+michael kinsley,USCongress.txt,1,2.833
+joint sessions,USCongress.txt,1.693,2.833
+pressur,USCongress.txt,1.693,2.833
+audio-visual,FIT5166.txt,1,2.833
+enter,WeThePeople.txt,3.079,2.833
+heavili,USCongress.txt,2.386,2.833
+1970,USCongress.txt,1,2.833
+1971,USCongress.txt,1.693,2.833
+service-oriented,FIT5046.txt,1,2.833
+1974,USCongress.txt,2.609,2.833
+climb,USCongress.txt,1,2.833
+incur,chapter4-FinanceAndTrade.txt,1.693,2.833
+1967,chapter7-Miscellaneous.txt,1,2.833
+short,USCongress.txt,1,2.833
+1960,USCongress.txt,2.099,2.833
+casual senate vacancies,chapter1-TheParliament.txt,1,2.833
+bypass,USCongress.txt,1.693,2.833
+pair,FIT5136.txt,1,2.833
+rules committee,USCongress.txt,1,2.833
+center,USCongress.txt,2.099,2.833
+unjust,chapter4-FinanceAndTrade.txt,1.693,2.833
+united states supreme court,USCongress.txt,1,2.833
+precis,USCongress.txt,1,2.833
+sub-section,chapter1-TheParliament.txt,1,2.833
+1950,USCongress.txt,1,2.833
+united states congress,USCongress.txt,3.303,2.833
+concept,FIT5046.txt,2.099,2.833
+scientist,USCongress.txt,2.792,2.833
+no money,WeThePeople.txt,1,2.833
+obedi,chapter1-TheParliament.txt,1,2.833
+whereof,WeThePeople.txt,1,2.833
+subcommitte,USCongress.txt,1,2.833
+merit,USCongress.txt,1,2.833
+second continental congress,USCongress.txt,1,2.833
+trade-offs,USCongress.txt,1,2.833
+in january,USCongress.txt,1.693,2.833
+frailti,USCongress.txt,1,2.833
+budget,USCongress.txt,3.197,2.833
+advertis,USCongress.txt,2.946,2.833
+constitution's founding fathers,USCongress.txt,1,2.833
+assignment stage,FIT5166.txt,2.099,2.833
+entir,USCongress.txt,1,2.833
+seats535,USCongress.txt,1,2.833
+1932,USCongress.txt,1,2.833
+unconnect,USCongress.txt,1,2.833
+reactiv,USCongress.txt,1,2.833
+two-thirds,USCongress.txt,2.792,2.833
+978-0-07-352333-0,FIT5136.txt,1,2.833
+definit,FIT5166.txt,1,2.833
+cabinet,USCongress.txt,1,2.833
+team,FIT5136.txt,1,2.833
+congress's,USCongress.txt,3.565,2.833
+creation,USCongress.txt,1,2.833
+graphic,USCongress.txt,1,2.833
+1913,USCongress.txt,1.693,2.833
+shout,USCongress.txt,1,2.833
+course technology,FIT5136.txt,1,2.833
+attack,USCongress.txt,1,2.833
+document,FIT5136.txt,1.693,2.833
+the federalist papers,USCongress.txt,1,2.833
+cut,USCongress.txt,1,2.833
+liabil,chapter4-FinanceAndTrade.txt,1,2.833
+soundbit,USCongress.txt,1,2.833
+1900,preamble.txt,1.693,2.833
+content.php,FIT5047.txt,1,2.833
+overse,USCongress.txt,2.386,2.833
+1903,USCongress.txt,1,2.833
+1907,USCongress.txt,1,2.833
+248,UKParliament.txt,1,2.833
+context-awarenessresearch paper assignment due,FIT5046.txt,1,2.833
+gerrymand,USCongress.txt,2.099,2.833
+databas,USCongress.txt,1.693,2.833
+statu,chapter3-TheJudicature.txt,1,2.833
+pace,USCongress.txt,1,2.833
+democratic party,USCongress.txt,1,2.833
+press,UKParliament.txt,1.693,2.833
+dock-yards,WeThePeople.txt,1,2.833
+234,USCongress.txt,1,2.833
+reassert,USCongress.txt,1,2.833
+enhanc,FIT5047.txt,1,2.833
+pitt,UKParliament.txt,1,2.833
+csr,USCongress.txt,1.693,2.833
+injunct,chapter3-TheJudicature.txt,1,2.833
+incident,chapter1-TheParliament.txt,1,2.833
+respond,USCongress.txt,2.099,2.833
+spoken,USCongress.txt,1,2.833
+analyz,USCongress.txt,1,2.833
+witten,FIT5047.txt,1,2.833
+analys,FIT5046.txt,1,2.833
+senate's appropriations committee,USCongress.txt,1,2.833
+howsoev,chapter3-TheJudicature.txt,1,2.833
+in october,USCongress.txt,1,2.833
+floor,USCongress.txt,2.099,2.833
+individual's,FIT5136.txt,1,2.833
+flux,USCongress.txt,1,2.833
+research paper assignment,FIT5046.txt,1.693,2.833
+debtor,chapter1-TheParliament.txt,1,2.833
+212,USCongress.txt,1,2.833
+interlin,WeThePeople.txt,2.099,2.833
+200,USCongress.txt,1,2.833
+o'reilly media,FIT5046.txt,1,2.833
+pardon,WeThePeople.txt,1,2.833
+2assignment,FIT5046.txt,1,2.833
+the united states congress,USCongress.txt,1,2.833
+west,USCongress.txt,1.693,2.833
+lan,FIT5046.txt,1,2.833
+federal employees retirement system,USCongress.txt,1,2.833
+biggest,USCongress.txt,1.693,2.833
+prac,FIT5136.txt,1.693,2.833
+minor,USCongress.txt,2.386,2.833
+her royal,chapter3-TheJudicature.txt,1,2.833
+2.4,USCongress.txt,1,2.833
+2.3,USCongress.txt,1,2.833
+regard,chapter4-FinanceAndTrade.txt,1,2.833
+2.2,USCongress.txt,1,2.833
+incap,chapter1-TheParliament.txt,2.099,2.833
+2.1,USCongress.txt,1,2.833
+empow,USCongress.txt,2.099,2.833
+spirit,USCongress.txt,1,2.833
+roughli,USCongress.txt,1,2.833
+spous,USCongress.txt,1,2.833
+soft computing,FIT5047.txt,1,2.833
+enrolmentsno,FIT5136.txt,1,2.833
+stagger,USCongress.txt,1,2.833
+xxxiii,chapter1-TheParliament.txt,1,2.833
+orderli,USCongress.txt,1,2.833
+pecuniari,chapter1-TheParliament.txt,1.693,2.833
+women,USCongress.txt,1.693,2.833
+105a,chapter4-FinanceAndTrade.txt,1,2.833
+custodi,chapter1-TheParliament.txt,1,2.833
+war powers resolution,USCongress.txt,1,2.833
+pharmaceut,chapter1-TheParliament.txt,1,2.833
+quinn,FIT5136.txt,1,2.833
+inter,chapter3-TheJudicature.txt,1.693,2.833
+constitution's necessary,USCongress.txt,1.693,2.833
+colleagu,USCongress.txt,1.693,2.833
+gubernatori,USCongress.txt,1,2.833
+flow,USCongress.txt,1,2.833
+struck,USCongress.txt,1,2.833
+variabl,USCongress.txt,1,2.833
+breadth,FIT5136.txt,1,2.833
+sydnei,chapter7-Miscellaneous.txt,1,2.833
+no title,WeThePeople.txt,1,2.833
+twenty-two,chapter8-AlterationOfTheConstitution.txt,1,2.833
+microphon,USCongress.txt,1,2.833
+21st,USCongress.txt,1,2.833
+paper presentations,FIT5046.txt,1,2.833
+up-to-date,USCongress.txt,1,2.833
+energi,USCongress.txt,1,2.833
+room,USCongress.txt,2.099,2.833
+pari delir haghighi,FIT5046.txt,1.693,2.833
+congressmen,USCongress.txt,1,2.833
+societi,USCongress.txt,1,2.833
+primari,USCongress.txt,1.693,2.833
+united states census,USCongress.txt,1,2.833
+minim,USCongress.txt,1,2.833
+ascend,UKParliament.txt,1,2.833
+deploi,FIT5166.txt,1,2.833
+great seal,USCongress.txt,1,2.833
+weekly quizzes,FIT5166.txt,1,2.833
+8th,FIT5136.txt,1,2.833
+self-serving,USCongress.txt,1,2.833
+reduc,USCongress.txt,2.099,2.833
+congressional research service,USCongress.txt,2.386,2.833
+ower,chapter1-TheParliament.txt,1,2.833
+george iii,UKParliament.txt,1,2.833
+tip,USCongress.txt,1,2.833
+tie,USCongress.txt,1,2.833
+deploy,FIT5046.txt,1,2.833
+incid,chapter4-FinanceAndTrade.txt,1,2.833
+imag,USCongress.txt,1,2.833
+fifth,WeThePeople.txt,1,2.833
+x,chapter1-TheParliament.txt,1,2.833
+w,USCongress.txt,1,2.833
+fifti,USCongress.txt,1,2.833
+abolit,chapter4-FinanceAndTrade.txt,1,2.833
+t,USCongress.txt,1,2.833
+noncontroversi,USCongress.txt,1,2.833
+sale,chapter5-TheStates.txt,1,2.833
+blood,WeThePeople.txt,1,2.833
+natural-born,chapter1-TheParliament.txt,1,2.833
+twentieth amendment,USCongress.txt,1,2.833
+rescind,chapter4-FinanceAndTrade.txt,1,2.833
+result,USCongress.txt,2.792,2.833
+suffici,WeThePeople.txt,1,2.833
+ashishkumar singh,FIT5166.txt,1,2.833
+pronounc,USCongress.txt,1,2.833
+federal parliament,chapter1-TheParliament.txt,1,2.833
+roll,USCongress.txt,1.693,2.833
+evolutionary algorithms,FIT5047.txt,1,2.833
+sanford levinson,USCongress.txt,1,2.833
+1970stoday,USCongress.txt,2.099,2.833
+intertwin,USCongress.txt,1,2.833
+crc press,FIT5047.txt,1,2.833
+left,USCongress.txt,1.693,2.833
+size,USCongress.txt,2.386,2.833
+all bills,WeThePeople.txt,1,2.833
+conceal,USCongress.txt,1,2.833
+research paper presentation,FIT5046.txt,1,2.833
+each state,WeThePeople.txt,1,2.833
+oversea,USCongress.txt,1,2.833
+170to,FIT5047.txt,1,2.833
+withdrawn,chapter5-TheStates.txt,1,2.833
+spoke,UKParliament.txt,1,2.833
+vacancies.4,WeThePeople.txt,1,2.833
+navig,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,1,2.14
+indirect,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+queen's ministers,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1.693,2.14
+behaviour,WeThePeople.txt,1.693,FIT5136.txt,1,2.14
+observ,chapter5-TheStates.txt,1,chapter1-TheParliament.txt,1,2.14
+suggest,USCongress.txt,3.303,chapter1-TheParliament.txt,1.693,2.14
+leav,USCongress.txt,1,chapter3-TheJudicature.txt,2.099,2.14
+expedi,WeThePeople.txt,1,preamble.txt,1,2.14
+the congress,WeThePeople.txt,2.792,USCongress.txt,2.099,2.14
+road,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+techniqu,FIT5047.txt,1.693,FIT5136.txt,1,2.14
+transmit,WeThePeople.txt,1,chapter1-TheParliament.txt,1,2.14
+recognit,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+corrupt,WeThePeople.txt,1,USCongress.txt,1,2.14
+normal,USCongress.txt,2.099,FIT5166.txt,1,2.14
+assent,chapter8-AlterationOfTheConstitution.txt,1,chapter1-TheParliament.txt,2.946,2.14
+apport,WeThePeople.txt,1,USCongress.txt,1,2.14
+174,UKParliament.txt,1,USCongress.txt,1,2.14
+throne,UKParliament.txt,1,USCongress.txt,1,2.14
+expens,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.609,2.14
+fourth,WeThePeople.txt,2.609,chapter4-FinanceAndTrade.txt,1,2.14
+confirm,FIT5047.txt,1,USCongress.txt,2.386,2.14
+democrat,UKParliament.txt,1,USCongress.txt,3.398,2.14
+one-fifth,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+sum,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1.693,2.14
+currenc,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+128,chapter8-AlterationOfTheConstitution.txt,1,USCongress.txt,2.099,2.14
+127,chapter7-Miscellaneous.txt,1,USCongress.txt,2.099,2.14
+126,chapter7-Miscellaneous.txt,1,USCongress.txt,1,2.14
+125,chapter7-Miscellaneous.txt,1,USCongress.txt,1.693,2.14
+124,USCongress.txt,1,chapter6-NewStates.txt,1,2.14
+123,USCongress.txt,2.099,chapter6-NewStates.txt,1,2.14
+122,USCongress.txt,1.693,chapter6-NewStates.txt,1,2.14
+121,USCongress.txt,1,chapter6-NewStates.txt,1,2.14
+120,chapter5-TheStates.txt,1,USCongress.txt,1.693,2.14
+australia,preamble.txt,2.099,chapter3-TheJudicature.txt,1,2.14
+119,chapter5-TheStates.txt,1,USCongress.txt,2.386,2.14
+118,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+117,chapter5-TheStates.txt,1,USCongress.txt,1.693,2.14
+116,chapter5-TheStates.txt,1,USCongress.txt,2.386,2.14
+115,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+vari,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+114,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+exert,UKParliament.txt,1,USCongress.txt,1,2.14
+113,chapter5-TheStates.txt,1,USCongress.txt,2.386,2.14
+112,chapter5-TheStates.txt,1,USCongress.txt,1.693,2.14
+111,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+110,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+109,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+108,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+107,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+106,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+105,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.099,2.14
+104,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+103,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+102,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1.693,2.14
+101,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+technic,FIT5136.txt,1,USCongress.txt,1,2.14
+one-third,USCongress.txt,1.693,chapter1-TheParliament.txt,1.693,2.14
+involv,USCongress.txt,2.099,chapter3-TheJudicature.txt,1,2.14
+directli,USCongress.txt,1,chapter1-TheParliament.txt,2.386,2.14
+sign,WeThePeople.txt,2.099,USCongress.txt,2.609,2.14
+report,FIT5046.txt,1,USCongress.txt,3.398,2.14
+centuri,UKParliament.txt,1,USCongress.txt,2.386,2.14
+recommended resources,FIT5136.txt,1,FIT5166.txt,1,2.14
+bankruptci,WeThePeople.txt,1,chapter1-TheParliament.txt,1,2.14
+decis,USCongress.txt,3.079,chapter3-TheJudicature.txt,1,2.14
+decemb,WeThePeople.txt,1,USCongress.txt,1,2.14
+ordinari,USCongress.txt,1.693,chapter1-TheParliament.txt,1.693,2.14
+select,FIT5047.txt,1,FIT5046.txt,1,2.14
+ballot,WeThePeople.txt,2.099,USCongress.txt,1,2.14
+compel,WeThePeople.txt,1,USCongress.txt,1,2.14
+maryland,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+delai,WeThePeople.txt,1,USCongress.txt,1,2.14
+compar,USCongress.txt,1.693,FIT5166.txt,1,2.14
+lightship,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,2.14
+contain,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+deleg,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,2.14
+sixth,WeThePeople.txt,1,USCongress.txt,1,2.14
+constitu,UKParliament.txt,1.693,USCongress.txt,3.197,2.14
+sea,WeThePeople.txt,1,USCongress.txt,1,2.14
+strong,FIT5046.txt,1,USCongress.txt,2.386,2.14
+secur,WeThePeople.txt,2.099,USCongress.txt,1,2.14
+adjourn,WeThePeople.txt,2.792,USCongress.txt,1.693,2.14
+posit,UKParliament.txt,1.693,USCongress.txt,2.792,2.14
+draft,UKParliament.txt,1,USCongress.txt,1.693,2.14
+complex,FIT5136.txt,1.693,USCongress.txt,2.609,2.14
+offer,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+amount,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1.693,2.14
+profit,WeThePeople.txt,2.099,chapter1-TheParliament.txt,1,2.14
+messag,USCongress.txt,1,chapter1-TheParliament.txt,2.386,2.14
+arrang,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+forbid,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+1789,UKParliament.txt,1,USCongress.txt,1.693,2.14
+tasmania,preamble.txt,2.099,chapter1-TheParliament.txt,1.693,2.14
+navi,WeThePeople.txt,1.693,chapter1-TheParliament.txt,1,2.14
+consumpt,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1.693,2.14
+consid,UKParliament.txt,1,USCongress.txt,1.693,2.14
+sundai,WeThePeople.txt,1,USCongress.txt,1,2.14
+greater,USCongress.txt,2.946,chapter1-TheParliament.txt,1,2.14
+broad,FIT5136.txt,1,USCongress.txt,1,2.14
+cast,USCongress.txt,1.693,chapter1-TheParliament.txt,1,2.14
+proclam,preamble.txt,1.693,chapter1-TheParliament.txt,2.609,2.14
+underpin,FIT5047.txt,1,FIT5166.txt,1,2.14
+emphasi,FIT5136.txt,1,USCongress.txt,1,2.14
+introduct,FIT5136.txt,1,USCongress.txt,1,2.14
+defend,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+comput,FIT5047.txt,1.693,FIT5046.txt,3.303,2.14
+consul,WeThePeople.txt,2.099,chapter3-TheJudicature.txt,1,2.14
+art,WeThePeople.txt,1,FIT5046.txt,1,2.14
+arm,WeThePeople.txt,1,USCongress.txt,2.099,2.14
+notion,FIT5136.txt,1,USCongress.txt,1,2.14
+letter,WeThePeople.txt,1.693,USCongress.txt,1,2.14
+compon,FIT5046.txt,2.099,FIT5136.txt,1.693,2.14
+compos,WeThePeople.txt,1.693,chapter1-TheParliament.txt,1.693,2.14
+committe,USCongress.txt,4.892,chapter1-TheParliament.txt,1.693,2.14
+qualifi,chapter8-AlterationOfTheConstitution.txt,1.693,chapter1-TheParliament.txt,1,2.14
+parliamentari,UKParliament.txt,1.693,USCongress.txt,1.693,2.14
+telegraph,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,2.14
+bodi,UKParliament.txt,1,USCongress.txt,1.693,2.14
+an act,preamble.txt,1,USCongress.txt,1,2.14
+real,UKParliament.txt,1,USCongress.txt,1.693,2.14
+misbehaviour,chapter4-FinanceAndTrade.txt,1,chapter3-TheJudicature.txt,1,2.14
+defeat,UKParliament.txt,2.099,USCongress.txt,1.693,2.14
+algorithm,FIT5047.txt,1,FIT5166.txt,1,2.14
+challeng,USCongress.txt,2.792,FIT5166.txt,1,2.14
+smaller,WeThePeople.txt,1,USCongress.txt,2.609,2.14
+administ,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,2.14
+consequ,WeThePeople.txt,2.099,chapter1-TheParliament.txt,2.946,2.14
+trust,WeThePeople.txt,2.386,chapter5-TheStates.txt,1,2.14
+port,WeThePeople.txt,1,preamble.txt,1.693,2.14
+contribut,FIT5136.txt,1,USCongress.txt,2.946,2.14
+expenditur,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,3.079,2.14
+dollar,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+conserv,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+describ,FIT5046.txt,1,FIT5136.txt,2.609,2.14
+briberi,WeThePeople.txt,1,USCongress.txt,1,2.14
+trade,chapter4-FinanceAndTrade.txt,2.792,chapter1-TheParliament.txt,2.099,2.14
+enumer,WeThePeople.txt,2.099,USCongress.txt,2.792,2.14
+connecticut,WeThePeople.txt,1,USCongress.txt,1,2.14
+confeder,WeThePeople.txt,1.693,USCongress.txt,1,2.14
+paper,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+network,FIT5047.txt,2.609,FIT5046.txt,2.386,2.14
+one-half,chapter8-AlterationOfTheConstitution.txt,1,chapter1-TheParliament.txt,1,2.14
+detent,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+space,USCongress.txt,1,FIT5166.txt,1,2.14
+resubmiss,FIT5047.txt,1.693,FIT5136.txt,1.693,2.14
+disapprov,WeThePeople.txt,1,USCongress.txt,1,2.14
+septemb,FIT5047.txt,1.693,FIT5166.txt,2.792,2.14
+popul,UKParliament.txt,1,USCongress.txt,3.197,2.14
+inferior,WeThePeople.txt,2.386,USCongress.txt,1,2.14
+isbn,FIT5046.txt,1,FIT5136.txt,1,2.14
+squar,chapter7-Miscellaneous.txt,1,WeThePeople.txt,1,2.14
+inspect,WeThePeople.txt,1,chapter5-TheStates.txt,1.693,2.14
+ratif,WeThePeople.txt,1,USCongress.txt,1,2.14
+debat,WeThePeople.txt,1,USCongress.txt,3.197,2.14
+fact,WeThePeople.txt,1,USCongress.txt,1,2.14
+federal council,preamble.txt,1,chapter1-TheParliament.txt,1,2.14
+patent,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+remuner,chapter4-FinanceAndTrade.txt,1.693,chapter3-TheJudicature.txt,1.693,2.14
+guarante,WeThePeople.txt,1,USCongress.txt,1,2.14
+presenc,WeThePeople.txt,1,chapter1-TheParliament.txt,1.693,2.14
+occur,USCongress.txt,1,chapter1-TheParliament.txt,2.609,2.14
+adher,WeThePeople.txt,1,chapter1-TheParliament.txt,1,2.14
+allegi,Schedule.txt,1.693,chapter1-TheParliament.txt,1.693,2.14
+natur,WeThePeople.txt,1.693,FIT5136.txt,1.693,2.14
+vacant,USCongress.txt,1.693,chapter1-TheParliament.txt,3.708,2.14
+victoria,preamble.txt,2.099,chapter1-TheParliament.txt,1.693,2.14
+action,USCongress.txt,2.946,chapter1-TheParliament.txt,1,2.14
+bounti,chapter4-FinanceAndTrade.txt,2.946,chapter1-TheParliament.txt,1.693,2.14
+america,WeThePeople.txt,1.693,USCongress.txt,1.693,2.14
+explain,FIT5136.txt,1,USCongress.txt,1.693,2.14
+juri,WeThePeople.txt,1,chapter3-TheJudicature.txt,1,2.14
+2005,FIT5047.txt,1,FIT5136.txt,1,2.14
+solv,FIT5047.txt,2.946,FIT5136.txt,1,2.14
+2008,FIT5136.txt,1,USCongress.txt,2.386,2.14
+underli,FIT5046.txt,1.693,FIT5166.txt,1,2.14
+2012,FIT5046.txt,1.693,USCongress.txt,2.099,2.14
+june,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,1.693,2.14
+corpor,USCongress.txt,1,chapter1-TheParliament.txt,1.693,2.14
+organ,WeThePeople.txt,1,USCongress.txt,2.099,2.14
+preserv,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,2.14
+juli,preamble.txt,1,chapter1-TheParliament.txt,1.693,2.14
+soft,FIT5047.txt,1,USCongress.txt,2.099,2.14
+1introduction,FIT5047.txt,1,FIT5046.txt,1,2.14
+clear,WeThePeople.txt,1,UKParliament.txt,1,2.14
+maritim,WeThePeople.txt,1,chapter3-TheJudicature.txt,1,2.14
+thirteen,UKParliament.txt,1,USCongress.txt,1,2.14
+point,UKParliament.txt,1,USCongress.txt,1,2.14
+histori,USCongress.txt,2.609,FIT5166.txt,1,2.14
+bear,chapter4-FinanceAndTrade.txt,1,Schedule.txt,1.693,2.14
+consolidated revenue fund,chapter4-FinanceAndTrade.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,2.14
+constitution alteration,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,2.386,2.14
+yea,WeThePeople.txt,1.693,USCongress.txt,1,2.14
+effort,UKParliament.txt,1,USCongress.txt,2.099,2.14
+nomin,WeThePeople.txt,1,USCongress.txt,1,2.14
+pro,WeThePeople.txt,1,USCongress.txt,2.792,2.14
+incapac,chapter4-FinanceAndTrade.txt,1,chapter3-TheJudicature.txt,1,2.14
+redistribut,UKParliament.txt,1,USCongress.txt,1,2.14
+latest,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,1.693,2.14
+south australia,preamble.txt,2.386,chapter1-TheParliament.txt,1.693,2.14
+decad,UKParliament.txt,1,USCongress.txt,1.693,2.14
+liberti,WeThePeople.txt,1,USCongress.txt,1,2.14
+foremost,UKParliament.txt,1,USCongress.txt,1,2.14
+conven,WeThePeople.txt,1.693,chapter1-TheParliament.txt,1,2.14
+virginia,WeThePeople.txt,1,USCongress.txt,1,2.14
+ethic,FIT5136.txt,1.693,USCongress.txt,1,2.14
+annul,chapter5-TheStates.txt,1,chapter1-TheParliament.txt,1,2.14
+4th,FIT5136.txt,1,USCongress.txt,1,2.14
+armi,WeThePeople.txt,1.693,chapter1-TheParliament.txt,1,2.14
+wake,UKParliament.txt,1,USCongress.txt,1,2.14
+crimin,USCongress.txt,1.693,chapter1-TheParliament.txt,1.693,2.14
+imprison,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+articl,WeThePeople.txt,3.197,USCongress.txt,3.639,2.14
+buoi,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,2.14
+larger,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+even,FIT5047.txt,1,FIT5046.txt,1,2.14
+disagr,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+imposit,chapter4-FinanceAndTrade.txt,3.485,chapter1-TheParliament.txt,1.693,2.14
+desir,WeThePeople.txt,1,FIT5136.txt,1,2.14
+american,UKParliament.txt,1,USCongress.txt,3.398,2.14
+pocket,UKParliament.txt,1.693,USCongress.txt,1,2.14
+certif,WeThePeople.txt,1,chapter3-TheJudicature.txt,1,2.14
+perform,USCongress.txt,2.099,chapter1-TheParliament.txt,1.693,2.14
+treasuri,WeThePeople.txt,2.099,chapter4-FinanceAndTrade.txt,1.693,2.14
+weekli,FIT5136.txt,1,FIT5166.txt,2.792,2.14
+tradit,UKParliament.txt,1,USCongress.txt,1,2.14
+cost,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.792,2.14
+vice president,WeThePeople.txt,2.609,USCongress.txt,1,2.14
+line,WeThePeople.txt,2.099,UKParliament.txt,1,2.14
+ground,chapter4-FinanceAndTrade.txt,1,chapter3-TheJudicature.txt,1,2.14
+data,USCongress.txt,1,FIT5166.txt,1,2.14
+accus,chapter5-TheStates.txt,1,USCongress.txt,1.693,2.14
+statist,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,2.099,2.14
+3the,FIT5136.txt,1,FIT5166.txt,1,2.14
+misdemeanor,WeThePeople.txt,1,USCongress.txt,1,2.14
+feder,USCongress.txt,4.045,chapter3-TheJudicature.txt,3.079,2.14
+contract,WeThePeople.txt,1.693,FIT5136.txt,1,2.14
+forego,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+distribut,FIT5046.txt,2.792,USCongress.txt,1,2.14
+choic,WeThePeople.txt,1.693,USCongress.txt,1.693,2.14
+heir,preamble.txt,1,Schedule.txt,1.693,2.14
+joint,USCongress.txt,3.079,chapter1-TheParliament.txt,1.693,2.14
+assist,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1.693,2.14
+interv,chapter8-AlterationOfTheConstitution.txt,1,chapter1-TheParliament.txt,1,2.14
+intern,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.099,2.14
+su,USCongress.txt,1,chapter3-TheJudicature.txt,1.693,2.14
+united states,WeThePeople.txt,4.951,USCongress.txt,3.996,2.14
+hands-on,FIT5136.txt,1,FIT5166.txt,1,2.14
+nation,WeThePeople.txt,1.693,USCongress.txt,3.398,2.14
+nobil,WeThePeople.txt,1.693,UKParliament.txt,1,2.14
+hear,USCongress.txt,2.792,chapter3-TheJudicature.txt,1.693,2.14
+head,WeThePeople.txt,1,USCongress.txt,1,2.14
+schedul,FIT5166.txt,1.693,chapter1-TheParliament.txt,1,2.14
+code,FIT5046.txt,1.693,FIT5136.txt,1,2.14
+updat,FIT5046.txt,1,USCongress.txt,1.693,2.14
+claim,WeThePeople.txt,2.099,chapter3-TheJudicature.txt,1,2.14
+draw,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+settlement,UKParliament.txt,1,chapter1-TheParliament.txt,1,2.14
+each house,WeThePeople.txt,2.099,chapter1-TheParliament.txt,1,2.14
+context,FIT5136.txt,1,FIT5166.txt,1.693,2.14
+degre,FIT5046.txt,1.693,FIT5166.txt,1,2.14
+inter-state commission,chapter4-FinanceAndTrade.txt,2.386,chapter3-TheJudicature.txt,1,2.14
+congress,WeThePeople.txt,4.091,USCongress.txt,6.153,2.14
+restor,UKParliament.txt,1.693,USCongress.txt,1,2.14
+contrari,WeThePeople.txt,1,USCongress.txt,1,2.14
+the queen,chapter7-Miscellaneous.txt,1,chapter1-TheParliament.txt,1,2.14
+the president,WeThePeople.txt,2.609,chapter1-TheParliament.txt,1.693,2.14
+westminst,preamble.txt,1,UKParliament.txt,1,2.14
+fourteen,WeThePeople.txt,1,chapter1-TheParliament.txt,1.693,2.14
+quorum,WeThePeople.txt,1.693,USCongress.txt,2.609,2.14
+domin,UKParliament.txt,1.693,USCongress.txt,2.099,2.14
+search,FIT5047.txt,1.693,FIT5166.txt,2.386,2.14
+virtu,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+discharg,WeThePeople.txt,1.693,USCongress.txt,1,2.14
+frank,FIT5047.txt,1,USCongress.txt,1.693,2.14
+elig,WeThePeople.txt,1.693,USCongress.txt,1,2.14
+ad,WeThePeople.txt,1,USCongress.txt,2.386,2.14
+claus,WeThePeople.txt,1,USCongress.txt,2.386,2.14
+bring,FIT5136.txt,1,FIT5166.txt,1,2.14
+vacat,WeThePeople.txt,1,chapter1-TheParliament.txt,1,2.14
+wit,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+breach,WeThePeople.txt,1,USCongress.txt,1,2.14
+faith,chapter5-TheStates.txt,1,Schedule.txt,1.693,2.14
+supreme court,USCongress.txt,3.565,chapter3-TheJudicature.txt,2.099,2.14
+topic,FIT5136.txt,1,FIT5166.txt,1,2.14
+the governor-general,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.099,2.14
+taxat,USCongress.txt,1,chapter1-TheParliament.txt,3.079,2.14
+arrest,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+wrong,USCongress.txt,1,FIT5166.txt,1,2.14
+passag,chapter8-AlterationOfTheConstitution.txt,1,USCongress.txt,1.693,2.14
+portion,chapter7-Miscellaneous.txt,1,chapter4-FinanceAndTrade.txt,1,2.14
+prevail,chapter8-AlterationOfTheConstitution.txt,1,chapter5-TheStates.txt,1,2.14
+eekli,FIT5136.txt,1,FIT5166.txt,1.693,2.14
+article i,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+race,USCongress.txt,2.792,chapter1-TheParliament.txt,2.099,2.14
+statement,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+focu,FIT5046.txt,1,USCongress.txt,1,2.14
+impost,WeThePeople.txt,2.386,USCongress.txt,1,2.14
+oppon,UKParliament.txt,1,USCongress.txt,1,2.14
+principl,FIT5047.txt,1,USCongress.txt,1.693,2.14
+quarantin,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,2.14
+balanc,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,3.303,2.14
+preambl,WeThePeople.txt,1,preamble.txt,1,2.14
+welfar,WeThePeople.txt,1.693,USCongress.txt,1.693,2.14
+shift,UKParliament.txt,2.099,USCongress.txt,1.693,2.14
+storag,chapter5-TheStates.txt,1,USCongress.txt,1,2.14
+render,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,1.693,2.14
+media,USCongress.txt,2.609,FIT5166.txt,1,2.14
+choos,USCongress.txt,2.386,chapter1-TheParliament.txt,3.398,2.14
+neg,USCongress.txt,2.792,chapter1-TheParliament.txt,1,2.14
+2nd,FIT5047.txt,1,FIT5046.txt,1,2.14
+valid,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,1,2.14
+seventi,USCongress.txt,1,chapter3-TheJudicature.txt,2.099,2.14
+copyright,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+swear,WeThePeople.txt,1,Schedule.txt,1,2.14
+rich,UKParliament.txt,1,USCongress.txt,1,2.14
+end,UKParliament.txt,1,USCongress.txt,2.099,2.14
+need,WeThePeople.txt,1.693,UKParliament.txt,1,2.14
+specif,USCongress.txt,1.693,FIT5166.txt,1.693,2.14
+thirtieth,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,1.693,2.14
+feloni,WeThePeople.txt,2.099,USCongress.txt,1,2.14
+absent,WeThePeople.txt,1,chapter1-TheParliament.txt,2.386,2.14
+permiss,USCongress.txt,1,chapter1-TheParliament.txt,1.693,2.14
+branch,WeThePeople.txt,1,USCongress.txt,4.091,2.14
+controversi,WeThePeople.txt,1.693,USCongress.txt,2.099,2.14
+immigr,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+command,WeThePeople.txt,1,chapter2-TheExecutiveGovernment.txt,1,2.14
+students',FIT5047.txt,1,FIT5046.txt,1,2.14
+original states,preamble.txt,1,chapter1-TheParliament.txt,1,2.14
+enjoi,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+opinion,WeThePeople.txt,1,USCongress.txt,2.792,2.14
+queensland,preamble.txt,2.099,chapter1-TheParliament.txt,2.099,2.14
+variat,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+indict,WeThePeople.txt,1,chapter3-TheJudicature.txt,1,2.14
+99,chapter4-FinanceAndTrade.txt,1,USCongress.txt,3.833,2.14
+98,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.099,2.14
+97,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1.693,2.14
+96,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+95,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+lighthous,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,2.14
+94,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+93,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+92,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+91,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+90,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.386,2.14
+89,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+88,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+ireland,preamble.txt,1,Schedule.txt,1,2.14
+87,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+86,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+85,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1.693,2.14
+84,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+83,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+82,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+81,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+80,USCongress.txt,1.693,chapter3-TheJudicature.txt,1,2.14
+79,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+78,USCongress.txt,1.693,chapter3-TheJudicature.txt,1,2.14
+77,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+76,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+75,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+74,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+73,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+72,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+71,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+unlaw,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+proper,WeThePeople.txt,2.386,USCongress.txt,2.099,2.14
+69,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,2.14
+68,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,2.14
+67,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,2.14
+66,USCongress.txt,2.099,chapter2-TheExecutiveGovernment.txt,1,2.14
+65,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,2.14
+64,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,2.14
+63,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,2.14
+62,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,2.14
+61,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,2.14
+59,USCongress.txt,1.693,chapter1-TheParliament.txt,1,2.14
+58,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+57,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+56,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+54,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+53,USCongress.txt,2.609,chapter1-TheParliament.txt,1,2.14
+52,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+51,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+49,USCongress.txt,1.693,chapter1-TheParliament.txt,1,2.14
+militia,WeThePeople.txt,2.386,USCongress.txt,1,2.14
+48,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+47,USCongress.txt,1.693,chapter1-TheParliament.txt,1,2.14
+46,USCongress.txt,2.099,chapter1-TheParliament.txt,1,2.14
+45,USCongress.txt,2.386,chapter1-TheParliament.txt,1,2.14
+44,USCongress.txt,1.693,chapter1-TheParliament.txt,1,2.14
+43,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+42,USCongress.txt,2.386,chapter1-TheParliament.txt,1,2.14
+41,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+polit,USCongress.txt,4.332,chapter1-TheParliament.txt,1.693,2.14
+39,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+38,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+37,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+36,USCongress.txt,1.693,chapter1-TheParliament.txt,1,2.14
+35,USCongress.txt,2.099,chapter1-TheParliament.txt,1,2.14
+34,USCongress.txt,1.693,chapter1-TheParliament.txt,1,2.14
+33,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+32,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+31,USCongress.txt,1.693,chapter1-TheParliament.txt,1,2.14
+relationship,FIT5046.txt,1,USCongress.txt,1,2.14
+industri,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+long,UKParliament.txt,1,USCongress.txt,1,2.14
+29,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+28,USCongress.txt,1.693,chapter1-TheParliament.txt,1,2.14
+27,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+26,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+21,USCongress.txt,2.099,chapter1-TheParliament.txt,1,2.14
+encount,FIT5136.txt,1,FIT5166.txt,1,2.14
+highest,WeThePeople.txt,1,USCongress.txt,1,2.14
+benefit,USCongress.txt,2.609,chapter1-TheParliament.txt,2.099,2.14
+original state,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,2.609,2.14
+11.55pm,FIT5136.txt,2.099,FIT5166.txt,1.693,2.14
+background,FIT5046.txt,1,USCongress.txt,1,2.14
+legislatur,WeThePeople.txt,3.398,USCongress.txt,2.609,2.14
+convent,WeThePeople.txt,2.099,USCongress.txt,1,2.14
+main,FIT5047.txt,1,USCongress.txt,3.708,2.14
+discret,FIT5136.txt,1,chapter1-TheParliament.txt,1,2.14
+bless,WeThePeople.txt,1,preamble.txt,1,2.14
+stand,UKParliament.txt,1,USCongress.txt,2.609,2.14
+crime,WeThePeople.txt,2.609,USCongress.txt,1.693,2.14
+emolu,WeThePeople.txt,2.099,chapter4-FinanceAndTrade.txt,1,2.14
+twenti,WeThePeople.txt,1,USCongress.txt,1.693,2.14
+addison-wesley,FIT5046.txt,1,FIT5136.txt,1.693,2.14
+invalid,chapter5-TheStates.txt,1,chapter1-TheParliament.txt,1,2.14
+field,FIT5047.txt,1,FIT5046.txt,1,2.14
+fear,UKParliament.txt,1,USCongress.txt,1,2.14
+influenc,UKParliament.txt,2.386,USCongress.txt,3.485,2.14
+convers,chapter4-FinanceAndTrade.txt,1,FIT5166.txt,1,2.14
+interpret,USCongress.txt,2.099,chapter3-TheJudicature.txt,1,2.14
+manufactur,chapter4-FinanceAndTrade.txt,1,UKParliament.txt,1,2.14
+pound,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.099,2.14
+publicli,USCongress.txt,1,chapter1-TheParliament.txt,1.693,2.14
+final,USCongress.txt,2.099,chapter3-TheJudicature.txt,1,2.14
+impair,WeThePeople.txt,1,chapter3-TheJudicature.txt,1,2.14
+sentenc,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1.693,2.14
+adult,chapter8-AlterationOfTheConstitution.txt,1,chapter1-TheParliament.txt,1,2.14
+mile,chapter7-Miscellaneous.txt,1.693,WeThePeople.txt,1,2.14
+partli,WeThePeople.txt,1,USCongress.txt,1,2.14
+bind,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,2.14
+railwai,chapter4-FinanceAndTrade.txt,2.386,chapter1-TheParliament.txt,2.099,2.14
+intellig,FIT5047.txt,2.792,USCongress.txt,1,2.14
+adequ,FIT5136.txt,1,USCongress.txt,1.693,2.14
+scienc,WeThePeople.txt,1,USCongress.txt,1,2.14
+the speaker,USCongress.txt,1.693,chapter1-TheParliament.txt,1.693,2.14
+magazin,WeThePeople.txt,1,USCongress.txt,1,2.14
+preced,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,2.099,2.14
+1977,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,2.609,2.14
+suffrag,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,1,2.14
+district,WeThePeople.txt,1,USCongress.txt,3.197,2.14
+actual,WeThePeople.txt,1.693,USCongress.txt,1,2.14
+authoris,chapter7-Miscellaneous.txt,1,chapter1-TheParliament.txt,1.693,2.14
+ieee,FIT5046.txt,1,FIT5166.txt,1,2.14
+lie,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+thing,WeThePeople.txt,1.693,FIT5136.txt,1,2.14
+deliber,USCongress.txt,1,chapter1-TheParliament.txt,1,2.14
+moodl,FIT5136.txt,1,FIT5166.txt,2.386,2.14
+theoret,FIT5047.txt,1,FIT5166.txt,1,2.14
+this constitution,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,1,2.14
+thirti,WeThePeople.txt,2.792,chapter1-TheParliament.txt,1,2.14
+led,UKParliament.txt,1,USCongress.txt,2.099,2.14
+levi,WeThePeople.txt,1,chapter5-TheStates.txt,1.693,2.14
+dissolv,UKParliament.txt,1,chapter1-TheParliament.txt,2.609,2.14
+troop,WeThePeople.txt,1,USCongress.txt,1,2.14
+prai,chapter4-FinanceAndTrade.txt,1,chapter3-TheJudicature.txt,1,2.14
+lai,WeThePeople.txt,2.099,USCongress.txt,1,2.14
+pleas,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1,2.14
+product,chapter4-FinanceAndTrade.txt,2.099,chapter1-TheParliament.txt,1,2.14
+incumb,UKParliament.txt,1,USCongress.txt,2.792,2.14
+solemnli,WeThePeople.txt,1,Schedule.txt,1,2.14
+reform,UKParliament.txt,3.398,USCongress.txt,2.609,2.14
+distant,chapter7-Miscellaneous.txt,1,USCongress.txt,1,2.14
+impeach,WeThePeople.txt,2.792,USCongress.txt,3.708,2.14
+surrend,chapter5-TheStates.txt,1.693,chapter6-NewStates.txt,1,2.14
+forcibl,UKParliament.txt,1,USCongress.txt,1,2.14
+beacon,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,2.14
+violenc,WeThePeople.txt,1,chapter5-TheStates.txt,1,2.14
+hand,USCongress.txt,1,chapter3-TheJudicature.txt,1,2.14
+connect,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,2.14
+role,UKParliament.txt,1,USCongress.txt,2.609,2.14
+advoc,UKParliament.txt,1,USCongress.txt,1,2.14
+australasia,preamble.txt,1,chapter1-TheParliament.txt,1,2.14
+united kingdom,preamble.txt,2.099,Schedule.txt,1,chapter1-TheParliament.txt,2.099,1.735
+tax,WeThePeople.txt,2.609,chapter5-TheStates.txt,1.693,USCongress.txt,2.946,1.735
+site,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.735
+the house,WeThePeople.txt,1.693,USCongress.txt,2.609,chapter1-TheParliament.txt,1.693,1.735
+review,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.609,1.735
+express,chapter7-Miscellaneous.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,1.735
+drawn,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,UKParliament.txt,1,1.735
+environ,FIT5047.txt,1.693,FIT5136.txt,1,FIT5166.txt,1,1.735
+behalf,chapter5-TheStates.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,1.735
+100,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.792,1.735
+immun,WeThePeople.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1.693,1.735
+high,WeThePeople.txt,1.693,FIT5046.txt,1,USCongress.txt,2.386,1.735
+crown,chapter7-Miscellaneous.txt,1,preamble.txt,1,chapter1-TheParliament.txt,1.693,1.735
+candid,UKParliament.txt,1,USCongress.txt,3.485,chapter1-TheParliament.txt,1.693,1.735
+set,FIT5136.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+civil,WeThePeople.txt,1.693,USCongress.txt,2.099,chapter1-TheParliament.txt,1.693,1.735
+liabl,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,1,1.735
+reject,chapter8-AlterationOfTheConstitution.txt,1.693,USCongress.txt,2.609,chapter1-TheParliament.txt,2.099,1.735
+ascertain,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1.693,chapter1-TheParliament.txt,1,1.735
+transfer,chapter4-FinanceAndTrade.txt,3.303,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,1,1.735
+king,WeThePeople.txt,1,Schedule.txt,1,UKParliament.txt,1.693,1.735
+protect,WeThePeople.txt,1.693,chapter5-TheStates.txt,1,USCongress.txt,2.386,1.735
+style,FIT5046.txt,1,USCongress.txt,2.099,FIT5166.txt,1,1.735
+knowledg,FIT5047.txt,2.386,FIT5136.txt,1.693,USCongress.txt,1,1.735
+index.jsp,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,1.735
+defenc,WeThePeople.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,1.735
+reli,preamble.txt,1,UKParliament.txt,1,USCongress.txt,1,1.735
+name,WeThePeople.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1,1.735
+enact,preamble.txt,1,UKParliament.txt,1.693,USCongress.txt,2.609,1.735
+emuapps.monash.edu.au,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,1.735
+ask,USCongress.txt,1,chapter3-TheJudicature.txt,1,FIT5166.txt,1,1.735
+facilit,FIT5047.txt,1,FIT5046.txt,1,USCongress.txt,1.693,1.735
+demand,WeThePeople.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+ship,WeThePeople.txt,1,preamble.txt,1.693,chapter4-FinanceAndTrade.txt,1,1.735
+oblig,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1.693,1.735
+cite,FIT5047.txt,1,preamble.txt,1,USCongress.txt,1.693,1.735
+tender,WeThePeople.txt,1,chapter5-TheStates.txt,1,chapter1-TheParliament.txt,1,1.735
+aid,WeThePeople.txt,1,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1.693,1.735
+silver,WeThePeople.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,1.735
+identifi,FIT5046.txt,1.693,UKParliament.txt,1,USCongress.txt,1,1.735
+referenc,FIT5047.txt,1.693,FIT5046.txt,1,FIT5166.txt,1.693,1.735
+ratifi,WeThePeople.txt,1.693,UKParliament.txt,1,USCongress.txt,2.386,1.735
+discrimin,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,2.099,chapter1-TheParliament.txt,1,1.735
+initi,FIT5136.txt,1,USCongress.txt,2.792,FIT5166.txt,1,1.735
+post,WeThePeople.txt,2.099,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,1.735
+unitevalu,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,1.735
+emploi,WeThePeople.txt,1,FIT5136.txt,1,chapter1-TheParliament.txt,1,1.735
+occas,WeThePeople.txt,1,UKParliament.txt,1,USCongress.txt,1,1.735
+speaker,WeThePeople.txt,1,USCongress.txt,2.386,chapter1-TheParliament.txt,3.303,1.735
+iii,chapter4-FinanceAndTrade.txt,2.099,chapter3-TheJudicature.txt,2.609,chapter1-TheParliament.txt,2.386,1.735
+fail,chapter8-AlterationOfTheConstitution.txt,1.693,USCongress.txt,2.099,chapter1-TheParliament.txt,2.609,1.735
+the commonwealth,chapter5-TheStates.txt,1.693,preamble.txt,2.099,chapter4-FinanceAndTrade.txt,3.197,1.735
+critic,FIT5047.txt,1,FIT5046.txt,1,USCongress.txt,3.485,1.735
+reflect,FIT5046.txt,1,UKParliament.txt,1,USCongress.txt,2.386,1.735
+cover,FIT5136.txt,1,USCongress.txt,2.099,FIT5166.txt,1,1.735
+domest,WeThePeople.txt,1.693,chapter5-TheStates.txt,1,UKParliament.txt,1.693,1.735
+sought,UKParliament.txt,2.099,USCongress.txt,1,chapter3-TheJudicature.txt,1,1.735
+fill,WeThePeople.txt,2.099,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+citizen,WeThePeople.txt,3.303,USCongress.txt,3.303,chapter1-TheParliament.txt,1.693,1.735
+british,preamble.txt,1,UKParliament.txt,2.386,USCongress.txt,1,1.735
+vacanc,WeThePeople.txt,2.386,USCongress.txt,2.099,chapter1-TheParliament.txt,3.944,1.735
+assembl,WeThePeople.txt,1.693,preamble.txt,1,USCongress.txt,1,1.735
+sole,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,1.735
+2010,FIT5047.txt,1,FIT5136.txt,1,USCongress.txt,1.693,1.735
+happen,WeThePeople.txt,2.099,USCongress.txt,1,chapter1-TheParliament.txt,1,1.735
+account,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,1.693,1.735
+compens,WeThePeople.txt,2.099,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,1,1.735
+engin,FIT5136.txt,3.079,USCongress.txt,1,FIT5166.txt,1.693,1.735
+late,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.735
+land,chapter7-Miscellaneous.txt,1,WeThePeople.txt,2.386,chapter4-FinanceAndTrade.txt,1.693,1.735
+chief justice,WeThePeople.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,1.735
+busi,WeThePeople.txt,1,USCongress.txt,2.386,chapter1-TheParliament.txt,2.386,1.735
+judgment,WeThePeople.txt,2.099,chapter3-TheJudicature.txt,1.693,chapter1-TheParliament.txt,1,1.735
+instanc,chapter4-FinanceAndTrade.txt,1,UKParliament.txt,1,USCongress.txt,1,1.735
+writ,WeThePeople.txt,1.693,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,2.946,1.735
+peer,FIT5047.txt,1,FIT5046.txt,1,USCongress.txt,1,1.735
+mondai,WeThePeople.txt,1,FIT5136.txt,2.099,FIT5166.txt,1.693,1.735
+western australia,preamble.txt,2.099,chapter4-FinanceAndTrade.txt,2.099,chapter1-TheParliament.txt,1.693,1.735
+restrict,UKParliament.txt,1.693,USCongress.txt,1.693,chapter3-TheJudicature.txt,1,1.735
+jointli,chapter7-Miscellaneous.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1,1.735
+aris,WeThePeople.txt,1,chapter3-TheJudicature.txt,2.386,chapter1-TheParliament.txt,2.099,1.735
+peac,WeThePeople.txt,1.693,USCongress.txt,1.693,chapter1-TheParliament.txt,1.693,1.735
+new south wales,chapter7-Miscellaneous.txt,1,preamble.txt,2.099,chapter1-TheParliament.txt,1.693,1.735
+correct,FIT5047.txt,2.099,FIT5136.txt,1.693,FIT5166.txt,1.693,1.735
+analysi,FIT5047.txt,1,FIT5046.txt,1,USCongress.txt,1,1.735
+oath,WeThePeople.txt,2.386,Schedule.txt,1,chapter1-TheParliament.txt,1,1.735
+follow,UKParliament.txt,1,USCongress.txt,1,FIT5166.txt,1,1.735
+executive council,chapter4-FinanceAndTrade.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,1.735
+help,FIT5136.txt,1,USCongress.txt,2.946,FIT5166.txt,1,1.735
+exist,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,1.693,1.735
+great britain,preamble.txt,1,Schedule.txt,1,UKParliament.txt,1,1.735
+life,WeThePeople.txt,1,FIT5136.txt,1,USCongress.txt,1,1.735
+coin,WeThePeople.txt,2.609,chapter5-TheStates.txt,1.693,USCongress.txt,1,1.735
+countri,USCongress.txt,1.693,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1,1.735
+concurr,WeThePeople.txt,2.099,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+invas,WeThePeople.txt,2.099,chapter5-TheStates.txt,1,USCongress.txt,1,1.735
+censu,WeThePeople.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+confer,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1.693,chapter3-TheJudicature.txt,1.693,1.735
+certifi,WeThePeople.txt,1,chapter3-TheJudicature.txt,1.693,chapter1-TheParliament.txt,1.693,1.735
+iv,chapter4-FinanceAndTrade.txt,1,chapter3-TheJudicature.txt,1.693,chapter1-TheParliament.txt,2.792,1.735
+ii,chapter4-FinanceAndTrade.txt,2.386,chapter3-TheJudicature.txt,2.609,chapter1-TheParliament.txt,2.946,1.735
+content,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,1.735
+affirm,WeThePeople.txt,2.386,Schedule.txt,1.693,chapter1-TheParliament.txt,2.099,1.735
+admiss,chapter5-TheStates.txt,1.693,preamble.txt,1,chapter6-NewStates.txt,1,1.735
+justic,WeThePeople.txt,1.693,USCongress.txt,1,chapter3-TheJudicature.txt,3.773,1.735
+prove,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,chapter3-TheJudicature.txt,1,1.735
+ag,WeThePeople.txt,2.099,chapter3-TheJudicature.txt,3.197,chapter1-TheParliament.txt,1,1.735
+pension,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,1.693,chapter1-TheParliament.txt,2.386,1.735
+remark,FIT5136.txt,1,USCongress.txt,2.099,FIT5166.txt,1.693,1.735
+web,FIT5047.txt,1,FIT5046.txt,1.693,FIT5166.txt,1.693,1.735
+treason,WeThePeople.txt,2.946,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+plan,FIT5047.txt,1,USCongress.txt,2.099,FIT5166.txt,1,1.735
+war,WeThePeople.txt,2.386,preamble.txt,1,USCongress.txt,3.565,1.735
+privileg,WeThePeople.txt,1.693,USCongress.txt,3.565,chapter1-TheParliament.txt,2.099,1.735
+import,WeThePeople.txt,2.386,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,2.946,1.735
+summon,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1.693,1.735
+previou,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,1.735
+her majesty,preamble.txt,1,chapter3-TheJudicature.txt,2.099,chapter1-TheParliament.txt,1,1.735
+net,WeThePeople.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,1.735
+trial,WeThePeople.txt,2.099,USCongress.txt,2.386,chapter3-TheJudicature.txt,2.099,1.735
+assum,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,USCongress.txt,1.693,1.735
+the senate,WeThePeople.txt,2.099,USCongress.txt,2.609,chapter1-TheParliament.txt,2.792,1.735
+numer,WeThePeople.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,2.609,1.735
+softwar,FIT5047.txt,2.946,FIT5046.txt,1,FIT5136.txt,3.708,1.735
+ceas,chapter4-FinanceAndTrade.txt,1.693,UKParliament.txt,1,chapter1-TheParliament.txt,2.792,1.735
+agreement,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,3.079,chapter1-TheParliament.txt,1,1.735
+absenc,WeThePeople.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.792,1.735
+retir,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,2.946,chapter3-TheJudicature.txt,1,1.735
+theori,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.735
+trend,FIT5047.txt,1,FIT5046.txt,1,USCongress.txt,1,1.735
+tempor,WeThePeople.txt,1,preamble.txt,1,USCongress.txt,2.792,1.735
+insur,WeThePeople.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,2.099,1.735
+presid,WeThePeople.txt,4.091,USCongress.txt,4.738,chapter1-TheParliament.txt,3.303,1.735
+70,FIT5047.txt,1.693,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,1.735
+organis,FIT5046.txt,1,FIT5136.txt,1,UKParliament.txt,1,1.735
+60,FIT5136.txt,1.693,USCongress.txt,2.386,chapter1-TheParliament.txt,1,1.735
+25,FIT5136.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+24,FIT5047.txt,1.693,USCongress.txt,1,chapter1-TheParliament.txt,1,1.735
+23,USCongress.txt,1,FIT5166.txt,2.099,chapter1-TheParliament.txt,1,1.735
+22,FIT5047.txt,1.693,USCongress.txt,1,chapter1-TheParliament.txt,1,1.735
+19,FIT5047.txt,1.693,USCongress.txt,1,chapter1-TheParliament.txt,1,1.735
+18,WeThePeople.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+17,WeThePeople.txt,1,USCongress.txt,2.099,chapter1-TheParliament.txt,1,1.735
+15,WeThePeople.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1,1.735
+13,WeThePeople.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1,1.735
+purchas,FIT5047.txt,1,WeThePeople.txt,1,USCongress.txt,1.693,1.735
+text,FIT5047.txt,2.386,FIT5046.txt,1,FIT5136.txt,2.386,1.735
+her majesty's,preamble.txt,1,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1,1.735
+legal,chapter5-TheStates.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+previous student evaluations,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,1.735
+water,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,chapter1-TheParliament.txt,1,1.735
+format,FIT5046.txt,1,USCongress.txt,1,FIT5166.txt,1,1.735
+religi,WeThePeople.txt,1,chapter5-TheStates.txt,1.693,USCongress.txt,1,1.735
+attain,WeThePeople.txt,2.099,chapter3-TheJudicature.txt,2.386,chapter1-TheParliament.txt,1,1.735
+financi,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.735
+paid,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,2.792,USCongress.txt,1.693,1.735
+fund,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.386,chapter1-TheParliament.txt,1,1.735
+full,chapter5-TheStates.txt,1,USCongress.txt,2.386,chapter1-TheParliament.txt,1,1.735
+speech,WeThePeople.txt,1,USCongress.txt,2.792,chapter1-TheParliament.txt,1.693,1.735
+payabl,chapter4-FinanceAndTrade.txt,2.099,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1.693,1.735
+mainten,chapter4-FinanceAndTrade.txt,2.386,FIT5136.txt,1,chapter2-TheExecutiveGovernment.txt,1,1.735
+concern,WeThePeople.txt,1,USCongress.txt,2.609,chapter1-TheParliament.txt,2.099,1.735
+twelv,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,1.735
+proce,WeThePeople.txt,1,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1,1.735
+successor,preamble.txt,1,Schedule.txt,1.693,UKParliament.txt,1.693,1.735
+proport,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,2.099,chapter1-TheParliament.txt,1,1.735
+implement,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,2.099,1.735
+v,USCongress.txt,2.386,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1.693,1.735
+gold,WeThePeople.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,1.735
+constru,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,chapter2-TheExecutiveGovernment.txt,1,1.735
+half,UKParliament.txt,1,USCongress.txt,2.386,chapter1-TheParliament.txt,1,1.735
+unit schedule,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+at south africa,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+deliv,WeThePeople.txt,1.693,FIT5046.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,1.447
+disability liaison unit,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+intranet.monash.edu.au,FIT5047.txt,2.386,FIT5046.txt,2.386,FIT5136.txt,2.386,FIT5166.txt,2.386,1.447
+monash-graduate-attributes-policy.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+tab,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+assess,FIT5047.txt,3.89,FIT5046.txt,4.178,FIT5136.txt,4.258,FIT5166.txt,4.091,1.447
+leas,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+if electronic submission,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+feedback,FIT5047.txt,3.485,FIT5046.txt,3.485,FIT5136.txt,3.485,FIT5166.txt,3.708,1.447
+queen's,chapter8-AlterationOfTheConstitution.txt,1,preamble.txt,1.693,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,3.197,1.447
+naval,WeThePeople.txt,1,chapter5-TheStates.txt,1,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,2.099,1.447
+written,WeThePeople.txt,1.693,FIT5046.txt,1.693,USCongress.txt,1.693,FIT5166.txt,1,1.447
+subsequ,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1.693,1.447
+student charter,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+access,FIT5047.txt,1.693,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+accept,WeThePeople.txt,1.693,chapter5-TheStates.txt,1,USCongress.txt,1,chapter6-NewStates.txt,1.693,1.447
+emest,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+special-consideration-policy.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+control,chapter4-FinanceAndTrade.txt,2.386,UKParliament.txt,2.099,USCongress.txt,3.197,chapter1-TheParliament.txt,2.099,1.447
+produc,WeThePeople.txt,1,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,1.447
+at malaysia,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+fit5131,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+sit,chapter7-Miscellaneous.txt,1,WeThePeople.txt,1.693,USCongress.txt,1.693,chapter1-TheParliament.txt,3.197,1.447
+swot vac,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+deem,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,1.693,chapter1-TheParliament.txt,2.792,1.447
+debt,WeThePeople.txt,2.099,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,3.398,USCongress.txt,2.386,1.447
+contact,FIT5047.txt,2.386,FIT5046.txt,2.386,FIT5136.txt,2.386,FIT5166.txt,2.386,1.447
+student-discipline-policy.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+assessment hurdles,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+www.lib.monash.edu.au,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+www.monash.ac.za,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+south africa,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+prerequisit,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+special-consideration.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+explor,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+special consideration,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+introduc,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,2.386,1.447
+longer,WeThePeople.txt,1,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1.693,1.447
+55146018,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+grade,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1.693,FIT5166.txt,1,1.447
+my.monash,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+annual,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.946,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.099,1.447
+reason,FIT5047.txt,1.693,chapter4-FinanceAndTrade.txt,1,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1.693,1.447
+www.policy.monash.edu.au,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+student community services department,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+read,FIT5136.txt,2.099,USCongress.txt,1,chapter3-TheJudicature.txt,1,FIT5166.txt,2.099,1.447
+workload,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1.693,1.447
+information technology style guide,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+script,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+punish,WeThePeople.txt,2.609,chapter5-TheStates.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1,1.447
+www.infotech.monash.edu.au,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+prevent,WeThePeople.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1.693,1.447
+assessment-in-coursework-policy.html,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+caulfield,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,1.693,FIT5166.txt,2.099,1.447
+exce,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1.693,1.447
+materi,FIT5046.txt,1.693,FIT5136.txt,2.609,USCongress.txt,2.099,FIT5166.txt,1,1.447
+learning commons,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+close,FIT5047.txt,1.693,FIT5136.txt,1,USCongress.txt,2.386,FIT5166.txt,2.386,1.447
+exam,FIT5047.txt,1.693,FIT5046.txt,1,FIT5136.txt,2.609,FIT5166.txt,1.693,1.447
+complaints-grievance-policy.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+foreign,WeThePeople.txt,2.609,UKParliament.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,2.099,1.447
+coverag,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.447
+notwithstand,WeThePeople.txt,1,preamble.txt,1,chapter4-FinanceAndTrade.txt,2.099,chapter1-TheParliament.txt,2.099,1.447
+employ,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+commenc,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,3.398,1.447
+faculty assignment,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+rule,WeThePeople.txt,2.792,UKParliament.txt,1,USCongress.txt,3.303,chapter1-TheParliament.txt,1,1.447
+laboratori,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,2.099,FIT5166.txt,1,1.447
+commerc,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,2.792,USCongress.txt,2.792,chapter1-TheParliament.txt,1,1.447
+except,WeThePeople.txt,2.099,preamble.txt,1,USCongress.txt,1.693,chapter3-TheJudicature.txt,1.693,1.447
+undertaken,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+clayton campus,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+lectur,FIT5047.txt,2.609,FIT5046.txt,2.946,FIT5136.txt,2.792,FIT5166.txt,4.296,1.447
+find,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+file,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+the universitys,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+creat,WeThePeople.txt,1,UKParliament.txt,1,USCongress.txt,2.386,chapter3-TheJudicature.txt,3.079,1.447
+malaysia,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+2011,FIT5047.txt,1,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,1.693,1.447
+octob,FIT5047.txt,1.693,FIT5136.txt,2.099,USCongress.txt,1.693,FIT5166.txt,2.099,1.447
+student academic integrity,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+take,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,2.609,1.447
+count,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,1,USCongress.txt,2.386,chapter1-TheParliament.txt,1,1.447
+assessment tasks,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+answer,FIT5047.txt,2.386,FIT5046.txt,1,FIT5136.txt,2.099,FIT5166.txt,2.792,1.447
+regul,WeThePeople.txt,3.079,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,2.609,chapter3-TheJudicature.txt,1.693,1.447
+unit relationships,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+thereto,chapter8-AlterationOfTheConstitution.txt,1,preamble.txt,1,chapter4-FinanceAndTrade.txt,1.693,chapter1-TheParliament.txt,1,1.447
+uphold,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+assessment requirements,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+student-charter,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+campu,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+submiss,FIT5047.txt,2.792,FIT5046.txt,2.792,FIT5136.txt,2.946,FIT5166.txt,3.197,1.447
+judg,WeThePeople.txt,2.386,preamble.txt,1,USCongress.txt,1.693,chapter3-TheJudicature.txt,1.693,1.447
+the monash university library,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+www.lib.monash.ac.za,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+campus lecturer,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+chang,FIT5047.txt,1,UKParliament.txt,1,USCongress.txt,2.609,FIT5166.txt,1,1.447
+monash university library,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+www.lib.monash.edu.my,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+fit9017,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+convict,WeThePeople.txt,2.386,chapter5-TheStates.txt,1.693,USCongress.txt,2.946,chapter1-TheParliament.txt,1,1.447
+larg,WeThePeople.txt,1,FIT5136.txt,1.693,USCongress.txt,2.946,FIT5166.txt,1,1.447
+swot vacno,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+resign,WeThePeople.txt,2.099,USCongress.txt,1.693,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,2.386,1.447
+offenc,WeThePeople.txt,1.693,chapter5-TheStates.txt,1.693,chapter3-TheJudicature.txt,2.099,chapter1-TheParliament.txt,1,1.447
+chief,WeThePeople.txt,1,chapter5-TheStates.txt,1,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,1.447
+academic-integrity,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+governor,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,1,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,2.792,1.447
+tutor,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1,FIT5166.txt,1.693,1.447
+monash library unit reading list,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+manner,chapter8-AlterationOfTheConstitution.txt,2.099,WeThePeople.txt,3.079,chapter4-FinanceAndTrade.txt,2.099,chapter1-TheParliament.txt,1.693,1.447
+2-hour,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+entitl,WeThePeople.txt,2.099,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,1,chapter1-TheParliament.txt,2.609,1.447
+booklet,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+understand,FIT5047.txt,1,FIT5136.txt,1.693,USCongress.txt,2.386,FIT5166.txt,2.609,1.447
+proceed,WeThePeople.txt,2.386,chapter5-TheStates.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,2.386,1.447
+period,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,3.197,chapter2-TheExecutiveGovernment.txt,1,1.447
+approach,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,1.693,FIT5166.txt,1,1.447
+end-of-semester,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+www.opq.monash.edu.au,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+readinglists.lib.monash.edu,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+assessment policy,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+list,WeThePeople.txt,2.099,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1,1.447
+pai,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,3.303,chapter1-TheParliament.txt,2.386,1.447
+union,WeThePeople.txt,2.792,UKParliament.txt,1.693,USCongress.txt,1.693,chapter6-NewStates.txt,1,1.447
+setu,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+policy.monash.edu.au,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+treati,WeThePeople.txt,2.386,UKParliament.txt,1.693,USCongress.txt,2.386,chapter3-TheJudicature.txt,1,1.447
+www.policy.monash.edu,FIT5047.txt,3.197,FIT5046.txt,3.197,FIT5136.txt,3.197,FIT5166.txt,3.197,1.447
+coversheet,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,2.099,FIT5166.txt,2.099,1.447
+policy-bank,FIT5047.txt,3.398,FIT5046.txt,3.398,FIT5136.txt,3.398,FIT5166.txt,3.398,1.447
+council,chapter4-FinanceAndTrade.txt,2.386,chapter3-TheJudicature.txt,3.197,chapter2-TheExecutiveGovernment.txt,2.792,chapter1-TheParliament.txt,1.693,1.447
+teaching approach,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+separ,UKParliament.txt,1,USCongress.txt,2.386,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,1,1.447
+academic integrity,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+militari,chapter5-TheStates.txt,1,USCongress.txt,2.099,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,2.099,1.447
+equity-diversity,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+copi,FIT5047.txt,2.386,FIT5046.txt,1.693,FIT5136.txt,2.099,FIT5166.txt,1.693,1.447
+workload requirements,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+the university,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+held,WeThePeople.txt,1.693,USCongress.txt,1.693,chapter3-TheJudicature.txt,1.693,chapter1-TheParliament.txt,1.693,1.447
+teach,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,2.099,FIT5166.txt,1.693,1.447
+regularli,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+disability liaison officers,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+email,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+adopt,WeThePeople.txt,1.693,UKParliament.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.447
+edgov,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+edit,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,2.386,USCongress.txt,4.664,1.447
+legisl,WeThePeople.txt,1.693,UKParliament.txt,1.693,USCongress.txt,4.664,chapter1-TheParliament.txt,1,1.447
+chosen,WeThePeople.txt,2.792,USCongress.txt,2.099,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,4.555,1.447
+academic overview,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+diversity centre,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+academic calendar,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+student commuity services,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+monashs education policies,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+assessment taskvaluedue date,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+ep,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+carri,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.099,chapter1-TheParliament.txt,1.693,1.447
+grading-scale-policy.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+assessment summary,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+5704,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+assessment-hurdles.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+rang,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,2.386,FIT5166.txt,1.693,1.447
+fit,chapter7-Miscellaneous.txt,1,chapter4-FinanceAndTrade.txt,1,chapter6-NewStates.txt,1.693,chapter1-TheParliament.txt,1.693,1.447
+extent,chapter5-TheStates.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,chapter6-NewStates.txt,1.693,1.447
+visit,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,2.099,FIT5166.txt,2.099,1.447
+student-services,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+chief examiner,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+periodlink,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+rais,WeThePeople.txt,1.693,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.946,1.447
+orient,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+coursework programs,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+electron,FIT5047.txt,1,FIT5136.txt,1.693,USCongress.txt,2.386,FIT5166.txt,1,1.447
+criteria,FIT5047.txt,2.099,FIT5046.txt,2.386,FIT5136.txt,2.386,FIT5166.txt,2.609,1.447
+deliveri,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+infotech,FIT5047.txt,2.386,FIT5046.txt,2.386,FIT5136.txt,2.386,FIT5166.txt,2.386,1.447
+graduate attributes policy,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+student evaluation,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+examin,FIT5047.txt,3.079,FIT5046.txt,2.386,FIT5136.txt,3.197,FIT5166.txt,3.079,1.447
+executive government,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,2.099,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,1,1.447
+nit,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+strategi,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1.693,FIT5166.txt,2.099,1.447
+victorian,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+for malaysia,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+pleasur,chapter7-Miscellaneous.txt,1,chapter3-TheJudicature.txt,1,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,2.386,1.447
+learning outcomes,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+drop in,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+request-to-view-exam-scripts.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+the constitution,WeThePeople.txt,1,chapter5-TheStates.txt,1,preamble.txt,1,USCongress.txt,3.197,1.447
+particip,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+http,FIT5047.txt,4.219,FIT5046.txt,4.219,FIT5136.txt,4.219,FIT5166.txt,4.178,1.447
+sampl,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+www.monash.edu.au,FIT5047.txt,2.386,FIT5046.txt,2.386,FIT5136.txt,2.386,FIT5166.txt,2.386,1.447
+improv,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+on-campus,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+guidelin,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1.693,FIT5166.txt,1,1.447
+faculty policy,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+monash,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,2.386,FIT5166.txt,2.099,1.447
+other information,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+administrative complaints,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+senat,WeThePeople.txt,4.135,USCongress.txt,5.344,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,5.454,1.447
+minist,WeThePeople.txt,2.386,UKParliament.txt,2.099,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,2.099,1.447
+admit,WeThePeople.txt,2.099,preamble.txt,1,USCongress.txt,1,chapter6-NewStates.txt,1,1.447
+www.monash.edu,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+50,FIT5046.txt,2.386,USCongress.txt,1.693,FIT5166.txt,2.099,chapter1-TheParliament.txt,1,1.447
+40,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1,1.447
+oper,preamble.txt,1,USCongress.txt,1,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,2.099,1.447
+30,FIT5047.txt,1,FIT5046.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1,1.447
+defin,WeThePeople.txt,1,FIT5136.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1.693,1.447
+acquir,chapter7-Miscellaneous.txt,1,chapter4-FinanceAndTrade.txt,1,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,1.693,1.447
+qualiti,FIT5047.txt,1,FIT5046.txt,1.693,FIT5136.txt,1,FIT5166.txt,1.693,1.447
+20,FIT5046.txt,1,USCongress.txt,1.693,FIT5166.txt,2.099,chapter1-TheParliament.txt,1,1.447
+16,WeThePeople.txt,1,USCongress.txt,1,FIT5166.txt,2.099,chapter1-TheParliament.txt,1,1.447
+14,WeThePeople.txt,1,USCongress.txt,2.099,FIT5166.txt,2.099,chapter1-TheParliament.txt,1,1.447
+03,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+repeal,chapter7-Miscellaneous.txt,1,chapter5-TheStates.txt,1,preamble.txt,1.693,chapter3-TheJudicature.txt,2.099,1.447
+monash-university-student-charter.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+9905,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+anonym,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+student-academic-integrity-managing-plagiarism-collusion-procedures.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+length,FIT5047.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.447
+custom,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,3.833,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.099,1.447
+dlo,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+faculti,FIT5047.txt,2.386,FIT5046.txt,2.386,FIT5136.txt,2.386,FIT5166.txt,2.386,1.447
+dlu@monash.edu,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+reserv,WeThePeople.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1.693,1.447
+stage,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,2.386,chapter1-TheParliament.txt,1,1.447
+right,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,2.792,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1.693,1.447
+descript,FIT5047.txt,2.099,FIT5046.txt,2.386,FIT5136.txt,2.609,FIT5166.txt,2.386,1.447
+bill,WeThePeople.txt,2.946,UKParliament.txt,1,USCongress.txt,4.829,chapter1-TheParliament.txt,1,1.447
+student-evaluation-policy.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+assessment-examinations,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+record,WeThePeople.txt,1.693,chapter5-TheStates.txt,1,USCongress.txt,2.792,chapter1-TheParliament.txt,1,1.447
+student advisor,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+tutori,FIT5047.txt,2.099,FIT5046.txt,2.792,FIT5136.txt,2.792,FIT5166.txt,2.946,1.447
+grading scale,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+start,FIT5046.txt,1,FIT5136.txt,1.693,USCongress.txt,2.099,FIT5166.txt,3.079,1.447
+managing plagiarism,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+awar,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1.693,1.447
+in-semester,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.447
+semest,FIT5047.txt,1,FIT5046.txt,2.099,FIT5136.txt,1.693,FIT5166.txt,1,1.447
+campus,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+index.html,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,2.099,FIT5166.txt,2.099,1.447
+quiz,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,2.946,FIT5166.txt,2.609,1.447
+attach,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+weekactivitiesassess,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+hand-in,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+expir,WeThePeople.txt,2.386,chapter4-FinanceAndTrade.txt,1.693,chapter3-TheJudicature.txt,1.693,chapter1-TheParliament.txt,3.708,1.447
+function,chapter7-Miscellaneous.txt,1.693,USCongress.txt,2.609,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,1.447
+lab,FIT5047.txt,2.386,FIT5046.txt,1.693,FIT5136.txt,3.639,FIT5166.txt,2.099,1.447
+thousand,WeThePeople.txt,2.099,chapter4-FinanceAndTrade.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.099,1.447
+www.monash.edu.my,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+student academic integrity policy,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+save,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+increas,chapter8-AlterationOfTheConstitution.txt,1,USCongress.txt,1.693,chapter6-NewStates.txt,1.693,chapter1-TheParliament.txt,2.386,1.447
+revenu,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,3.303,USCongress.txt,2.386,chapter1-TheParliament.txt,2.792,1.447
+e.g,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+permit,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,USCongress.txt,2.386,chapter3-TheJudicature.txt,1,1.447
+monash-directions,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+hard,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+grievances policy,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+collusion procedures,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+ensur,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1.693,1.447
+resolut,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,3.398,chapter1-TheParliament.txt,1,1.447
+malaysia campus,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+export,WeThePeople.txt,2.099,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,2.099,chapter1-TheParliament.txt,1,1.447
+student policy,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+tute,FIT5047.txt,1.693,FIT5046.txt,1,FIT5136.txt,1.693,FIT5166.txt,1,1.447
+demonstr,FIT5046.txt,1.693,FIT5136.txt,2.099,USCongress.txt,1,FIT5166.txt,1,1.447
+salari,chapter4-FinanceAndTrade.txt,1,USCongress.txt,3.398,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.099,1.447
+monash university,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+object,WeThePeople.txt,2.099,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.447
+7,WeThePeople.txt,2.792,preamble.txt,1,USCongress.txt,2.099,chapter1-TheParliament.txt,1,1.447
+0,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1,FIT5166.txt,1,1.447
+ten,WeThePeople.txt,2.609,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,1,chapter1-TheParliament.txt,2.099,1.447
+student-academic-integrity-policy.html,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.447
+week,FIT5047.txt,2.386,FIT5046.txt,3.197,FIT5136.txt,3.708,USCongress.txt,1,FIT5166.txt,4.296,1.224
+expect,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,2.099,USCongress.txt,2.099,FIT5166.txt,2.099,1.224
+individu,FIT5047.txt,1,FIT5046.txt,2.609,FIT5136.txt,1.693,USCongress.txt,3.079,FIT5166.txt,1,1.224
+kei,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,1.693,FIT5166.txt,1.693,1.224
+offici,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,3.639,FIT5166.txt,1,1.224
+level,FIT5047.txt,1.693,FIT5046.txt,2.609,FIT5136.txt,2.099,USCongress.txt,1,FIT5166.txt,1.693,1.224
+administr,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,UKParliament.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.224
+model,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,2.099,USCongress.txt,1,FIT5166.txt,2.099,1.224
+affect,chapter7-Miscellaneous.txt,1,WeThePeople.txt,1,preamble.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,1.224
+complet,FIT5047.txt,2.792,FIT5046.txt,2.386,FIT5136.txt,2.609,USCongress.txt,1,FIT5166.txt,2.609,1.224
+leader,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,2.609,FIT5166.txt,1,1.224
+duti,WeThePeople.txt,3.303,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,4.401,USCongress.txt,1.693,chapter1-TheParliament.txt,2.946,1.224
+negoti,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+enabl,FIT5047.txt,1.693,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,1.224
+book,FIT5047.txt,2.099,FIT5046.txt,1,FIT5136.txt,2.792,USCongress.txt,2.099,FIT5166.txt,2.099,1.224
+privat,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+view,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,2.386,FIT5166.txt,1,1.224
+devic,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+collect,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,2.792,FIT5136.txt,1,USCongress.txt,2.099,FIT5166.txt,1.693,1.224
+unit,FIT5047.txt,3.485,FIT5046.txt,3.485,preamble.txt,1.693,FIT5136.txt,3.773,FIT5166.txt,3.773,1.224
+locat,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+issu,WeThePeople.txt,1,FIT5136.txt,1.693,USCongress.txt,3.773,FIT5166.txt,1,chapter1-TheParliament.txt,2.946,1.224
+properti,WeThePeople.txt,1,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,2.609,UKParliament.txt,1,chapter1-TheParliament.txt,1,1.224
+equival,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+amend,chapter8-AlterationOfTheConstitution.txt,2.386,WeThePeople.txt,2.609,USCongress.txt,3.639,chapter3-TheJudicature.txt,2.099,chapter1-TheParliament.txt,3.639,1.224
+aspect,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1,1.224
+depart,WeThePeople.txt,2.099,chapter4-FinanceAndTrade.txt,3.303,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,2.099,chapter1-TheParliament.txt,1.693,1.224
+excel,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+uniform,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,2.099,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,3.485,chapter1-TheParliament.txt,1.693,1.224
+consist,chapter7-Miscellaneous.txt,1,WeThePeople.txt,2.099,USCongress.txt,2.099,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1.693,1.224
+excis,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,2.792,USCongress.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.099,1.224
+comment,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1,1.224
+free,FIT5047.txt,2.099,WeThePeople.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.386,1.224
+hour,FIT5047.txt,2.792,FIT5046.txt,2.386,FIT5136.txt,2.792,USCongress.txt,1,FIT5166.txt,3.197,1.224
+belong,chapter7-Miscellaneous.txt,1,WeThePeople.txt,1,chapter5-TheStates.txt,1.693,USCongress.txt,1.693,chapter3-TheJudicature.txt,1,1.224
+transit,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+task,FIT5047.txt,2.099,FIT5046.txt,2.946,FIT5136.txt,3.197,USCongress.txt,2.609,FIT5166.txt,2.609,1.224
+independ,FIT5047.txt,1.693,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,2.609,FIT5166.txt,1,1.224
+2014,FIT5047.txt,3.303,FIT5046.txt,1,FIT5136.txt,2.386,USCongress.txt,1,FIT5166.txt,3.303,1.224
+divid,WeThePeople.txt,1.693,FIT5136.txt,1,UKParliament.txt,1,USCongress.txt,2.386,chapter1-TheParliament.txt,2.386,1.224
+univers,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1.693,1.224
+court,WeThePeople.txt,3.197,preamble.txt,1,USCongress.txt,3.303,chapter3-TheJudicature.txt,4.091,chapter1-TheParliament.txt,1.693,1.224
+program,FIT5047.txt,1,FIT5046.txt,2.609,FIT5136.txt,2.099,USCongress.txt,1,FIT5166.txt,2.099,1.224
+attend,WeThePeople.txt,1.693,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,1.693,1.224
+charg,WeThePeople.txt,1,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,2.946,chapter1-TheParliament.txt,1,1.224
+advantag,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,2.099,FIT5166.txt,1.693,1.224
+onlin,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,2.609,USCongress.txt,1,FIT5166.txt,2.099,1.224
+qualif,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,2.099,chapter5-TheStates.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,2.946,1.224
+websit,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1,1.224
+evid,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+write,WeThePeople.txt,1.693,USCongress.txt,3.079,chapter3-TheJudicature.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,2.386,1.224
+discuss,FIT5047.txt,1,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,1.693,FIT5166.txt,2.099,1.224
+disciplin,FIT5047.txt,1,WeThePeople.txt,1.693,FIT5046.txt,1,FIT5136.txt,2.099,FIT5166.txt,1,1.224
+link,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,1.224
+date,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,chapter2-TheExecutiveGovernment.txt,1,1.224
+minimum,FIT5047.txt,1.693,chapter8-AlterationOfTheConstitution.txt,1,FIT5046.txt,1.693,FIT5136.txt,1.693,FIT5166.txt,1.693,1.224
+educ,FIT5047.txt,3.708,FIT5046.txt,3.708,FIT5136.txt,3.708,USCongress.txt,1,FIT5166.txt,3.708,1.224
+method,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,2.099,1.224
+problem,FIT5047.txt,3.079,FIT5046.txt,2.099,FIT5136.txt,1.693,USCongress.txt,2.099,FIT5166.txt,2.099,1.224
+type,FIT5047.txt,1.693,FIT5046.txt,1,FIT5136.txt,1.693,USCongress.txt,1.693,FIT5166.txt,1.693,1.224
+solut,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,1.224
+enforc,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,2.386,FIT5166.txt,1,1.224
+seat,chapter7-Miscellaneous.txt,1.693,WeThePeople.txt,1.693,UKParliament.txt,2.099,USCongress.txt,3.079,chapter1-TheParliament.txt,2.792,1.224
+whichev,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,1,1.224
+purpos,WeThePeople.txt,2.099,preamble.txt,1,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,1,chapter1-TheParliament.txt,2.792,1.224
+student,FIT5047.txt,4.135,FIT5046.txt,4.296,FIT5136.txt,4.401,FIT5166.txt,4.367,chapter1-TheParliament.txt,1,1.224
+survei,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1.693,1.224
+librari,FIT5047.txt,2.609,FIT5046.txt,2.099,FIT5136.txt,2.609,USCongress.txt,2.946,FIT5166.txt,2.099,1.224
+portal,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,1.693,FIT5166.txt,1.693,1.224
+skill,FIT5047.txt,1.693,FIT5046.txt,2.099,FIT5136.txt,2.099,USCongress.txt,1,FIT5166.txt,1,1.224
+rate,FIT5047.txt,1,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,2.099,FIT5136.txt,1,USCongress.txt,2.609,1.224
+origin,WeThePeople.txt,2.099,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.609,chapter3-TheJudicature.txt,2.099,chapter1-TheParliament.txt,2.099,1.224
+activ,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,2.099,USCongress.txt,3.079,FIT5166.txt,1,1.224
+equiti,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.224
+academ,FIT5047.txt,3.639,FIT5046.txt,3.639,FIT5136.txt,3.639,USCongress.txt,2.386,FIT5166.txt,3.639,1.224
+studi,FIT5047.txt,1.693,FIT5046.txt,2.609,FIT5136.txt,1.693,USCongress.txt,2.099,FIT5166.txt,2.099,1.224
+wai,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+remain,WeThePeople.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,UKParliament.txt,2.609,USCongress.txt,2.099,1.224
+medic,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,1,1.224
+jurisdict,WeThePeople.txt,2.386,chapter5-TheStates.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,3.398,chapter1-TheParliament.txt,1,1.224
+learn,FIT5047.txt,3.398,FIT5046.txt,2.946,FIT5136.txt,2.609,USCongress.txt,1.693,FIT5166.txt,2.792,1.224
+measur,WeThePeople.txt,1.693,FIT5136.txt,1,UKParliament.txt,1,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.224
+detail,FIT5047.txt,1,FIT5046.txt,2.099,FIT5136.txt,2.609,USCongress.txt,1.693,FIT5166.txt,2.099,1.224
+impos,WeThePeople.txt,1,chapter5-TheStates.txt,2.386,chapter4-FinanceAndTrade.txt,3.079,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,3.079,1.224
+base,FIT5046.txt,2.386,FIT5136.txt,1.693,UKParliament.txt,1,USCongress.txt,2.099,FIT5166.txt,1,1.224
+mark,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,2.792,FIT5166.txt,2.386,chapter1-TheParliament.txt,1,1.224
+basi,FIT5047.txt,1,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,FIT5166.txt,1,1.224
+interest,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,2.386,UKParliament.txt,1.693,USCongress.txt,3.197,chapter1-TheParliament.txt,1,1.224
+common,WeThePeople.txt,1.693,preamble.txt,1,UKParliament.txt,1.693,USCongress.txt,1,chapter1-TheParliament.txt,1,1.224
+peopl,WeThePeople.txt,2.099,preamble.txt,2.386,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,2.609,chapter1-TheParliament.txt,3.89,1.224
+evalu,FIT5047.txt,2.099,FIT5046.txt,2.386,FIT5136.txt,2.099,USCongress.txt,1,FIT5166.txt,2.609,1.224
+project,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1,1.224
+monei,WeThePeople.txt,2.609,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,2.792,USCongress.txt,3.303,chapter1-TheParliament.txt,2.946,1.224
+open,FIT5047.txt,1,WeThePeople.txt,1.693,FIT5136.txt,2.609,USCongress.txt,2.792,FIT5166.txt,2.099,1.224
+11,WeThePeople.txt,1,FIT5046.txt,1.693,USCongress.txt,1.693,FIT5166.txt,2.099,chapter1-TheParliament.txt,1,1.224
+inform,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,1.224
+alter,chapter8-AlterationOfTheConstitution.txt,2.386,WeThePeople.txt,1,chapter5-TheStates.txt,1.693,chapter6-NewStates.txt,1.693,chapter1-TheParliament.txt,1.693,1.224
+credit,WeThePeople.txt,2.099,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,1,chapter1-TheParliament.txt,1,1.224
+commun,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,1.224
+construct,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,chapter1-TheParliament.txt,1,1.224
+grant,chapter7-Miscellaneous.txt,1.693,WeThePeople.txt,3.079,chapter4-FinanceAndTrade.txt,2.609,USCongress.txt,2.946,chapter3-TheJudicature.txt,1.693,1.224
+month,chapter8-AlterationOfTheConstitution.txt,1.693,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.792,1.224
+test,WeThePeople.txt,1,chapter5-TheStates.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,3.079,1.224
+staff,FIT5047.txt,2.386,FIT5046.txt,2.386,FIT5136.txt,2.386,USCongress.txt,2.792,FIT5166.txt,2.386,1.224
+addit,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,3.079,FIT5166.txt,1.693,1.224
+part,WeThePeople.txt,1.693,preamble.txt,2.099,USCongress.txt,1.693,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,1.693,1.224
+formal,FIT5047.txt,2.386,FIT5046.txt,2.386,FIT5136.txt,2.386,USCongress.txt,2.792,FIT5166.txt,2.386,1.224
+consult,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,2.386,1.224
+compris,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,UKParliament.txt,1,FIT5166.txt,1,1.224
+think,chapter7-Miscellaneous.txt,1,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1,chapter6-NewStates.txt,1.693,chapter1-TheParliament.txt,1.693,1.224
+resourc,FIT5047.txt,3.398,FIT5046.txt,3.398,FIT5136.txt,3.398,USCongress.txt,1.693,FIT5166.txt,3.398,1.224
+encourag,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.224
+matter,chapter5-TheStates.txt,1,USCongress.txt,3.303,chapter3-TheJudicature.txt,2.792,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.946,1.224
+order,WeThePeople.txt,1,UKParliament.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,2.386,1.224
+judici,WeThePeople.txt,2.386,chapter5-TheStates.txt,1,USCongress.txt,2.946,chapter3-TheJudicature.txt,1.693,chapter1-TheParliament.txt,1,1.224
+check,FIT5047.txt,2.099,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,3.079,FIT5166.txt,1.693,1.224
+advis,FIT5047.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,chapter2-TheExecutiveGovernment.txt,1,1.224
+address,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,2.386,1.224
+satisfi,FIT5047.txt,1,FIT5046.txt,1,preamble.txt,1,FIT5136.txt,1,chapter3-TheJudicature.txt,1,FIT5166.txt,1,1.041
+person,chapter7-Miscellaneous.txt,1.693,WeThePeople.txt,3.639,chapter5-TheStates.txt,1.693,USCongress.txt,2.386,chapter3-TheJudicature.txt,2.609,chapter1-TheParliament.txt,3.944,1.041
+regular,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,1,1.041
+place,WeThePeople.txt,2.946,FIT5136.txt,1,UKParliament.txt,1,USCongress.txt,2.386,chapter3-TheJudicature.txt,1.693,chapter1-TheParliament.txt,4.296,1.041
+total,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,chapter1-TheParliament.txt,1.693,1.041
+parti,WeThePeople.txt,2.386,chapter4-FinanceAndTrade.txt,2.099,UKParliament.txt,1,USCongress.txt,3.996,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,2.946,1.041
+resid,WeThePeople.txt,1,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.099,chapter3-TheJudicature.txt,1.693,chapter1-TheParliament.txt,1.693,1.041
+item,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,1,1.041
+call,WeThePeople.txt,2.099,preamble.txt,1,UKParliament.txt,2.099,USCongress.txt,3.708,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1,1.041
+retain,FIT5047.txt,1,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,2.386,FIT5136.txt,1,UKParliament.txt,1,FIT5166.txt,1,1.041
+system,FIT5047.txt,2.946,FIT5046.txt,2.792,FIT5136.txt,2.946,UKParliament.txt,1,USCongress.txt,2.099,FIT5166.txt,3.303,1.041
+act,WeThePeople.txt,1.693,chapter5-TheStates.txt,1,UKParliament.txt,1,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,1.041
+public,WeThePeople.txt,3.079,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,3.079,USCongress.txt,4.296,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.386,1.041
+elector,chapter8-AlterationOfTheConstitution.txt,3.079,WeThePeople.txt,2.946,UKParliament.txt,1,USCongress.txt,2.386,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,3.398,1.041
+appropri,WeThePeople.txt,1.693,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1.693,FIT5136.txt,1,USCongress.txt,2.099,chapter1-TheParliament.txt,3.079,1.041
+declar,WeThePeople.txt,2.099,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,Schedule.txt,1,USCongress.txt,2.946,chapter1-TheParliament.txt,2.609,1.041
+execut,WeThePeople.txt,3.485,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,1,USCongress.txt,4.135,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,2.099,1.041
+session,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,2.099,chapter4-FinanceAndTrade.txt,1,USCongress.txt,3.833,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,3.398,1.041
+prior,FIT5047.txt,1,WeThePeople.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1.693,1.041
+represent,FIT5047.txt,2.099,chapter8-AlterationOfTheConstitution.txt,1.693,WeThePeople.txt,1.693,USCongress.txt,2.386,chapter6-NewStates.txt,1.693,chapter1-TheParliament.txt,2.099,1.041
+process,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1.693,USCongress.txt,3.303,FIT5166.txt,1,chapter1-TheParliament.txt,1,1.041
+coloni,chapter5-TheStates.txt,2.386,preamble.txt,2.792,chapter4-FinanceAndTrade.txt,2.609,UKParliament.txt,1,chapter2-TheExecutiveGovernment.txt,2.099,chapter1-TheParliament.txt,1,1.041
+procedur,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,UKParliament.txt,1,USCongress.txt,3.303,FIT5166.txt,1.693,1.041
+request,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1.693,chapter1-TheParliament.txt,1.693,1.041
+group,FIT5047.txt,1,FIT5046.txt,2.946,FIT5136.txt,2.386,UKParliament.txt,1,USCongress.txt,2.946,FIT5166.txt,1,1.041
+titl,FIT5047.txt,2.099,WeThePeople.txt,1.693,FIT5046.txt,2.386,FIT5136.txt,2.099,USCongress.txt,1,FIT5166.txt,2.386,1.041
+vote,chapter8-AlterationOfTheConstitution.txt,2.946,WeThePeople.txt,3.773,UKParliament.txt,2.099,USCongress.txt,4.555,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,3.944,1.041
+telephon,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,FIT5166.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,1.041
+conduct,FIT5047.txt,2.099,FIT5046.txt,2.099,FIT5136.txt,2.099,USCongress.txt,2.099,FIT5166.txt,2.609,chapter1-TheParliament.txt,1,1.041
+design,FIT5047.txt,2.099,FIT5046.txt,1.693,FIT5136.txt,2.609,chapter3-TheJudicature.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,1,1.041
+absolut,chapter8-AlterationOfTheConstitution.txt,2.099,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,UKParliament.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1.693,1.041
+prohibit,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,chapter3-TheJudicature.txt,1,1.041
+determin,chapter7-Miscellaneous.txt,1,WeThePeople.txt,2.386,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,2.099,chapter1-TheParliament.txt,3.079,1.041
+area,FIT5047.txt,1,chapter7-Miscellaneous.txt,1,FIT5046.txt,2.099,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,1.041
+standard,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,2.099,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,1.041
+revis,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1.693,1.041
+remov,WeThePeople.txt,2.792,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,2.792,chapter3-TheJudicature.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1.693,1.041
+seek,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,UKParliament.txt,1,USCongress.txt,2.609,FIT5166.txt,1,1.041
+author,WeThePeople.txt,3.079,preamble.txt,1,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,3.89,chapter2-TheExecutiveGovernment.txt,2.099,chapter6-NewStates.txt,1,1.041
+publish,FIT5047.txt,1,WeThePeople.txt,1.693,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,2.099,FIT5166.txt,1,1.041
+exclus,WeThePeople.txt,1.693,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,2.099,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1.693,1.041
+diminish,chapter8-AlterationOfTheConstitution.txt,1.693,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,1,chapter3-TheJudicature.txt,1,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,2.099,1.041
+effect,FIT5047.txt,1,FIT5046.txt,1,chapter5-TheStates.txt,1,FIT5136.txt,1,USCongress.txt,3.079,FIT5166.txt,1,1.041
+submit,FIT5047.txt,2.099,chapter8-AlterationOfTheConstitution.txt,2.099,FIT5046.txt,1.693,FIT5136.txt,2.792,USCongress.txt,1.693,FIT5166.txt,2.609,1.041
+recommend,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1.693,FIT5136.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,2.099,1.041
+agre,chapter8-AlterationOfTheConstitution.txt,2.386,WeThePeople.txt,1,preamble.txt,1.693,USCongress.txt,1.693,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,2.946,1.041
+the parliament,chapter7-Miscellaneous.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,2.386,chapter3-TheJudicature.txt,2.386,chapter6-NewStates.txt,2.099,chapter1-TheParliament.txt,3.079,1.041
+work,FIT5047.txt,1.693,WeThePeople.txt,1,FIT5046.txt,3.079,FIT5136.txt,3.079,USCongress.txt,2.792,FIT5166.txt,1.693,1.041
+commit,FIT5047.txt,1,WeThePeople.txt,2.099,FIT5046.txt,1,FIT5136.txt,1,chapter3-TheJudicature.txt,1.693,FIT5166.txt,1,1.041
+mention,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,1.693,FIT5136.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,1,1.041
+manag,FIT5047.txt,1.693,FIT5046.txt,1.693,chapter4-FinanceAndTrade.txt,2.099,FIT5136.txt,2.099,USCongress.txt,1.693,FIT5166.txt,2.099,1.041
+borrow,FIT5047.txt,1.693,WeThePeople.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,USCongress.txt,1,chapter1-TheParliament.txt,1,1.041
+term,WeThePeople.txt,2.609,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,3.303,chapter3-TheJudicature.txt,2.099,chapter6-NewStates.txt,2.099,chapter1-TheParliament.txt,3.485,1.041
+build,FIT5047.txt,2.099,WeThePeople.txt,1,FIT5046.txt,2.099,FIT5136.txt,1.693,USCongress.txt,2.099,FIT5166.txt,1.693,1.041
+payment,chapter7-Miscellaneous.txt,1,WeThePeople.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,2.609,USCongress.txt,1.693,chapter1-TheParliament.txt,1,1.041
+develop,FIT5047.txt,2.609,FIT5046.txt,2.099,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,UKParliament.txt,1.693,USCongress.txt,1,1.041
+gener,WeThePeople.txt,2.099,FIT5136.txt,1,UKParliament.txt,2.099,USCongress.txt,3.485,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.099,1.041
+respons,FIT5047.txt,1,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1.693,USCongress.txt,1.693,FIT5166.txt,1,1.041
+question,WeThePeople.txt,2.099,USCongress.txt,1.693,chapter3-TheJudicature.txt,2.386,FIT5166.txt,1.693,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,2.792,1.041
+propos,chapter8-AlterationOfTheConstitution.txt,3.398,WeThePeople.txt,2.386,FIT5046.txt,1,USCongress.txt,2.792,chapter3-TheJudicature.txt,1,chapter1-TheParliament.txt,4.045,1.041
+practic,FIT5047.txt,1,FIT5046.txt,2.099,FIT5136.txt,2.609,USCongress.txt,2.099,FIT5166.txt,2.099,chapter1-TheParliament.txt,2.386,1.041
+good,WeThePeople.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,3.944,FIT5136.txt,1,USCongress.txt,2.099,chapter1-TheParliament.txt,2.099,1.041
+polici,FIT5047.txt,2.946,FIT5046.txt,2.946,FIT5136.txt,2.946,UKParliament.txt,1.693,USCongress.txt,3.398,FIT5166.txt,2.946,1.041
+9,WeThePeople.txt,2.099,preamble.txt,1,FIT5136.txt,1,USCongress.txt,2.099,FIT5166.txt,2.386,chapter1-TheParliament.txt,1,1.041
+6,WeThePeople.txt,2.792,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,2.099,USCongress.txt,3.197,chapter1-TheParliament.txt,1,1.041
+current,FIT5047.txt,1.693,WeThePeople.txt,1,FIT5046.txt,2.386,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,USCongress.txt,2.099,FIT5166.txt,1,0.887
+continu,WeThePeople.txt,1.693,chapter5-TheStates.txt,2.099,chapter4-FinanceAndTrade.txt,2.099,UKParliament.txt,1.693,USCongress.txt,1.693,chapter3-TheJudicature.txt,1.693,chapter1-TheParliament.txt,2.099,0.887
+kind,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,1.693,FIT5136.txt,1,FIT5166.txt,1,0.887
+mode,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,1,0.887
+number,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,3.398,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,2.946,chapter3-TheJudicature.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,4.091,0.887
+consent,WeThePeople.txt,3.197,chapter5-TheStates.txt,1,preamble.txt,1,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,2.386,chapter6-NewStates.txt,2.386,chapter1-TheParliament.txt,1.693,0.887
+repres,chapter8-AlterationOfTheConstitution.txt,2.792,WeThePeople.txt,3.944,UKParliament.txt,1.693,USCongress.txt,4.989,chapter3-TheJudicature.txt,1,chapter2-TheExecutiveGovernment.txt,2.099,chapter1-TheParliament.txt,4.829,0.887
+present,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,2.099,FIT5046.txt,2.609,FIT5136.txt,1,USCongress.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,2.386,0.887
+return,FIT5047.txt,1.693,WeThePeople.txt,2.609,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,2.099,FIT5166.txt,1.693,chapter1-TheParliament.txt,2.099,0.887
+member,chapter8-AlterationOfTheConstitution.txt,1.693,WeThePeople.txt,3.398,chapter4-FinanceAndTrade.txt,1,UKParliament.txt,1,USCongress.txt,5.407,chapter2-TheExecutiveGovernment.txt,2.099,chapter1-TheParliament.txt,4.871,0.887
+condit,FIT5047.txt,1,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,chapter3-TheJudicature.txt,1,FIT5166.txt,1,chapter6-NewStates.txt,1.693,0.887
+hold,WeThePeople.txt,2.946,chapter4-FinanceAndTrade.txt,1.693,UKParliament.txt,1,USCongress.txt,2.386,chapter3-TheJudicature.txt,1,chapter2-TheExecutiveGovernment.txt,2.386,chapter1-TheParliament.txt,3.565,0.887
+meet,chapter7-Miscellaneous.txt,1,WeThePeople.txt,2.386,FIT5046.txt,1.693,chapter4-FinanceAndTrade.txt,1,USCongress.txt,3.565,FIT5166.txt,1,chapter1-TheParliament.txt,2.946,0.887
+governor-general,chapter7-Miscellaneous.txt,2.386,chapter8-AlterationOfTheConstitution.txt,1.693,preamble.txt,1,chapter4-FinanceAndTrade.txt,2.386,chapter3-TheJudicature.txt,2.386,chapter2-TheExecutiveGovernment.txt,3.639,chapter1-TheParliament.txt,4.091,0.887
+consider,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1.693,FIT5136.txt,1,UKParliament.txt,1.693,USCongress.txt,2.946,FIT5166.txt,1,0.887
+major,chapter8-AlterationOfTheConstitution.txt,2.946,WeThePeople.txt,2.609,FIT5136.txt,1,UKParliament.txt,2.386,USCongress.txt,3.89,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,2.386,0.887
+receipt,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,2.386,FIT5136.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,1.693,0.887
+weight,FIT5047.txt,2.609,WeThePeople.txt,1,FIT5046.txt,2.386,FIT5136.txt,2.386,USCongress.txt,1,FIT5166.txt,2.609,chapter1-TheParliament.txt,1,0.887
+note,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,2.099,Schedule.txt,1,USCongress.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,1,0.887
+penalti,FIT5047.txt,1.693,WeThePeople.txt,1,FIT5046.txt,1.693,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,2.386,chapter1-TheParliament.txt,1,0.887
+support,FIT5047.txt,1.693,WeThePeople.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,UKParliament.txt,1.693,USCongress.txt,2.386,FIT5166.txt,1.693,0.887
+assign,FIT5047.txt,3.708,chapter7-Miscellaneous.txt,1,FIT5046.txt,3.944,FIT5136.txt,3.303,USCongress.txt,1,FIT5166.txt,3.485,chapter1-TheParliament.txt,1.693,0.887
+class,FIT5047.txt,1.693,WeThePeople.txt,2.386,FIT5046.txt,1.693,FIT5136.txt,3.773,USCongress.txt,1,FIT5166.txt,1.693,chapter1-TheParliament.txt,2.099,0.887
+extend,WeThePeople.txt,1.693,chapter5-TheStates.txt,1,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.609,0.887
+extens,FIT5047.txt,1.693,FIT5046.txt,1.693,FIT5136.txt,1.693,UKParliament.txt,1,USCongress.txt,1,FIT5166.txt,1.693,chapter1-TheParliament.txt,1,0.887
+direct,chapter7-Miscellaneous.txt,1,WeThePeople.txt,2.946,FIT5046.txt,1,UKParliament.txt,1,USCongress.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,1,0.887
+territori,chapter7-Miscellaneous.txt,1.693,chapter8-AlterationOfTheConstitution.txt,2.386,WeThePeople.txt,1,preamble.txt,1.693,chapter4-FinanceAndTrade.txt,1,chapter6-NewStates.txt,2.609,chapter1-TheParliament.txt,1,0.887
+special,FIT5047.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,3.079,chapter3-TheJudicature.txt,1.693,FIT5166.txt,1,chapter1-TheParliament.txt,1,0.887
+appli,FIT5047.txt,1,chapter5-TheStates.txt,1,preamble.txt,1,chapter4-FinanceAndTrade.txt,2.609,USCongress.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,2.609,0.887
+allow,FIT5047.txt,1,chapter8-AlterationOfTheConstitution.txt,1,chapter4-FinanceAndTrade.txt,1.693,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,chapter1-TheParliament.txt,2.099,0.887
+55,FIT5047.txt,1,chapter7-Miscellaneous.txt,1,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,1.693,FIT5166.txt,1,chapter1-TheParliament.txt,1,0.887
+progress,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,1,FIT5136.txt,1,UKParliament.txt,1.693,USCongress.txt,1,FIT5166.txt,1,0.887
+12,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,2.099,FIT5136.txt,2.609,USCongress.txt,1.693,FIT5166.txt,1,chapter1-TheParliament.txt,1,0.887
+10,FIT5047.txt,2.099,WeThePeople.txt,2.099,FIT5046.txt,1,FIT5136.txt,1.693,USCongress.txt,2.099,FIT5166.txt,1,chapter1-TheParliament.txt,1,0.887
+applic,FIT5047.txt,2.609,WeThePeople.txt,1.693,FIT5046.txt,1.693,chapter5-TheStates.txt,1.693,FIT5136.txt,1,chapter3-TheJudicature.txt,1,FIT5166.txt,1.693,0.887
+elect,chapter8-AlterationOfTheConstitution.txt,1.693,WeThePeople.txt,3.303,chapter4-FinanceAndTrade.txt,1,UKParliament.txt,2.386,USCongress.txt,4.434,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,4.219,0.887
+offic,WeThePeople.txt,4.526,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,3.485,UKParliament.txt,1,USCongress.txt,4.091,chapter3-TheJudicature.txt,2.946,chapter2-TheExecutiveGovernment.txt,2.946,chapter1-TheParliament.txt,4.045,0.754
+respect,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,2.946,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,3.398,chapter3-TheJudicature.txt,1.693,chapter2-TheExecutiveGovernment.txt,1,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,3.398,0.754
+requir,FIT5047.txt,2.386,WeThePeople.txt,2.386,FIT5046.txt,2.792,chapter5-TheStates.txt,1,FIT5136.txt,2.386,USCongress.txt,3.708,FIT5166.txt,2.792,chapter2-TheExecutiveGovernment.txt,1,0.754
+disabl,FIT5047.txt,1.693,WeThePeople.txt,1,FIT5046.txt,1.693,chapter5-TheStates.txt,1,FIT5136.txt,1.693,USCongress.txt,1,FIT5166.txt,1.693,chapter1-TheParliament.txt,1,0.754
+queen,chapter7-Miscellaneous.txt,1,chapter5-TheStates.txt,1.693,preamble.txt,2.386,Schedule.txt,1,chapter3-TheJudicature.txt,2.609,chapter2-TheExecutiveGovernment.txt,1.693,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,2.792,0.754
+vest,chapter7-Miscellaneous.txt,1,WeThePeople.txt,2.609,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.099,chapter3-TheJudicature.txt,1,chapter2-TheExecutiveGovernment.txt,2.609,chapter1-TheParliament.txt,1.693,0.754
+approv,FIT5047.txt,1,chapter8-AlterationOfTheConstitution.txt,2.099,WeThePeople.txt,2.099,FIT5046.txt,1,FIT5136.txt,1,USCongress.txt,3.303,FIT5166.txt,1,chapter6-NewStates.txt,1,0.754
+refer,chapter8-AlterationOfTheConstitution.txt,1,preamble.txt,1,UKParliament.txt,1,USCongress.txt,2.946,chapter3-TheJudicature.txt,1.693,FIT5166.txt,1,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,1.693,0.754
+maintain,FIT5047.txt,1,WeThePeople.txt,1,FIT5046.txt,2.099,chapter5-TheStates.txt,1,FIT5136.txt,1,USCongress.txt,2.609,FIT5166.txt,1,chapter1-TheParliament.txt,2.099,0.754
+subject,chapter7-Miscellaneous.txt,1,WeThePeople.txt,2.609,chapter5-TheStates.txt,2.946,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,3.079,chapter3-TheJudicature.txt,1.693,FIT5166.txt,1.693,chapter1-TheParliament.txt,3.708,0.754
+relat,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,1.693,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,1,USCongress.txt,2.099,chapter3-TheJudicature.txt,1,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,2.946,0.754
+dai,WeThePeople.txt,2.946,preamble.txt,2.099,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,UKParliament.txt,1,USCongress.txt,2.609,FIT5166.txt,1,chapter1-TheParliament.txt,3.773,0.754
+8,FIT5047.txt,1,WeThePeople.txt,2.386,FIT5046.txt,2.099,preamble.txt,1,FIT5136.txt,1.693,USCongress.txt,2.792,FIT5166.txt,2.946,chapter1-TheParliament.txt,1,0.754
+5,WeThePeople.txt,3.079,FIT5046.txt,1.693,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,USCongress.txt,3.89,FIT5166.txt,2.099,chapter1-TheParliament.txt,1,0.754
+4,WeThePeople.txt,3.303,FIT5046.txt,2.099,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,UKParliament.txt,1,USCongress.txt,3.079,FIT5166.txt,1,chapter1-TheParliament.txt,1,0.754
+establish,WeThePeople.txt,2.946,chapter5-TheStates.txt,2.609,preamble.txt,2.792,chapter4-FinanceAndTrade.txt,2.792,USCongress.txt,2.792,chapter3-TheJudicature.txt,1.693,chapter2-TheExecutiveGovernment.txt,2.386,chapter6-NewStates.txt,1.693,chapter1-TheParliament.txt,2.099,0.636
+case,WeThePeople.txt,3.89,FIT5046.txt,1.693,chapter5-TheStates.txt,1.693,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1,USCongress.txt,3.303,chapter3-TheJudicature.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.099,0.636
+hous,chapter8-AlterationOfTheConstitution.txt,3.833,WeThePeople.txt,4.091,chapter4-FinanceAndTrade.txt,1.693,UKParliament.txt,2.099,USCongress.txt,5.382,chapter3-TheJudicature.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter6-NewStates.txt,1.693,chapter1-TheParliament.txt,5.382,0.636
+exercis,FIT5047.txt,2.099,chapter7-Miscellaneous.txt,1.693,WeThePeople.txt,2.099,chapter5-TheStates.txt,1,FIT5136.txt,1,USCongress.txt,1,chapter3-TheJudicature.txt,2.386,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,2.792,0.636
+thereof,chapter7-Miscellaneous.txt,1,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,3.485,chapter5-TheStates.txt,1,preamble.txt,1,chapter4-FinanceAndTrade.txt,3.079,USCongress.txt,1.693,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,2.386,0.636
+prescrib,FIT5047.txt,2.386,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,2.386,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,2.099,USCongress.txt,1.693,chapter3-TheJudicature.txt,2.609,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.386,0.636
+govern,chapter7-Miscellaneous.txt,1.693,WeThePeople.txt,2.792,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,2.386,UKParliament.txt,2.946,USCongress.txt,4.784,chapter2-TheExecutiveGovernment.txt,1,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,3.079,0.636
+power,chapter7-Miscellaneous.txt,1.693,WeThePeople.txt,3.708,chapter5-TheStates.txt,2.099,chapter4-FinanceAndTrade.txt,2.386,UKParliament.txt,2.099,USCongress.txt,5.431,chapter3-TheJudicature.txt,2.386,chapter2-TheExecutiveGovernment.txt,2.099,chapter1-TheParliament.txt,3.708,0.636
+receiv,FIT5047.txt,1,WeThePeople.txt,2.609,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,2.099,FIT5136.txt,1,USCongress.txt,2.946,chapter3-TheJudicature.txt,1,FIT5166.txt,1,chapter1-TheParliament.txt,2.099,0.636
+forc,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,1,chapter5-TheStates.txt,2.099,preamble.txt,1.693,chapter4-FinanceAndTrade.txt,2.099,UKParliament.txt,1,USCongress.txt,2.792,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,2.609,0.636
+constitut,chapter8-AlterationOfTheConstitution.txt,1.693,WeThePeople.txt,3.708,chapter5-TheStates.txt,2.609,preamble.txt,2.609,chapter4-FinanceAndTrade.txt,3.398,USCongress.txt,4.045,chapter3-TheJudicature.txt,2.386,chapter2-TheExecutiveGovernment.txt,2.099,chapter1-TheParliament.txt,3.996,0.636
+servic,FIT5047.txt,2.609,WeThePeople.txt,3.197,FIT5046.txt,3.197,chapter4-FinanceAndTrade.txt,3.485,FIT5136.txt,2.609,USCongress.txt,2.946,FIT5166.txt,2.609,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,3.833,0.636
+pass,chapter8-AlterationOfTheConstitution.txt,2.946,WeThePeople.txt,2.386,chapter5-TheStates.txt,1.693,preamble.txt,2.609,chapter4-FinanceAndTrade.txt,2.946,UKParliament.txt,1,USCongress.txt,2.946,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,3.565,0.636
+commonwealth,chapter7-Miscellaneous.txt,2.609,chapter8-AlterationOfTheConstitution.txt,1,chapter5-TheStates.txt,3.944,preamble.txt,3.996,chapter4-FinanceAndTrade.txt,5.007,chapter3-TheJudicature.txt,3.197,chapter2-TheExecutiveGovernment.txt,3.708,chapter6-NewStates.txt,2.609,chapter1-TheParliament.txt,4.97,0.636
+equal,FIT5047.txt,1,WeThePeople.txt,2.792,FIT5046.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1.693,FIT5136.txt,1,USCongress.txt,3.197,FIT5166.txt,1,chapter1-TheParliament.txt,2.609,0.636
+commonwealth of australia constitution act,chapter7-Miscellaneous.txt,1,chapter8-AlterationOfTheConstitution.txt,1,chapter5-TheStates.txt,1,chapter4-FinanceAndTrade.txt,1,Schedule.txt,1,chapter3-TheJudicature.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,1,0.636
+provid,FIT5047.txt,2.099,WeThePeople.txt,3.398,FIT5046.txt,2.609,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,2.792,USCongress.txt,2.946,chapter3-TheJudicature.txt,1,FIT5166.txt,2.609,chapter1-TheParliament.txt,2.099,0.531
+limit,FIT5047.txt,1.693,chapter7-Miscellaneous.txt,1,chapter8-AlterationOfTheConstitution.txt,1,WeThePeople.txt,1.693,chapter4-FinanceAndTrade.txt,2.099,FIT5136.txt,1,USCongress.txt,2.792,chapter3-TheJudicature.txt,2.609,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,2.792,0.531
+form,FIT5047.txt,1.693,WeThePeople.txt,2.099,FIT5046.txt,1.693,chapter4-FinanceAndTrade.txt,1.693,FIT5136.txt,2.099,UKParliament.txt,1.693,USCongress.txt,3.303,FIT5166.txt,1.693,chapter6-NewStates.txt,1.693,chapter1-TheParliament.txt,2.386,0.531
+parliament,chapter7-Miscellaneous.txt,1,chapter8-AlterationOfTheConstitution.txt,2.099,chapter5-TheStates.txt,3.303,preamble.txt,2.792,chapter4-FinanceAndTrade.txt,3.89,UKParliament.txt,3.639,chapter3-TheJudicature.txt,3.89,chapter2-TheExecutiveGovernment.txt,2.386,chapter6-NewStates.txt,2.609,chapter1-TheParliament.txt,5.159,0.531
+advic,FIT5047.txt,1.693,WeThePeople.txt,1.693,FIT5046.txt,1.693,preamble.txt,1.693,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,1.693,USCongress.txt,1.693,FIT5166.txt,1.693,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,1,0.531
+2,FIT5047.txt,2.946,WeThePeople.txt,4.045,FIT5046.txt,3.398,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,3.197,UKParliament.txt,1,USCongress.txt,3.398,FIT5166.txt,3.89,chapter1-TheParliament.txt,1,0.531
+1,FIT5047.txt,2.792,WeThePeople.txt,4.045,FIT5046.txt,2.946,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,2.792,UKParliament.txt,1,USCongress.txt,2.946,FIT5166.txt,3.303,chapter1-TheParliament.txt,1,0.531
+includ,FIT5047.txt,2.099,WeThePeople.txt,1.693,FIT5046.txt,2.099,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,2.099,UKParliament.txt,1,USCongress.txt,4.135,chapter3-TheJudicature.txt,1,FIT5166.txt,2.099,chapter6-NewStates.txt,1,0.435
+year,FIT5047.txt,1,WeThePeople.txt,3.944,FIT5046.txt,1.693,preamble.txt,1,chapter4-FinanceAndTrade.txt,3.485,FIT5136.txt,1,USCongress.txt,4.045,chapter3-TheJudicature.txt,2.099,FIT5166.txt,1,chapter2-TheExecutiveGovernment.txt,1,chapter1-TheParliament.txt,3.639,0.435
+3,FIT5047.txt,2.792,chapter7-Miscellaneous.txt,1,WeThePeople.txt,3.89,FIT5046.txt,2.099,preamble.txt,1,chapter4-FinanceAndTrade.txt,1,FIT5136.txt,2.386,UKParliament.txt,1,USCongress.txt,3.079,FIT5166.txt,1,chapter1-TheParliament.txt,1,0.435
+time,FIT5047.txt,1,WeThePeople.txt,3.944,FIT5046.txt,1,chapter5-TheStates.txt,1,preamble.txt,2.099,chapter4-FinanceAndTrade.txt,2.792,FIT5136.txt,1,Schedule.txt,2.099,USCongress.txt,3.639,chapter3-TheJudicature.txt,2.099,FIT5166.txt,2.099,chapter1-TheParliament.txt,3.639,0.348
+state,chapter7-Miscellaneous.txt,1,chapter8-AlterationOfTheConstitution.txt,3.079,WeThePeople.txt,5.234,FIT5046.txt,1,chapter5-TheStates.txt,4.401,preamble.txt,3.079,chapter4-FinanceAndTrade.txt,5.277,USCongress.txt,4.807,chapter3-TheJudicature.txt,3.773,chapter2-TheExecutiveGovernment.txt,2.946,chapter6-NewStates.txt,3.485,chapter1-TheParliament.txt,5.543,0.348
+law,chapter8-AlterationOfTheConstitution.txt,3.485,WeThePeople.txt,4.526,chapter5-TheStates.txt,3.398,preamble.txt,2.946,chapter4-FinanceAndTrade.txt,3.773,Schedule.txt,1.693,UKParliament.txt,1,USCongress.txt,4.258,chapter3-TheJudicature.txt,3.398,chapter2-TheExecutiveGovernment.txt,1.693,chapter6-NewStates.txt,1,chapter1-TheParliament.txt,4.989,0.348
+provis,FIT5047.txt,1,chapter8-AlterationOfTheConstitution.txt,1,chapter5-TheStates.txt,2.386,preamble.txt,1,FIT5136.txt,1,chapter2-TheExecutiveGovernment.txt,1.693,chapter1-TheParliament.txt,3.197,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,2.099,USCongress.txt,1.693,chapter3-TheJudicature.txt,1.693,FIT5166.txt,1,chapter6-NewStates.txt,1,0.268
+appoint,FIT5047.txt,1,chapter7-Miscellaneous.txt,1.693,WeThePeople.txt,3.303,preamble.txt,2.386,FIT5136.txt,1,UKParliament.txt,1.693,chapter2-TheExecutiveGovernment.txt,2.099,chapter1-TheParliament.txt,3.639,FIT5046.txt,1,chapter4-FinanceAndTrade.txt,1.693,USCongress.txt,2.609,chapter3-TheJudicature.txt,3.303,FIT5166.txt,1,0.268

@@ -1,0 +1,6 @@
+thing,D1.txt,1,D3.txt,1,0.916
+dog,D2.txt,1,D1.txt,1,0.916
+eat,D1.txt,1.693,D3.txt,1,0.916
+plai,D5.txt,1,D4.txt,1,0.916
+cat,D5.txt,1.693,D1.txt,1,D4.txt,1,0.511
+mous,D2.txt,1,D4.txt,1,D3.txt,1,0.511

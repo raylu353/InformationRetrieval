@@ -1,0 +1,273 @@
+FIT5166 Information retrieval systems - Semester 2, 2014
+This unit presents students with the theory and practice underlying computerised information retrieval. Topics covered include: history and context of information retrieval systems, retrieval models, Boolean, vector space and probabilistic, evaluation strategies, test collections, web search engines, indexing, content-based multimedia retrieval and relevance feedback.
+
+Mode of Delivery
+
+Caulfield (Day)
+Workload Requirements
+
+Minimum total expected workload equals 12 hours per week comprising:
+
+(a.) Contact hours for on-campus students:
+
+Two hours of lectures
+One 2-hour laboratory
+(b.) Additional requirements (all students):
+
+A minimum of 8 hours independent study per week for completing lab and project work, private study and revision.
+Additional workload requirements
+
+A Java Programming self-test (not marked) to ensure that students are aware of what they need to brush up on for this unit has been added for Week 1.
+
+Unit Relationships
+
+Prerequisites
+
+(FIT5131 or FIT9017) and (FIT5132 or FIT9003 or FIT9019)) or equivalent
+
+Chief Examiner
+
+Dr Grace Rumantir
+
+Campus Lecturer
+
+Caulfield
+
+Grace Rumantir
+
+Consultation hours: Wednesday 2pm-4pm
+
+Tutors
+
+Caulfield
+
+Ashishkumar Singh
+
+Consultation hours: TBA
+
+Yuan Jin
+
+Consultation hours: TBA
+
+Your feedback to Us
+
+Monash is committed to excellence in education and regularly seeks feedback from students, employers and staff. One of the key formal ways students have to provide feedback is through the Student Evaluation of Teaching and Units (SETU) survey. The University¡¯s student evaluation policy requires that every unit is evaluated each year. Students are strongly encouraged to complete the surveys. The feedback is anonymous and provides the Faculty with evidence of aspects that students are satisfied and areas for improvement.
+
+For more information on Monash¡¯s educational strategy, see:
+
+www.monash.edu.au/about/monash-directions/ and on student evaluations, see: www.policy.monash.edu/policy-bank/academic/education/quality/student-evaluation-policy.html
+
+Academic Overview
+Learning Outcomes
+
+At the completion of this unit students will:
+appreciate the context and application of information retrieval systems;
+understand the different models of information retrieval and their comparative advantages and disadvantages;
+understand how objective and subjective evaluation strategies are used with information retrieval systems;
+be conversant with the issues and challenges of managing very large collections of heterogeneous data for information retrieval;
+understand how web search engines and search algorithms are constructed, utilised and deployed;
+appreciate how to index different media;
+understand how information retrieval systems can be used for the retrieval of audio-visual information;
+appreciate the theoretical and practical underpinnings of relevance feedback in information retrieval systems.
+Unit Schedule
+Week	Activities	Assessment
+0	This schedule is subject to change, please refer to the Lecturer for updates	No formal assessment or activities are undertaken in week 0
+1	Introduction	There is a self-assessed test (not marked) on Java programming on Moodle that will be discussed in Week 1 tutorial. Please complete this to see if you need to do further study prior to completing this unit.
+2	The Boolean Model and Simple Linguistic Analyses	Quizzes and Clicker Tests will be scheduled for each week from Week 2 onwards
+3	The Vector Space Model	 
+4	Web Search	 
+5	Evaluation	 
+6	Relevance Feedback	 
+7	Language Models	 
+8	Unit Test (during the lecture timeslot, tutorials are still on)	Unit Test during Week 8 lecture (Tuesday 16 September 2014)
+9	The Probabilistic Model	Assignment Stage 1 due start of Week 9 lecture (Tuesday 23 September 2014)
+10	Text Classification	 
+11	Practical IR	Assignment Stage 2 due start of Week 11 lecture (Tuesday 14 October 2014)
+12	Content-based Image Retrieval & Revision	 
+ 	SWOT VAC	No formal assessment is undertaken in SWOT VAC
+ 	Examination period	LINK to Assessment Policy: http://policy.monash.edu.au/policy-bank/
+academic/education/assessment/
+assessment-in-coursework-policy.html
+*Unit Schedule details will be maintained and communicated to you via your learning system.
+
+Teaching Approach
+
+Lecture and tutorials or problem classes
+This teaching and learning approach helps students to initially encounter information at lectures, discuss and explore the information during tutorials, and practice in a hands-on lab environment.
+Assessment Summary
+
+Examination (2 hours): 50%; In-semester assessment: 50%
+
+Assessment Task	Value	Due Date
+Unit Test	20%	Unit Test during Week 8 lecture (Tuesday 16 September 2014)
+Assignment: Information Retrieval System Implementation	20%	Assignment Stage 1 due start of Week 9 lecture (Tuesday 23 September 2014). Assignment Stage 2 due start of Week 11 lecture (Tuesday 14 October 2014)
+Weekly Quizzes	5%	From Week 2 onwards, each weekly quiz will be open on Wednesday at 6pm and will be closed on Monday the following week at 11.55pm
+Clicker Test - Weekly Unit Preparation	5%	From Week 2 onwards, during the weekly lecture timeslot
+Examination 1	50%	To be advised
+Assessment Requirements
+Assessment Policy
+
+Faculty Policy - Unit Assessment Hurdles (http://intranet.monash.edu.au/infotech/resources/staff/edgov/policies/assessment-examinations/assessment-hurdles.html)
+
+Academic Integrity - Please see resources and tutorials at http://www.monash.edu/library/skills/resources/tutorials/academic-integrity/
+
+Assessment Tasks
+
+Participation
+
+Assessment task 1
+
+Title:
+Unit Test
+Description:
+Closed-book unit test to be conducted in the lecture time slot in Week 8.
+Weighting:
+20%
+Criteria for assessment:
+Correct answers to questions, and quality of solutions to problems, which demonstrates understanding of the learning materials. Further detail of the format and coverage of the unit test will be made available on Moodle.
+Due date:
+Unit Test during Week 8 lecture (Tuesday 16 September 2014)
+Remarks:
+The unit test will be conducted during the Week 8 lecture time slot. Week 8 tutorials will still run as per normal.
+Assessment task 2
+
+Title:
+Assignment: Information Retrieval System Implementation
+Description:
+Implement a vector-space based information indexing and retrieval system. The system must be written in Java. More detailed specifications will be provided in Week 5.
+Weighting:
+20%
+Criteria for assessment:
+The degree to which the assignment implementation meets the requires specifications. Further assessment criteria and marking sheet will be made available on the unit Moodle site. The assignment has 2 stages: Stage 1: Write up of problem definition and the plan on how to program will be implemented and tested (non assessable). Stage 2: Submission (20%)
+
+Due date:
+Assignment Stage 1 due start of Week 9 lecture (Tuesday 23 September 2014). Assignment Stage 2 due start of Week 11 lecture (Tuesday 14 October 2014)
+Remarks:
+Both stages of the assignment are to be submitted at the start of the lecture of the week they are due. Penalty for late submission applies.
+Assessment task 3
+
+Title:
+Weekly Quizzes
+Description:
+Starting from Week 2, there will be 9 weekly quizzes of 10 Multiple Choice Questions each on Moodle.
+Weighting:
+5%
+Criteria for assessment:
+Correct anwer to each question in each quiz.  There is no penalty mark for wrong answer.
+
+Due date:
+From Week 2 onwards, each weekly quiz will be open on Wednesday at 6pm and will be closed on Monday the following week at 11.55pm
+Assessment task 4
+
+Title:
+Clicker Test - Weekly Unit Preparation
+Description:
+Students will be asked to read from a reading list for each week and there will be Multiple Choice Questions during the lecture that students will submit the answers to using their clickers.  Further information on this assessment task will be given in Week 1 lecture.
+Weighting:
+5%
+Criteria for assessment:
+Submission of each answer is to be done via a clicker registered to each student during the lecture timeslot. So, this means students will need to attend the weekly lecture to submit their answers.
+Due date:
+From Week 2 onwards, during the weekly lecture timeslot
+Examinations
+
+Examination 1
+
+Weighting:
+50%
+Length:
+2 hours
+Type (open/closed book):
+Closed book
+Electronic devices allowed in the exam:
+Scientific Calculators
+Learning resources
+
+Monash Library Unit Reading List (if applicable to the unit)
+http://readinglists.lib.monash.edu/index.html
+
+Faculty of Information Technology Style Guide
+
+Feedback to you
+
+Examination/other end-of-semester assessment feedback may take the form of feedback classes, provision of sample answers or other group feedback after official results have been published. Please check with your lecturer on the feedback provided and take advantage of this prior to requesting individual consultations with staff. If your unit has an examination, you may request to view your examination script booklet, see http://intranet.monash.edu.au/infotech/resources/students/procedures/request-to-view-exam-scripts.html
+
+Types of feedback you can expect to receive in this unit are:
+
+Informal feedback on progress in labs/tutes
+Graded assignments with comments
+Test results and feedback
+Quiz results
+Extensions and penalties
+
+Submission must be made by the due date otherwise penalties will be enforced.
+
+You must negotiate any extensions formally with your campus unit leader via the in-semester special consideration process: http://www.monash.edu.au/exams/special-consideration.html
+
+Returning assignments
+
+Students can expect assignments to be returned within two weeks of the submission date or after receipt, whichever is later.
+
+Referencing requirements
+
+Referencing should follow the IEEE style.
+
+Assignment submission
+
+It is a University requirement (http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-academic-integrity-managing-plagiarism-collusion-procedures.html) for students to submit an assignment coversheet for each assessment item. Faculty Assignment coversheets can be found at http://www.infotech.monash.edu.au/resources/student/forms/. Please check with your Lecturer on the submission method for your assignment coversheet (e.g. attach a file to the online assignment submission, hand-in a hard copy, or use an online quiz). Please note that it is your responsibility to retain copies of your assessments.
+
+Online submission
+
+If Electronic Submission has been approved for your unit, please submit your work via the learning system for this unit, which you can access via links in the my.monash portal.
+
+Technological Requirements
+
+From Week 2 onwards, students are to bring a registered clicker to the lecture.
+
+Recommended Resources
+
+Recommended reading will be provided during the lectures as appropriate.
+
+Other Information
+Policies
+
+Monash has educational policies, procedures and guidelines, which are designed to ensure that staff and students are aware of the University¡¯s academic standards, and to provide advice on how they might uphold them. You can find Monash¡¯s Education Policies at: www.policy.monash.edu.au/policy-bank/academic/education/index.html
+
+Key educational policies include:
+
+Student Academic Integrity Policy and Student Academic Integrity: Managing Plagiarism and Collusion Procedures ; http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-academic-integrity-policy.html
+Assessment in Coursework Programs; http://www.policy.monash.edu/policy-bank/academic/education/assessment/assessment-in-coursework-policy.html
+Special Consideration; http://www.policy.monash.edu/policy-bank/academic/education/assessment/special-consideration-policy.html
+Grading Scale; http://www.policy.monash.edu/policy-bank/academic/education/assessment/grading-scale-policy.html
+Discipline: Student Policy; http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-discipline-policy.html
+Academic Calendar and Semesters; http://www.monash.edu.au/students/dates/
+Orientation and Transition; http://intranet.monash.edu.au/infotech/resources/students/orientation/
+Academic and Administrative Complaints and Grievances Policy; http://www.policy.monash.edu/policy-bank/academic/education/management/complaints-grievance-policy.html
+Faculty resources and policies
+
+Important student resources including Faculty policies are located at http://intranet.monash.edu.au/infotech/resources/students/
+
+Graduate Attributes Policy
+
+http://www.policy.monash.edu/policy-bank/academic/education/management/monash-graduate-attributes-policy.html
+
+Student Charter
+
+www.opq.monash.edu.au/ep/student-charter/monash-university-student-charter.html
+
+Student services
+
+The University provides many different kinds of support services for you. Contact your tutor if you need advice and see the range of services available at http://www.monash.edu.au/students. For Malaysia see http://www.monash.edu.my/Student-services, and for South Africa see http://www.monash.ac.za/current/.
+
+Monash University Library
+
+The Monash University Library provides a range of services, resources and programs that enable you to save time and be more effective in your learning and research. Go to www.lib.monash.edu.au or the library tab in my.monash portal for more information. At Malaysia, visit the Library and Learning Commons at http://www.lib.monash.edu.my/. At South Africa visit http://www.lib.monash.ac.za/.
+
+Disability Liaison Unit
+
+Students who have a disability or medical condition are welcome to contact the Disability Liaison Unit to discuss academic support services. Disability Liaison Officers (DLOs) visit all Victorian campuses on a regular basis.
+
+Website: http://www.monash.edu/equity-diversity/disability/index.html
+Telephone: 03 9905 5704 to book an appointment with a DLO; or contact the Student Advisor, Student Commuity Services at 03 55146018 at Malaysia
+Email: dlu@monash.edu
+Drop In: Equity and Diversity Centre, Level 1, Building 55, Clayton Campus, or Student Community Services Department, Level 2, Building 2, Monash University, Malaysia Campus

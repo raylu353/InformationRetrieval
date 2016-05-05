@@ -1,0 +1,17 @@
+Microsoft Mobile is providing you with certain software and content owned by Microsoft Mobile or its licensors (��Software��). This agreement is between you and Microsoft Mobile Oy and its affiliates, if you are U.S. resident, between you and Nokia Inc.  and supersedes any prior communications relating to the Software. This is an agreement on limited, non-commercial end-user rights and not an agreement for sale.
+
+Your end-user rights automatically and immediately terminate without notice from Microsoft Mobile if you fail to comply with any provisions of this agreement.
+
+You may install and use one copy of the Software on your Microsoft Mobile device and/or computer. Microsoft Mobile grants you no other rights or licenses, whether express or implied. You may not transfer, distribute, modify, translate, sell, sublicense, rent, lease, reverse engineer or otherwise attempt to discover the source code or make derivative works of the Software. For Open Source licensed Software, applicable Open Source terms apply.
+
+Your device may check the availability of software updates from Microsoft Mobile. Microsoft Mobile may provide updates to the Software that are considered important or critical by Microsoft Mobile, and in such case you may not continue using the previous version of the Software.
+
+The Software maybe subject to export controls under the U.S. Export Administration Regulations and other import or export control regulations. You agree to strictly comply with all applicable import and export regulations and acknowledge that you have the responsibility to obtain licenses to export, re-export, transfer, or import the Software.
+
+To the maximum extent permitted by applicable law, (i) the Software is provided ��AS IS�� without warranty or support of any kind; and (ii) Microsoft Mobile, its employees, and licensors are not liable for any damages whatsoever, including without limitation direct or indirect damages.  If your jurisdiction does not allow the exclusion of liability but does allow liability to be limited, then your maximum recovery is U.S. $ 50.
+
+These terms neither exclude nor limit any of your mandatory rights in your country of residence that cannot by law be waived. If a provision of this agreement is found to be invalid, the validity of the remaining provisions is not affected.
+
+This agreement is governed by the laws of Finland without regard to its conflict of law provisions. If you are a U.S. resident, this agreement is governed by the laws of New York, without regard to its choice of law provisions, and in such case the exclusive jurisdiction and venue for any action to enforce this agreement are the applicable federal or state courts in New York County, New York.
+
+HD
